@@ -1,0 +1,8 @@
+Origin: NDK's Repo
+Label: NDK's Oficial Repo
+Suite: stable 
+Version: 1.0 
+Codename: ios 
+Architectures: iphoneos-arm 
+Components: main 
+Description: Tổng hợp các tweak hay cho ios
