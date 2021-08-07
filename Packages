@@ -15,7 +15,7 @@ Filename: debs//com.ndk.ios14_1.0_iphoneos-arm.deb
 Package: com.ndk.ios14wg
 Name: iOS 14 Wigdet
 Version: 1.0
-Size: 153380
+Size: 861200 
 Architecture: iphoneos-arm
 Description: Wigdet như iOS 14 kích hoạt qua Xen HTML
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
