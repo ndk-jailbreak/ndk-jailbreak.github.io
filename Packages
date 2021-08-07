@@ -35,8 +35,8 @@ Description: Wigdet iOS 14 kích hoạt qua Xen HTML
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: KhanhNDK
 Section: Wigdets
-MD5sum: 8fcd38305e5f448fe1e2f6ce529b21f7
-SHA1sum: 816552097ce674f70f4a5081e292651d75b7da45
-SHA256sum:d808b74c880c95f072ac6c771ce80e90fdcd4fc1b9e76a1bfd4835e91e831cc1
+MD5sum: 3f86ad11e05a1808c10ae5ad640534a3
+SHA1sum: 08f017b99c170c13ff7d90ff7a2b8f462be5150a
+SHA256sum: f1b9e632737309dbdfa082ddb23a33228754f050fb9b4bea7b2a01afb6dc84ce
 Filename: debs//com.ndk.ios14wg_1.0_iphoneos-arm.deb
 
