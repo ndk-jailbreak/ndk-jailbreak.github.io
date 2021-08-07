@@ -39,3 +39,32 @@ MD5sum: c718307157baca1f806ec6f050cf3f55
 SHA1sum: 0b6feb0a7e3f759f69d047a53b22f5086bf31c8d
 SHA256sum: d240cae92b7b58dc023a7a0591b53a1f3a3818a53f19aa4460e942b92207ef70
 Filename: debs//com.ndk.ios14wg_1.0_iphoneos-arm.deb
+
+Package: com.ndk.littlexsvn
+Name: LittleXS VN
+Version: 2.4.4
+Size: 21832 
+Architecture: iphoneos-arm
+Description: Đem Cử Chỉ iPhone X Lên iOS 11-12
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: KhanhNDK
+Section: Tweaks
+MD5sum: ed430869bba681258331e1bfb16bed93
+SHA1sum: dff3dd14dfd7c5a452a29553762628cffd634101
+SHA256sum: 17177fc5a13e6975fcd002b47b5dbb6635e34d6c42ffe92273efb775aac79e96
+Filename: debs//com.ndk.littlexsvn_2.4.4_iphoneos-arm.deb
+
+Package: com.ndk.13hudvn
+Name: 13HUD VN
+Version: 1.0.1
+Size: 31220 
+Architecture: iphoneos-arm
+Description: Mang Thanh Điều Chỉnh iOS 13 Lên iOS 11-12
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: KhanhNDK
+Section: Tweaks
+MD5sum: 76ce59b20c895a936a06136ab6fe5d0b
+SHA1sum: ef1c63eef02c2f617eda00359a8b572ebf1022f4
+SHA256sum: 3da1fa67dedbe36f7af4738b7bf2c49501bcbefb3eb6d68b5710ba547f098642
+Filename: debs//com.ndk.13hudvn_1.0.1_iphoneos-arm.deb
+
