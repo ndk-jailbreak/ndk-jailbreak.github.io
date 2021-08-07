@@ -25,3 +25,17 @@ MD5sum: c718307157baca1f806ec6f050cf3f55
 SHA1sum: 0b6feb0a7e3f759f69d047a53b22f5086bf31c8d
 SHA256sum: d240cae92b7b58dc023a7a0591b53a1f3a3818a53f19aa4460e942b92207ef70
 Filename: debs//com.ndk.ios14wg_1.0_iphoneos-arm.deb
+
+Package: com.ndk.masktaitho
+Name: Mask Tai Thỏ
+Version: 1.0
+Size: 71136 
+Architecture: iphoneos-arm
+Description: Mask Tai Thỏ kích hoạt qua iThemer hoặc SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: KhanhNDK
+Section: Themes
+MD5sum: 3bf1af420bd1002f0dfc44346a8b9ce9
+SHA1sum: faeb787f637f2e2fec14d5a483ff01c5df9b89ef
+SHA256sum: 16b390a3e0782c179280fc40b965324607b558f7c0c8e8f7ae8040b8b760133d
+Filename: debs//com.ndk.masktaitho_1.0_iphoneos-arm.deb
