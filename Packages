@@ -23,7 +23,7 @@ Author: KhanhNDK
 Section: Themes
 MD5sum: 3f86ad11e05a1808c10ae5ad640534a3
 SHA1sum: 08f017b99c170c13ff7d90ff7a2b8f462be5150a
-SHA256sum: f1b9e632737309dbdfa082ddb23a33228754f050fb9b4bea7b2a01afb6dc84ce
+SHA256sum: f1b9e632737309dbdfa082ddb23a33228754f050fb9b4bea7e2a01afb6dc84ce
 Filename: debs//com.ndk.ios14_1.0_iphoneos-arm.deb
 
 Package: com.ndk.ios14wg
