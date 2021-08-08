@@ -47,7 +47,7 @@ Size: 21832
 Architecture: iphoneos-arm
 Description: Đem Cử Chỉ iPhone X Lên iOS 11-12
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: KhanhNDK
+Author: blinksalex & Ryan Nair
 Section: Tweaks
 MD5sum: ed430869bba681258331e1bfb16bed93
 SHA1sum: dff3dd14dfd7c5a452a29553762628cffd634101
@@ -61,10 +61,135 @@ Size: 31220
 Architecture: iphoneos-arm
 Description: Mang Thanh Điều Chỉnh iOS 13 Lên iOS 11-12
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: KhanhNDK
+Author: Muirey03
 Section: Tweaks
 MD5sum: 76ce59b20c895a936a06136ab6fe5d0b
 SHA1sum: ef1c63eef02c2f617eda00359a8b572ebf1022f4
 SHA256sum: 3da1fa67dedbe36f7af4738b7bf2c49501bcbefb3eb6d68b5710ba547f098642
 Filename: debs//com.ndk.13hudvn_1.0.1_iphoneos-arm.deb
 
+Package: com.ndk.halfipad
+Name: HalfiPad
+Version: 3.3.0
+Size: 40048 
+Architecture: iphoneos-arm
+Description: Mang Cử Chỉ Của iPhone X Lên Các Dòng iPhone Cũ
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Hius
+Section: Tweaks
+MD5sum: b027d4e457def2eccb235075b962096b
+SHA1sum: a386fe507ca2b2eb10fb217c3508850f7fe2ab1d
+SHA256sum: 7f3406875f763b39cf1ee7ca07438842ba2ff9357713e93214af89e24b519da4
+Filename: debs//com.ndk.halfipad_3.3.0_iphoneos-arm.deb
+
+Package: com.ndk.homegesturelitevn
+Name: HomeGesture Lite VN
+Version: 1.5
+Size: 3576  
+Architecture: iphoneos-arm
+Description: Mang Cử Chỉ Của iPhone X Lên Các Dòng iPhone Cũ Yêu Cầu Thêm Tweak iPadStatusBar hoặc StatusBarXS Để Tránh SafeMode Khi Vuốt CC Ở iOS 11-12. Hỗ Trợ iOS 11-14.6
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: VitaTaf
+Section: Tweaks
+MD5sum: 1c27dd97e4ac1f4d941b27abeb957e88
+SHA1sum: d584cb647de8c59de3fd4e8a884dfb67534bd833
+SHA256sum: 5568900a53da5a2f3cef7df217e37e2abcf51d5509e164fc0b75d1fc2567bf57
+Filename: debs//com.ndk.homegesturelitevn_1.5_iphoneos-arm.deb
+
+Package: com.ndk.sugarcanevn
+Name: SugarCane VN
+Version: 1.0.0
+Size: 5664 
+Architecture: iphoneos-arm
+Description:  Hiển Thị Phần Trăm Trên Thanh Trượt Ở ControlCenter
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: iOS Creatix
+Section: Tweaks
+MD5sum: 473ba8a1d77b22122df9228867443898
+SHA1sum: adef970a4682ba884c1287a4c75eb86d01a42d5e
+SHA256sum: 19fc18eab29a41e4a3d32629096b3f3783e0b25963fb13c90070af20900f762f
+Filename: debs//com.ndk.sugarcanevn_1.0.0_iphoneos-arm.deb
+
+Package: com.ndk.ipadstatusbarvn
+Name: iPadStatusBar VN
+Version: 1.1.6
+Size: 29812
+Architecture: iphoneos-arm
+Description:  Mang Thanh Trạng Thái Của iPad Lên iPhone Hỗ Trợ iOS 12-14
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: NoisyFlake
+Section: Tweaks
+MD5sum: db9963ba67bde18bf1c55ece51f7f95e
+SHA1sum: 7570255e8442a180b5330276628fbe408efe9572
+SHA256sum: 1987c4bd6266779ebaac7063e7f65dd38f3347bb9d2c9a980e3038283244e819
+Filename: debs//com.ndk.ipadstatusbarvn_1.1.6_iphoneos-arm.deb
+
+Package: com.ndk.statusbarxs
+Name: StatusBarXS
+Version: 1.2
+Size: 3800
+Architecture: iphoneos-arm
+Description: Mang Thanh Trạng Thái iPhone X Lên Các Dòng iPhone Cũ Từ iOS 12-14
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: dpkg_
+Section: Tweaks
+MD5sum: 7356e276b72718913bfaeace02157a3e
+SHA1sum: 838702fd10fd796e103f833475e1fd5275473df5
+SHA256sum: 5e945f075481a946bd71b24d7326a88cd3b867c378ea93cdd1efe26efc15f7fb
+Filename: debs//com.ndk.statusbarxs_1.2_iphoneos-arm.deb
+
+Package: com.ndk.keyboardx
+Name: KeyBoard X
+Version: 0.0.2
+Size: 2584
+Architecture: iphoneos-arm
+Description: Nâng Bán Phím Lên Như iPhone Xx Ho Các Dòng iPhone Cũ
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: clarityzzz
+Section: Tweaks
+MD5sum: dbf24822a3b560187f699d2c90aa818f
+SHA1sum: 62d25363030254d4be7f9519056dd144aa1aa18f
+SHA256sum: 4b9b04114471926766eb897eaac078f8567336011ce2f643693b23f12174729e
+Filename: debs//com.ndk.keyboardx_0.0.2_iphoneos-arm.deb
+
+Package: com.ndk.autohidehomebarxvn
+Name: AutoHideHomeBarX VN
+Version: 1.0.4
+Size: 25624
+Architecture: iphoneos-arm
+Description: Tự Động Ẩn Thanh Home X. Hỗ Trợ iOS 11-13 
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Asterix
+Section: Tweaks
+MD5sum: e992f346ed902ba808bf876234c5239d
+SHA1sum: eaab647b170134c9a483ac03f404a8b5b697c9f9
+SHA256sum: 63aedbf05394ea90e9b82359e25e78b995112b636e295f90ce36a366351ea96f
+Filename: debs//com.ndk.autohidehomebarxvn_1.0.4_iphoneos-arm.deb
+
+Package: com.ndk.barmoji
+Name: Barmoji
+Version: 2020.5
+Size: 59484
+Architecture: iphoneos-arm
+Description:  Thêm Các Emoji Vào Dưới Bàn Phím iPhone X. Hỗ Trợ iOS 11-13
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: CP Digital Darkroom
+Section: Tweaks
+MD5sum: 72d0a3c5fed53aed65f65570d529da36
+SHA1sum: 7cb4beef2758e456bee303986e697fb99027ae51
+SHA256sum: dc3b0f93620a552d4aea85ad6aac9626f567eb3928667e9331b3acce113a35a4
+Filename: debs//com.ndk.barmoji_2020.5_iphoneos-arm.deb
+
+Package: com.ndk.rgboardvn
+Name: RGBoard VN
+Version: 1.0.5
+Size: 278948
+Architecture: iphoneos-arm
+Description: Cải Thiện Bàn Phím Của Bạn. Hỗ Trợ iOS 12-13.6
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: MiRO
+Section: Tweaks
+MD5sum: 757fdb97082e59fb2258c21b09db7c16
+SHA1sum: d7709e7e5f84a1ca16dbf6f1d1b83aa28a7e5e9d
+SHA256sum: d15580ce1013dd6291e4dfb4650ff20be9aeaa617949cb56896363be37ab354e
+Filename: debs//com.ndk.rgboardvn_1.0.5_iphoneos-arm.deb
