@@ -1,4 +1,3 @@
-
 Package: com.ndk.ios14
 Name: iOS 14 (iOS12)
 Version: 1.0
@@ -196,7 +195,7 @@ SHA256sum: d15580ce1013dd6291e4dfb4650ff20be9aeaa617949cb56896363be37ab354e
 Filename: debs//com.ndk.rgboardvn_1.0.5_iphoneos-arm.deb
 
 Package: com.ndk.neptunevn
-Name: Neptune VN
+Name: Neptune for iPhone VN
 Version: 1.2
 Size: 145760 
 Architecture: iphoneos-arm
