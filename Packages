@@ -1,3 +1,4 @@
+
 Package: com.ndk.ios14
 Name: iOS 14 (iOS12)
 Version: 1.0
@@ -193,3 +194,17 @@ MD5sum: 757fdb97082e59fb2258c21b09db7c16
 SHA1sum: d7709e7e5f84a1ca16dbf6f1d1b83aa28a7e5e9d
 SHA256sum: d15580ce1013dd6291e4dfb4650ff20be9aeaa617949cb56896363be37ab354e
 Filename: debs//com.ndk.rgboardvn_1.0.5_iphoneos-arm.deb
+
+Package: com.ndk.neptunevn
+Name: Neptune VN
+Version: 1.2
+Size: 145760 
+Architecture: iphoneos-arm
+Description: Mang Cử Chỉ iPhone X Lên Các Dòng iPhone Cũ
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: duraidabdul
+Section: Tweaks
+MD5sum: 8072d55d39c4c9e7f96f97fc9e4b2f7c
+SHA1sum: d48bf8b6e64d214910b0c9835c28250535b10158
+SHA256sum: e263a0f976f5b7cf2814d3b3f3cbd2a7bf7cdd65c10d3492c0697c16f11e9246
+Filename: debs//com.ndk.neptunevn_1.2_iphoneos-arm.deb
