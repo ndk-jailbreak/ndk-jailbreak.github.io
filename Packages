@@ -221,3 +221,17 @@ MD5sum: 7bf87bf0646f1fdf49517189ce18b693
 SHA1sum: 97194f62ca58a01e79d9fcad4457dbfbc69ed8e9
 SHA256sum: a4ca12d506551cc48612fa0195f6ab6cf27e30ffa5c53c2407d4524e3cb49a3c
 Filename: debs//com.ndk.gineso_1.0_iphoneos-arm.deb
+
+Package: com.ndk.volterounded
+Name: Volte Rounded Font
+Version: 1.0
+Size: 8912188 
+Architecture: iphoneos-arm
+Description: Font Volte Rounded Kích Hoạt Qua SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Alexman
+Section: Fonts
+MD5sum: 6bb58710b6c9f0586a794bf807205a3c
+SHA1sum: 6e8d3eb79556058a7bade7f7868be55412cd5146
+SHA256sum: ee98765771374eb8abafa425f59aa8655685184860eb5164d9075a1de371c492
+Filename: debs//com.ndk.volterounded_1.0_iphoneos-arm.deb
