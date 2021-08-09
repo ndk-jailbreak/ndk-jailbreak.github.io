@@ -222,30 +222,16 @@ SHA1sum: 97194f62ca58a01e79d9fcad4457dbfbc69ed8e9
 SHA256sum: a4ca12d506551cc48612fa0195f6ab6cf27e30ffa5c53c2407d4524e3cb49a3c
 Filename: debs//com.ndk.gineso_1.0_iphoneos-arm.deb
 
-Package: com.ndk.volterounded
-Name: Volte Rounded Font
-Version: 1.0
-Size: 8912188 
+Package: com.ndk.proundlockxrvn
+Name: ProundLock Xr VN
+Version: 0.3-3
+Size: 1136428
 Architecture: iphoneos-arm
-Description: Font Volte Rounded Kích Hoạt Qua SnowBoard
+Description: Hiển Thị Biểu Tượng Khoá Như iPhone X
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: Alexman
-Section: Fonts
-MD5sum: 6bb58710b6c9f0586a794bf807205a3c
-SHA1sum: 6e8d3eb79556058a7bade7f7868be55412cd5146
-SHA256sum: ee98765771374eb8abafa425f59aa8655685184860eb5164d9075a1de371c492
-Filename: debs//com.ndk.volterounded_1.0_iphoneos-arm.deb
-
-Package: com.ndk.ciutardellarounded
-Name: Ciutardella Rounded Font
-Version: 1.0
-Size: 9154988
-Architecture: iphoneos-arm
-Description: Font Ciutardella Rounded Kích Hoạt Qua SnowBoard
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: Alexman
-Section: Fonts
-MD5sum: e8bd845671409728e73775a056989aa7
-SHA1sum: 92c8166027c5ee15e4e1bb96fbb0d1dcf885452e
-SHA256sum: 13844bdfb92811cc4ce11c9364c676b1cf3a4321c7679e7dbe2b3a21559c8ce8
-Filename: debs//.deb
+Author: Sniper_GER
+Section: Tweaks
+MD5sum: 5e9133e9638d08a3691de3d1a050235e
+SHA1sum: 77a9bcb8ba47fc12ae6971f7239512f981373ea4
+SHA256sum: 80adda3c1f62fc05d6d09cb6bdd011b81261d0bd7b1b1836a7885f6205b4b87f
+Filename: debs//com.ndk.proudlockxrvn_0.3-3_iphoneos-arm.deb
