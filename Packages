@@ -291,3 +291,17 @@ MD5sum: f9c51a255520b2da5c80b633aff6a85f
 SHA1sum: 404fb8bf443e34a3ac2e43b75cb3f818c66d5f33
 SHA256sum: 07cece286ad6adc4642fb58f19e445ca704ecabf0ac8856e4291fa16f2e4e2b0
 Filename: debs//com.ndk.sfcompactrounded_1.0_iphoneos-arm.deb
+
+Package: com.ndk.fbfreezevn
+Name: FBFreeze VN
+Version: 2.0
+Size: 307040
+Architecture: iphoneos-arm
+Description: Tắt Đã Xem Trong Ứng Dụng Facebook Messenger
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: MiRO
+Section: Tweaks
+MD5sum: 38c2abf5b56541af3852dbd9ffd7166d
+SHA1sum: 06cdad9649691c690e2ffa5e48fb70c399590711
+SHA256sum: 74bf572067c92d39a68aaddcc5f5d70712449ae27c9bd8f554bd959847b29326
+Filename: debs//com.ndk.fbfreezevn_2.0_iphoneos-arm.deb
