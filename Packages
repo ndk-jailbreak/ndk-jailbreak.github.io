@@ -338,3 +338,17 @@ Filename: debs//com.ndk.anime_1.0.92_iphoneos-arm.deb
 =======
 Filename: debs//com.ndk.fbfreezevn_2.0_iphoneos-arm.deb
 >>>>>>> 4b4ac1fcc9f8fceac69ff28f5a13a8655e7e7a61
+
+Package: com.ndk.clockvietnam
+Name: Clock Việt Nam!
+Version: 1.0
+Size: 16637340
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML 
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: @ongcenh
+Section: Tweaks
+MD5sum: 13ccb24b5c14c49c254e6f0cc07d5137
+SHA1sum: 620f2808eedc9cbe81d7ec5a393e87c77171f597
+SHA256sum: d0bbf13ced41e357a664bda83e5d50de90ba516a293980c470c134244705c182
+Filename: debs//com.ndk.clockvietnam_1.0_iphoneos-arm.deb
