@@ -263,3 +263,74 @@ MD5sum: e8bd845671409728e73775a056989aa7
 SHA1sum: 92c8166027c5ee15e4e1bb96fbb0d1dcf885452e
 SHA256sum: 13844bdfb92811cc4ce11c9364c676b1cf3a4321c7679e7dbe2b3a21559c8ce8
 Filename: debs//com.ndk.ciutadellarounded_1.0_iphoneos-arm.deb
+
+Package: com.ndk.googlesans
+Name: Google Sans Font
+Version: 1.0
+Size: 3767408 
+Architecture: iphoneos-arm
+Description: Font Google Sans Kích Hoạt Qua SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Alexman
+Section: Fonts
+MD5sum: c8b6d3bbfe6cb69efa06e762b3695d65
+SHA1sum: 92c8166027c5ee15e4e1bb96fbb0d1dcf885452e
+SHA256sum: 067a4830825ad41ad73ec37735873fbbcb4df50608a06b0e4639ff716dee990f
+Filename: debs//com.ndk.googlesans_1.0_iphoneos-arm.deb
+
+Package: com.ndk.sfcompactrounded
+Name: SF Compact Rounded Font
+Version: 1.0
+Size: 12752036 
+Architecture: iphoneos-arm
+Description: Font SF Compact Rounded Kích Hoạt Qua SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Alexman
+Section: Fonts
+MD5sum: f9c51a255520b2da5c80b633aff6a85f
+SHA1sum: 404fb8bf443e34a3ac2e43b75cb3f818c66d5f33
+SHA256sum: 07cece286ad6adc4642fb58f19e445ca704ecabf0ac8856e4291fa16f2e4e2b0
+Filename: debs//com.ndk.sfcompactrounded_1.0_iphoneos-arm.deb
+
+Package: com.ndk.fbfreezevn
+Name: FBFreeze VN
+Version: 2.0
+Size: 307040
+Architecture: iphoneos-arm
+Description: Tắt Đã Xem Trong Ứng Dụng Facebook Messenger
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: MiRO
+Section: Tweaks
+MD5sum: 38c2abf5b56541af3852dbd9ffd7166d
+SHA1sum: 06cdad9649691c690e2ffa5e48fb70c399590711
+SHA256sum: 74bf572067c92d39a68aaddcc5f5d70712449ae27c9bd8f554bd959847b29326
+Filename: debs//com.ndk.fbfreezevn_2.0_iphoneos-arm.deb
+
+Package: com.ndk.cover
+Name: Cover
+Version: 1.6.7
+Size: 24351052
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Trương Tam Phong
+Section: Wigdets
+MD5sum: 6518ae623d9a3a49208d641ba2cc1aeb
+SHA1sum: cfcd4f7951700840d306ccbd98d3959df6512e45
+SHA256sum: 062f85051ac67dea5b58af5c010b9ab30a2eb43ed739fa25f950df38dadb6e9f
+Filename: debs//com.ndk.cover_1.6.7_iphoneos-arm.deb
+
+Package: com.ndk.anime
+Name: Anime
+Version: 1.0.92
+Size: 49260556 
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Trương Tam Phong
+Section: Wigdets
+MD5sum: 474c16e04c735d15eb01a9b8d651fbd0
+SHA1sum: 4bd8b8b937bf428dceb1f1a8311b5484263fd242
+SHA256sum: 3aa11759fbb6d8950f80fbca7c890b8c745caa655f600be09b25a3c4ec9a47dd
+Filename: debs//com.ndk.anime_1.0.92_iphoneos-arm.deb
+
