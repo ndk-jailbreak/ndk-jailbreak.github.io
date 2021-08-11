@@ -342,7 +342,7 @@ Architecture: iphoneos-arm
 Description: Wigdet cho XenHTML 
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: @ongcenh
-Section: Tweaks
+Section: Wigdets
 MD5sum: 13ccb24b5c14c49c254e6f0cc07d5137
 SHA1sum: 620f2808eedc9cbe81d7ec5a393e87c77171f597
 SHA256sum: d0bbf13ced41e357a664bda83e5d50de90ba516a293980c470c134244705c182
