@@ -304,7 +304,6 @@ Section: Tweaks
 MD5sum: 38c2abf5b56541af3852dbd9ffd7166d
 SHA1sum: 06cdad9649691c690e2ffa5e48fb70c399590711
 SHA256sum: 74bf572067c92d39a68aaddcc5f5d70712449ae27c9bd8f554bd959847b29326
-<<<<<<< HEAD
 Filename: debs//com.ndk.fbfreezevn_2.0_iphoneos-arm.deb
 
 Package: com.ndk.cover
@@ -334,10 +333,6 @@ MD5sum: 474c16e04c735d15eb01a9b8d651fbd0
 SHA1sum: 4bd8b8b937bf428dceb1f1a8311b5484263fd242
 SHA256sum: 3aa11759fbb6d8950f80fbca7c890b8c745caa655f600be09b25a3c4ec9a47dd
 Filename: debs//com.ndk.anime_1.0.92_iphoneos-arm.deb
-
-=======
-Filename: debs//com.ndk.fbfreezevn_2.0_iphoneos-arm.deb
->>>>>>> 4b4ac1fcc9f8fceac69ff28f5a13a8655e7e7a61
 
 Package: com.ndk.clockvietnam
 Name: Clock Việt Nam!
