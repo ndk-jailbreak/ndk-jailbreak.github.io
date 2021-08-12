@@ -389,3 +389,17 @@ MD5sum: d7c88911d623953e87d6eecf4e8ac5a5
 SHA1sum: 6d64236111cf09669727e1138e24fa0e33807c8b
 SHA256sum: 9414ac2aa8e9a9dde9d029d478c2d66774bec4ecfb794d256f43f10ec84f161f
 Filename: debs//com.ndk.TTP1508_1.0.2.3_iphoneos-arm.deb
+
+Package: com.ndk.aerelys
+Name: Aerelys
+Version: 1.1.8
+Size: 716476
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: TTP + CodeOne88
+Section: Wigdets
+MD5sum: 9453488a728023f3936ac4acb99af668
+SHA1sum: 030dc48e44e2054ab60b2ce487485be7eb7c00b3
+SHA256sum: 071905a837105424f65c2094ce2ca16ae61eb6bca9154a9777cc5000c6fa8d1a
+Filename: debs//com.ndk.aerelys_1.1.8_iphoneos-arm.deb
