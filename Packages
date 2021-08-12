@@ -189,6 +189,7 @@ Description: Cải Thiện Bàn Phím Của Bạn. Hỗ Trợ iOS 12-13.6
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: MiRO
 Section: Tweaks
+Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/RGBoard%20VN/
 MD5sum: 757fdb97082e59fb2258c21b09db7c16
 SHA1sum: d7709e7e5f84a1ca16dbf6f1d1b83aa28a7e5e9d
 SHA256sum: d15580ce1013dd6291e4dfb4650ff20be9aeaa617949cb56896363be37ab354e
@@ -304,7 +305,6 @@ Section: Tweaks
 MD5sum: 38c2abf5b56541af3852dbd9ffd7166d
 SHA1sum: 06cdad9649691c690e2ffa5e48fb70c399590711
 SHA256sum: 74bf572067c92d39a68aaddcc5f5d70712449ae27c9bd8f554bd959847b29326
-<<<<<<< HEAD
 Filename: debs//com.ndk.fbfreezevn_2.0_iphoneos-arm.deb
 
 Package: com.ndk.cover
@@ -335,6 +335,86 @@ SHA1sum: 4bd8b8b937bf428dceb1f1a8311b5484263fd242
 SHA256sum: 3aa11759fbb6d8950f80fbca7c890b8c745caa655f600be09b25a3c4ec9a47dd
 Filename: debs//com.ndk.anime_1.0.92_iphoneos-arm.deb
 
-=======
-Filename: debs//com.ndk.fbfreezevn_2.0_iphoneos-arm.deb
->>>>>>> 4b4ac1fcc9f8fceac69ff28f5a13a8655e7e7a61
+Package: com.ndk.clockvietnam
+Name: Clock Việt Nam!
+Version: 1.0
+Size: 16637340
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML 
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: @ongcenh
+Section: Wigdets
+MD5sum: 13ccb24b5c14c49c254e6f0cc07d5137
+SHA1sum: 620f2808eedc9cbe81d7ec5a393e87c77171f597
+SHA256sum: d0bbf13ced41e357a664bda83e5d50de90ba516a293980c470c134244705c182
+Filename: debs//com.ndk.clockvietnam_1.0_iphoneos-arm.deb
+
+Package: com.ndk.sileonightly
+Name: Sileo (Nightly Channel)
+Version: 2.2+20210711.1626025868.3c4b392
+Size: 2246596 
+Architecture: iphoneos-arm
+Description: Kho lưu trữ Sileo, cho nền libhooker, nên cài openssh trước khi cài đặt
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Sileo Team
+Section: Packaging
+MD5sum: 2bebb245fc1562d17146fcdc2468c396
+SHA1sum: 567b12a4a6d46d9c918e8659b552681ff12a9630
+SHA256sum: 8f39d74eaf7d07c02aa7a8831839db1f7e84a9152b74a51feaec43455cfce262
+Filename: debs//com.ndk.sileonightly_2.2+20210711.1626025868.3c4b392_iphoneos-arm.deb
+
+Package: com.ndk.JanTTP
+Name: Jan TTP
+Version: 1.0.6
+Size: 109560
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: TTP + CodeOne88
+Section: Wigdets
+MD5sum: 16226be00a211819e65bc764ff01e818
+SHA1sum: 4ad573815e2747db59f00dfd267605b3a0b40374
+SHA256sum: d557041bf18859443c505e3c8c3ddd9fbd389b17971281854dd456cd14afcbb4
+Filename: debs//com.ndk.JanTTP_1.0.6_iphoneos-arm.deb
+
+Package: com.ndk.TTP1508
+Name: TTP 1508
+Version: 1.0.2.3
+Size: 1276816 
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Trương Tam Phong
+Section: Wigdets
+MD5sum: d7c88911d623953e87d6eecf4e8ac5a5
+SHA1sum: 6d64236111cf09669727e1138e24fa0e33807c8b
+SHA256sum: 9414ac2aa8e9a9dde9d029d478c2d66774bec4ecfb794d256f43f10ec84f161f
+Filename: debs//com.ndk.TTP1508_1.0.2.3_iphoneos-arm.deb
+
+Package: com.ndk.aerelys
+Name: Aerelys
+Version: 1.1.8
+Size: 716476
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: TTP + CodeOne88
+Section: Wigdets
+MD5sum: 9453488a728023f3936ac4acb99af668
+SHA1sum: 030dc48e44e2054ab60b2ce487485be7eb7c00b3
+SHA256sum: 071905a837105424f65c2094ce2ca16ae61eb6bca9154a9777cc5000c6fa8d1a
+Filename: debs//com.ndk.aerelys_1.1.8_iphoneos-arm.deb
+
+Package: com.ndk.fridayttp
+Name: Friday TTP
+Version: 1.3.3
+Size: 21963944
+Architecture: iphoneos-arm
+Description: Wigdet cho XenHTML
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Trương Tam Phong
+Section: Wigdets
+MD5sum: 919b2bcfc3be50d83ecfc7c06c358250
+SHA1sum: 77a58522f01320f1866bd90bb511cb10bfe890bb
+SHA256sum: 315da886ff5f75023a82447580bfbb4bb4878b1a0e59c8bea56e20bb1918938c
+Filename: debs//com.ndk.fridayttp_1.3.3_iphoneos-arm.deb
