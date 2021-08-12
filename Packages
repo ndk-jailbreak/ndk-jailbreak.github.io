@@ -116,7 +116,9 @@ Version: 1.1.6
 Size: 29812
 Architecture: iphoneos-arm
 Description:  Mang Thanh Trạng Thái Của iPad Lên iPhone Hỗ Trợ iOS 12-14
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/iPadStatusBar
+SileoDepicton: https://nguyendinhkhanh06.github.io/Cydia/info/iPadStatusBar
 Author: NoisyFlake
 Section: Tweaks
 MD5sum: db9963ba67bde18bf1c55ece51f7f95e
@@ -189,7 +191,8 @@ Description: Cải Thiện Bàn Phím Của Bạn. Hỗ Trợ iOS 12-13.6
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: MiRO
 Section: Tweaks
-Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/RGBoard%20VN/
+Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/RGBoard/
+SileoDepiction: https://nguyendinhkhanh06.github.io/Cydia/info/RGBoard/
 MD5sum: 757fdb97082e59fb2258c21b09db7c16
 SHA1sum: d7709e7e5f84a1ca16dbf6f1d1b83aa28a7e5e9d
 SHA256sum: d15580ce1013dd6291e4dfb4650ff20be9aeaa617949cb56896363be37ab354e
@@ -313,7 +316,9 @@ Version: 1.6.7
 Size: 24351052
 Architecture: iphoneos-arm
 Description: Wigdet cho XenHTML
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/Cover
+SileoDepiction: https://nguyendinhkhanh06.github.io/Cydia/info/Cover
 Author: Trương Tam Phong
 Section: Wigdets
 MD5sum: 6518ae623d9a3a49208d641ba2cc1aeb
@@ -411,7 +416,9 @@ Version: 1.3.3
 Size: 21963944
 Architecture: iphoneos-arm
 Description: Wigdet cho XenHTML
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Depiction:https://nguyendinhkhanh06.github.io/Cydia/info/Friday%20TTP/
+SileoDepiction: https://nguyendinhkhanh06.github.io/Cydia/info/Friday%20TTP/
 Author: Trương Tam Phong
 Section: Wigdets
 MD5sum: 919b2bcfc3be50d83ecfc7c06c358250
