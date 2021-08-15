@@ -425,3 +425,31 @@ MD5sum: 919b2bcfc3be50d83ecfc7c06c358250
 SHA1sum: 77a58522f01320f1866bd90bb511cb10bfe890bb
 SHA256sum: 315da886ff5f75023a82447580bfbb4bb4878b1a0e59c8bea56e20bb1918938c
 Filename: debs//com.ndk.fridayttp_1.3.3_iphoneos-arm.deb
+
+Package: com.ndk.eqesuperbass
+Name: EQE Super Bass
+Version: 1.0
+Size: 1100
+Architecture: iphoneos-arm
+Description: Super Bass Presets cho EQE
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: KhanhNDK
+Section: EQE Presets
+MD5sum: f29dafcc2f93fea4ab6ae686e1e3753b
+SHA1sum: 0a172b5abc3359544109ea4d7a1079408bee1029
+SHA256sum: d96a0e10ea1d9fbe1bf54add98459d7d57a1d14bc035e92f27b118b90e81e48a
+Filename: debs//com.ndk.eqesuperbass_1.0_iphoneos-arm.deb
+
+Package: com.ndk.8ballhack
+Name: 8 Ball Pool Hack
+Version: 0.17
+Size: 154740
+Architecture: iphoneos-arm
+Description: Hack 8 Ball Pool, nên dùng tweak Appstore++ hạ cấp xuống bản 5.3.2, vào game nhập pass {DN}PUBG
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: {DN}PUBG
+Section: Hacks
+MD5sum: 1a2c4683ab39df02bc13f9d0c780a590
+SHA1sum: 901bcfa1e5b3c1bfd33de3b3c7c072cd873aa5f5
+SHA256sum: fa62e050200c7ca03ea7307e9b567ec49135216be7aa5aa3a139131deb364699
+Filename: debs//com.ndk.8ballhack_0.17_iphoneos-arm.deb

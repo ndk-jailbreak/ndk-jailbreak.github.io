@@ -49,14 +49,14 @@ done
 echo "{}]" >> all.pkgs
 }
 echo "------------------"
-echo "Đang tạo tệp Packages...."
+echo "Building Packages...."
 apt-ftparchive packages ./Deb > ./Packages;
 #sed -i -e '/^SHA/d' ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
-echo "Đang tạo tệp Release...."
-printf "Origin: NDK's Repo\nLabel: NDK's Oficial Repo\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Kho Lưu Trữ Các Tinh Chỉnh Cho iOS\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
+echo "Building Release...."
+printf "Origin: NDK's Repo\nLabel: NDK's Official Repo\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Kho Lưu Trữ Các Tinh Chỉnh Cho iOS\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
 
 echo "------------------"
-echo "Xong! 👌"
+echo "❤️ Đã xong ❤️"
 exit 0;
