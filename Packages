@@ -536,4 +536,18 @@ Section: Tweaks
 MD5sum: a9bd495995e847ddf0e0d8dbd2bf6ba5
 SHA1sum: edace5b310e3def787ff3c3b885c96e7d14fcfd7
 SHA256sum: 6aa23bc3232960568b3b8bb323c2393853530b893b2db4344c89949d8ac2ba89
-Filename: debs//com.mdk.powercuffvn_0.1_iphoneos-arm.deb
+Filename: debs//com.ndk.powercuffvn_0.1_iphoneos-arm.deb
+
+Package: me.nepeta.nereid
+Name: Nereid VN
+Version: 0.1.8-1
+Size: 90036
+Architecture: iphoneos-arm
+Description: Thiết kế lại trình phát nhạc cho màn hình khoá của bạn.
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Nepeta
+Section: Tweaks
+MD5sum: b21e79e6c19706906fc3abce8c9d99ba
+SHA1sum: 184cd790c502a880934ef8193e4181430b1a0c79
+SHA256sum: b5a27afe2bc5b59faad102718fb3f31cc30328676bcf45ccd42691734e044aa5
+Filename: debs//me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
