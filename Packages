@@ -565,3 +565,17 @@ MD5sum: 2ad78471ba24a496fed6eb14a75bee55
 SHA1sum: 83157a72be108f59c93e1193d7b9e093e666c8db
 SHA256sum: 8c5be2964e4ca305244ff5444146ccc82378944e9e80876e9b152c51e7b3008d
 Filename: debs//com.ndk.facebookdarkmodevn_2.6.5_iphoneos-arm.deb
+
+Package: com.ndk.begreen12
+Name: BeGreen12
+Version: 1.0.7~Beta10
+Size: 54920
+Architecture: iphoneos-arm
+Description: Thay Đổi Kiểu Dáng % Pin Của Bạn, Hỗ Trợ iOS 11-12.5.4
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: tateu
+Section: Tweaks
+MD5sum: 967aebf3f2c8c4d46c97e25b6f94d0c5
+SHA1sum: 01f23e88f475df551e7bbd7a496ecd5eec2d3269
+SHA256sum: 568046ad6c92dd2e9778d0649137d3a01bb61026bcc6ef62825d28bf0831d929
+Filename: debs//com.ndk.begreen12_1.0.7~beta10_iphoneos-arm.deb
