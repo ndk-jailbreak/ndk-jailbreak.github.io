@@ -453,3 +453,101 @@ MD5sum: 1a2c4683ab39df02bc13f9d0c780a590
 SHA1sum: 901bcfa1e5b3c1bfd33de3b3c7c072cd873aa5f5
 SHA256sum: fa62e050200c7ca03ea7307e9b567ec49135216be7aa5aa3a139131deb364699
 Filename: debs//com.ndk.8ballhack_0.17_iphoneos-arm.deb
+
+Package: com.ndk.savegtasa
+Name: Save game 100% GTA SanAndreas
+Version: 1.0
+Size: 50128
+Architecture: iphoneos-arm
+Description: Save game 100% cho GTA SA
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Korosu
+Section: Hacks
+MD5sum: 7f84622f95517a6743041a5a7fd5a3a7
+SHA1sum: 1ec494603e63235167c18a8ac22a8b56b9fff86e
+SHA256sum: 05897fd75372996abab5b947e36ccfe817836ee10a1760144087a3cb40a37dd5
+Filename: debs//com.ndk.savegtasa_1.0_iphoneos-arm.deb
+
+Package: com.ndk.lunartime
+Name: LunarTime
+Version: 0.1
+Size: 18872
+Architecture: iphoneos-arm
+Description: Thêm âm lịch vào thanh trạng thái
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: fahlnbg
+Section: Tweaks
+MD5sum: 50f273d3f4acdc16c6d4f33807398293
+SHA1sum: 8565f91e14cfe1fa78a0a4a9129f3f32aa1c0a82
+SHA256sum: d8fb1970e2f17ff143e74e39cc0177b6a485c64d1ecbf2220cd1ba5b58e9ad0c
+Filename: debs//com.ndk.lunartime_0.1_iphoneos-arm.deb
+
+Package: com.ndk.airportvn
+Name: AirPort VN
+Version: 2.1
+Size: 16170984
+Architecture: iphoneos-arm
+Description: Tuỳ Chỉnh Thông Báo AirPods, hỗ trợ iOS 11-12.5.4
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Boo
+Section: Tweaks
+MD5sum: 0c5c96e82289099377207d99595ab23c
+SHA1sum: 05bf14b70bf8f5e88878c936c9d5bda549443813
+SHA256sum: 05f8b53933e6b77d1a8df9726ac93d72e83360a6909bbd5c7561dd1fd68782e2
+Filename: debs//com.ndk.airportvn_2.1_iphoneos-arm.deb
+
+Package: com.ndk.vedettevn
+Name: Vedette VN
+Version: 1.1.4
+Size: 72360
+Architecture: iphoneos-arm
+Description: Chỉnh Công Suất CPU Cho Từng App
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: udevs
+Section: Tweaks
+MD5sum: 045e0f2981484c433d40627f88127eea
+SHA1sum: c69b8dcb4e2c67c36109d7b74f344ae8dc5ec3e0
+SHA256sum: a7d03d31cd3a016474b87d75cffa7f05886482f7fc0e599efbac041b63568e25
+Filename: debs//com.ndk.vedettevn_1.1.4_iphoneos-arm.deb
+
+Package: com.ndk.deamondisablevn
+Name: DeamonDisable VN
+Version: 1.1.3
+Size: 59608
+Architecture: iphoneos-arm
+Description: Bật Tắt Các Deamon Trong Cài Đặt Của Bạn
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: level3tjg
+Section: Tweaks
+MD5sum: 45d4c659d8516a2bef94825939013dd5
+SHA1sum: 0f8924d6708fc032bc74b2e96408e4bad9f59992
+SHA256sum: 8583c039fd09d6900dd80cc8edefc519e29aea49f89d488da3ea9f557dfefc07
+Filename: debs//com.ndk.daemondisablervn_1.1.3_iphoneos-arm.deb
+
+Package: com.ndk.powercuffvn
+Name: PowerCuff VN
+Version: 0.1
+Size: 11188
+Architecture: iphoneos-arm
+Description: Tuỳ Chỉnh Công Suất CPU Của Bạn
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: rpetrich
+Section: Tweaks
+MD5sum: a9bd495995e847ddf0e0d8dbd2bf6ba5
+SHA1sum: edace5b310e3def787ff3c3b885c96e7d14fcfd7
+SHA256sum: 6aa23bc3232960568b3b8bb323c2393853530b893b2db4344c89949d8ac2ba89
+Filename: debs//com.ndk.powercuffvn_0.1_iphoneos-arm.deb
+
+Package: me.nepeta.nereid
+Name: Nereid VN
+Version: 0.1.8-1
+Size: 90036
+Architecture: iphoneos-arm
+Description: Thiết kế lại trình phát nhạc cho màn hình khoá của bạn.
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: Nepeta
+Section: Tweaks
+MD5sum: b21e79e6c19706906fc3abce8c9d99ba
+SHA1sum: 184cd790c502a880934ef8193e4181430b1a0c79
+SHA256sum: b5a27afe2bc5b59faad102718fb3f31cc30328676bcf45ccd42691734e044aa5
+Filename: debs//me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb

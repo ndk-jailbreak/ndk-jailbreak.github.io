@@ -1,0 +1,29 @@
+<package>
+	<id>com.ndk.neptunevn</id>
+	<name>KhanhNDK</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+                         <maxiOS>14.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Fake cử chỉ của Iphone X cho các máy đời cũ</description>
+		<description>Thêm 1 số tính năng mới</description>
+		<description>Fix lỗi vuông Biểu tượng</description>
+		<description>Phiên bản siêu nhẹ và mượt mà</description>
+	</descriptionlist>
+<screenshots>
+        <screenshot>
+            <description></description>
+            <image>1.jpg</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Đã Update bản mới nhất</change>
+	</changelog>
+	<links></links>
+</package>
