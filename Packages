@@ -227,15 +227,15 @@ Filename: debs//com.ndk.cover_1.6.7_iphoneos-arm.deb
 Package: com.ndk.anime
 Name: Anime
 Version: 1.0.92
-Size: 49260556 
+Size: 48820108
 Architecture: iphoneos-arm
 Description: Wigdet cho XenHTML
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Trương Tam Phong
 Section: Wigdets
-MD5sum: 474c16e04c735d15eb01a9b8d651fbd0
-SHA1sum: 4bd8b8b937bf428dceb1f1a8311b5484263fd242
-SHA256sum: 3aa11759fbb6d8950f80fbca7c890b8c745caa655f600be09b25a3c4ec9a47dd
+MD5sum: d041d7f693ad3d53bb86adece00305bf
+SHA1sum: 5d992e4afd7269516e34fa6971922a21f5165fc2
+SHA256sum: ad38fd853d26eb0381c027f495d298ceef10021e08525d3709f9d44b07e7ec31
 Filename: debs//com.ndk.anime_1.0.92_iphoneos-arm.deb
 
 Package: com.ndk.clockvietnam
@@ -477,3 +477,218 @@ MD5sum: 370c8f3275b14b13bba8764f60fd94e8
 SHA1sum: 8c2dbb63fbaa0ee87a3da4ac9fe517e54faf26a5
 SHA256sum: 5e8e0802707f8fd56934f3dd759db49a629917ed1e9b5bdc9d5992b76b2cb410
 Filename: debs//com.ndk.milkyway_0.1.4beta_iphoneos-arm.deb
+
+Package: com.ndk.littlexsvn
+Name: LittleXS VN
+Version: 2.4.4
+Size: 21816
+Architecture: iphoneos-arm
+Description: Mang cử chỉ iPhone X lên các dòng iPhone cũ
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: binksalex & Ryan Nair
+Section: Tweaks
+MD5sum: 59ce9d7efd83bbfb92875a8afd8d4ddd
+SHA1sum: 227244138fc32cda6fe71e34795775216faf2b24
+SHA256sum: 87642f47c9eaea79992bbc61e947783440c59ce89de8666016b2da0ae4b18545
+Filename: debs//com.ndk.littlexsvn_2.4.4_iphoneos-arm.deb
+
+Package: com.ndk.rgboardvn
+Name: RGBoard VN
+Version: 1.0.5
+Size: 279000
+Architecture: iphoneos-arm
+Description: Cải thiện bàn phím của bạn
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: MiRO
+Section: Tweaks
+MD5sum: f45446a6819a868a6d5b61340712918c
+SHA1sum: 0d7c651083a03466290bb3d2566b1dd42b3fe4f4
+SHA256sum: b93e4bcb3a3fdcf8af212b284bf2bf4af7c38c6eee1171999d58faa95007f8ab
+Filename: debs//com.ndk.rgboardvn_1.0.5_iphoneos-arm.deb
+
+Package: com.ndk.ipadstatusbarvn
+Name: iPadStatusBar VN
+Version: 1.1.6
+Size: 29812 
+Architecture: iphoneos-arm
+Description: Mang thanh trạng thái iPad lên iPhone
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: NoisyFlake
+Section: Tweaks
+MD5sum: 2e927859c088f7fedad3bf957abcbaf4
+SHA1sum: ddefee56e9be99f05dcd8ced0018d9d0d83e9e11
+SHA256sum: fc087e296200a9c3f7642b66dd0cc443fb7445b11225ae30cb1faff2f49a614a
+Filename: debs//com.ndk.ipadstatusbarvn_1.1.6_iphoneos-arm.deb
+
+Package: com.ndk.statusbarxs
+Name: StatusBarXS
+Version: 1.2
+Size: 3804
+Architecture: iphoneos-arm
+Description: Mang thanh trạng thái iPhone X lên iPhone
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: dpkg_
+Section: Tweaks
+MD5sum: 16ea87da4b7d0ae36e8d4ede36f83665
+SHA1sum: a764a526387d86d0af5351c6cda7f223e5c0c204
+SHA256sum: 64d950d9bc639832146c85f68eeca4b6d45507556f3bcf6d57a3f8b3558b8214
+Filename: debs//com.ndk.statusbarxs_1.2_iphoneos-arm.deb
+
+Package: com.ndk.autohidehomebarxvn
+Name: AutoHideHomeBarX VN
+Version: 1.0.4
+Size: 25652
+Architecture: iphoneos-arm
+Description: Tự động ẩn thanh home iPhone X
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: asterix
+Section: Tweaks
+MD5sum: d297129ea45a2c8ebe3608b6f8fa1fb3
+SHA1sum: 850710c0667cf9ef4f42894e8ff4a3e1736c78f7
+SHA256sum: 970020f0a825592be2bb76302127a2a1a680272afccb0135e67262049903b1a5
+Filename: debs//com.ndk.autohidehomebarxvn_1.0.4_iphoneos-arm.deb
+
+Package: com.ndk.13hudvn
+Name: 13HUD VN
+Version: 1.0.1
+Size: 31256
+Architecture: iphoneos-arm
+Description: Mang thanh điều chỉnh âm
+lượng iOS 13 lên iOS 11-12
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: Muirey04
+Section: Tweaks
+MD5sum: 1d91677969638a76a53bdc24ca89c8e7
+SHA1sum: 2fe6ee1a1387c89cdba4974b9a49fa84e389feb0
+SHA256sum: 0a457829153652b98cc13f8c8e9e4ebd4575cf35b65a13ce6d3bdcb88a6b3feb
+Filename: debs//com.ndk.13hudvn_1.0.1_iphoneos-arm.deb
+
+Package: com.ndk.elagengmg
+Name: Elagen GMG
+Version: 1.0
+Size: 5769232 
+Architecture: iphoneos-arm
+Description:  Theme Elagen GMG kích hoạt qua SnowBoard hoặc ithemer
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: Hà Tía Tô
+Section: Themes
+MD5sum: 46577501257f49534f290663f0e63350
+SHA1sum: 797b72b466759a3c50f179d0769b596c61bd674e
+SHA256sum: a7d85237f1ea1c9a5c5218c15853f366a1d1856344aa5b2b12d64948275f4f71
+Filename: debs//com.ndk.elagengmg_1.0_iphoneos-arm.deb
+
+Package: com.ndk.fluxdark
+Name: Flux Dark
+Version: 1.1
+Size: 5246900
+Architecture: iphoneos-arm
+Description:  Theme Flux Dark kích hoạt qua SnowBoard hoặc iThemer
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: dpth
+Section: Themes
+MD5sum: ba7f6d300d88d8b5258f96642716ce69
+SHA1sum: de0a5e2695b9c782dd79cfe8a003dad3ba1a68b5
+SHA256sum: 9426afe13e7d3cfe4e34cdfd8ab762d2b6376fb62367a51f771209fbba92d3d2
+Filename: debs//com.ndk.fluxdark_1.1_iphoneos-arm.deb
+
+Package: com.ndk.flux
+Name: Flux
+Version: 1.1
+Size: 6129684 
+Architecture: iphoneos-arm
+Description:  Theme Flux kích hoạt qua SnowBoard hoặc iThemer
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: dpth
+Section: Themes
+MD5sum: c01d690c0c37e7c2638f1f1b0eb26816
+SHA1sum: c16252b9875d66618d04ce7f75acb74decc714cc
+SHA256sum: 069757b634b5ad795c2437a95716d6cec103ce8ae37fc5b6949f93633b4b3708
+Filename: debs//com.ndk.flux_1.1_iphoneos-arm.deb
+
+Package: com.ndk.tronmokenhtao
+Name: Mask Tròn
+Version: 1.0
+Size: 11724
+Architecture: iphoneos-arm
+Description:  Mask Tròn kích hoạt qua iThemer hoặc SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: Kênh Táo
+Section: Themes
+MD5sum: a13fb36e803165f4bcaeab40c67f5966
+SHA1sum: e9be8af460eb23b255488f753db40d470e284622
+SHA256sum: a09eef6407778029168e51e5749d58067e332c730abf5ba34a26bdaf78cd8ae1
+Filename: debs//com.ndk.tronmokenhtao_1.0_iphoneos-arm.deb
+
+Package: com.ndk.greenmist
+Name: GreenMist
+Version: 1.0
+Size: 2447284
+Architecture: iphoneos-arm
+Description:  Theme GreenMist kích hoạt qua iThemer hoặc SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: Le0n
+Section: Themes
+MD5sum: 06799279ead607dd3b95723a7ac2e971
+SHA1sum: dc609a8380de532d12c658f9021c4c36a05858e1
+SHA256sum: 2e665f6c57fbc01e8b5b2ef6000e52b014d0b4d71f2bff724161aefe62763949
+Filename: debs//com.ndk.greenmist_1.0_iphoneos-arm.deb
+
+Package: com.ndk.ider
+Name: iDer
+Version: 1.2
+Size: 4331068
+Architecture: iphoneos-arm
+Description:  Theme iDer kích hoạt qua iThemer hoặc SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: Le0n
+Section: Themes
+MD5sum: 9d22cf6bee89a0b066e45d5bb211417e
+SHA1sum: 366ab71ec2a22ffffca5f846f60be752ac1bc508
+SHA256sum: d84e4888fabb1968d17d43ae5cbc9475cd449442bc250eb523b2abdce487302d
+Filename: debs//com.ndk.ider_1.2_iphoneos-arm.deb
+
+Package: com.ndk.iderred
+Name: iDer Red
+Version: 1.0
+Size: 7578752
+Architecture: iphoneos-arm
+Description:  Theme iDer Red kích hoạt qua iThemer hoặc SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: Le0n
+Section: Themes
+MD5sum: b641f118389c7769896534ba5e762650
+SHA1sum: 42ddb253686b270f44d91c06d6da7de4f6af59ed
+SHA256sum: 48711d1bd676a7a372e18787f890e8070850d89dfadaadb4ef2c9a803d0560f7
+Filename: debs//com.ndk.iderred_1.0_iphoneos-arm.deb
+
+Package: com.ndk.greenred
+Name: GreenRed
+Version: 1.0
+Size: 9612288
+Architecture: iphoneos-arm
+Description:  Theme Green Red kích hoạt qua iThemer hoặc SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: @NDK
+Section: Themes
+MD5sum: c64cdb304f76d1c9e92f0fad91e8cdc3
+SHA1sum: bf093f17690b6040067cac4d1223c05620fd4e1c
+SHA256sum: 8924a48a47368231d095d96513f68a834e3dfaaa4db860b87a0fed58275fb43c
+Filename: debs//com.ndk.greenred_1.0_iphoneos-arm.deb
+
+Package: com.ndk.belleui
+Name: Belle UI
+Version: 1.0
+Size: 2620916
+Architecture: iphoneos-arm
+Description:  Theme Belle UI kích hoạt qua iThemer hoặc SnowBoard
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: @NDK
+Section: Themes
+MD5sum: 215109e391d7bcdec91d43500abd96c5
+SHA1sum: 21ac46abeffd82fa6ed9b20e9fb13d3d6881977d
+SHA256sum: 43797f9d36c8f3f9525b6f06e04f83330d605d60e5b7d8f9abc41ae0b6397a2f
+Filename: debs//com.ndk.belleui_1.0_iphoneos-arm.deb
+
+
+
+
