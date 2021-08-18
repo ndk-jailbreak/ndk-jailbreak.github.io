@@ -464,12 +464,12 @@ SHA1sum: 01f23e88f475df551e7bbd7a496ecd5eec2d3269
 SHA256sum: 568046ad6c92dd2e9778d0649137d3a01bb61026bcc6ef62825d28bf0831d929
 Filename: debs//com.ndk.begreen12_1.0.7~beta10_iphoneos-arm.deb
 
-Package: com.ndk.milkiway
-Name: Milkiway (iOS 12)
+Package: com.ndk.milkyway
+Name: Milkyway (iOS 12)
 Version: 0.1.4beta
 Size: 30576
 Architecture: iphoneos-arm
-Conflicts: mobilesubstrate, jp.akusio.backgrounderaction12
+Depends: mobilesubstrate, com.ndk.backgrounderaction12
 Description: Đa nhiệm cải tiến cho ios 12
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: akusio
@@ -689,4 +689,19 @@ MD5sum: 215109e391d7bcdec91d43500abd96c5
 SHA1sum: 21ac46abeffd82fa6ed9b20e9fb13d3d6881977d
 SHA256sum: 43797f9d36c8f3f9525b6f06e04f83330d605d60e5b7d8f9abc41ae0b6397a2f
 Filename: debs//com.ndk.belleui_1.0_iphoneos-arm.deb
+
+Package: com.ndk.backgrounderaction12
+Name: BackgrounderAction for CCSupport
+Version: 0.1.0
+Size: 10256 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.opa334.ccsupport
+Description: Gói phụ trợ cho MilkyWay
+Maintainer: NDK <nguyendinhkhanh06@gmail.com>
+Author: akusio
+Section: Systems
+MD5sum: 1a498a27c3a3e6248095a03df1f077de
+SHA1sum: 0b98b72b67450ee44003450d7a3bdabe9e983194
+SHA256sum: d2c9c7f741f6975f5f7ed9548d61e0fa66219a2ed472c1f04d76f1df7d1d307a
+Filename: debs//com.ndk.backgrounderaction12_0.1.0_iphoneos-arm.deb
 
