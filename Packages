@@ -12,20 +12,6 @@ SHA1sum: 08f017b99c170c13ff7d90ff7a2b8f462be5150a
 SHA256sum: f1b9e632737309dbdfa082ddb23a33228754f050fb9b4bea7e2a01afb6dc84ce
 Filename: debs//com.ndk.ios14_1.0_iphoneos-arm.deb
 
-Package: com.ndk.masktaitho
-Name: Mask Tai Thỏ
-Version: 1.0
-Size: 71136 
-Architecture: iphoneos-arm
-Description: Mask Tai Thỏ kích hoạt qua iThemer hoặc SnowBoard
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: KhanhNDK
-Section: Themes
-MD5sum: 3bf1af420bd1002f0dfc44346a8b9ce9
-SHA1sum: faeb787f637f2e2fec14d5a483ff01c5df9b89ef
-SHA256sum: 16b390a3e0782c179280fc40b965324607b558f7c0c8e8f7ae8040b8b760133d
-Filename: debs//com.ndk.masktaitho_1.0_iphoneos-arm.deb
-
 Package: com.ndk.ios14wg
 Name: Wigdet iOS 14
 Version: 1.0
@@ -39,34 +25,6 @@ MD5sum: c718307157baca1f806ec6f050cf3f55
 SHA1sum: 0b6feb0a7e3f759f69d047a53b22f5086bf31c8d
 SHA256sum: d240cae92b7b58dc023a7a0591b53a1f3a3818a53f19aa4460e942b92207ef70
 Filename: debs//com.ndk.ios14wg_1.0_iphoneos-arm.deb
-
-Package: com.ndk.littlexsvn
-Name: LittleXS VN
-Version: 2.4.4
-Size: 21832 
-Architecture: iphoneos-arm
-Description: Đem Cử Chỉ iPhone X Lên iOS 11-12
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: blinksalex & Ryan Nair
-Section: Tweaks
-MD5sum: ed430869bba681258331e1bfb16bed93
-SHA1sum: dff3dd14dfd7c5a452a29553762628cffd634101
-SHA256sum: 17177fc5a13e6975fcd002b47b5dbb6635e34d6c42ffe92273efb775aac79e96
-Filename: debs//com.ndk.littlexsvn_2.4.4_iphoneos-arm.deb
-
-Package: com.ndk.13hudvn
-Name: 13HUD VN
-Version: 1.0.1
-Size: 31220 
-Architecture: iphoneos-arm
-Description: Mang Thanh Điều Chỉnh iOS 13 Lên iOS 11-12
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: Muirey03
-Section: Tweaks
-MD5sum: 76ce59b20c895a936a06136ab6fe5d0b
-SHA1sum: ef1c63eef02c2f617eda00359a8b572ebf1022f4
-SHA256sum: 3da1fa67dedbe36f7af4738b7bf2c49501bcbefb3eb6d68b5710ba547f098642
-Filename: debs//com.ndk.13hudvn_1.0.1_iphoneos-arm.deb
 
 Package: com.ndk.halfipad
 Name: HalfiPad
@@ -110,36 +68,6 @@ SHA1sum: adef970a4682ba884c1287a4c75eb86d01a42d5e
 SHA256sum: 19fc18eab29a41e4a3d32629096b3f3783e0b25963fb13c90070af20900f762f
 Filename: debs//com.ndk.sugarcanevn_1.0.0_iphoneos-arm.deb
 
-Package: com.ndk.ipadstatusbarvn
-Name: iPadStatusBar VN
-Version: 1.1.6
-Size: 29812
-Architecture: iphoneos-arm
-Description:  Mang Thanh Trạng Thái Của iPad Lên iPhone Hỗ Trợ iOS 12-14
-Maintainer: NDK <nguyendinhkhanh06@gmail.com>
-Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/iPadStatusBar
-SileoDepicton: https://nguyendinhkhanh06.github.io/Cydia/info/iPadStatusBar
-Author: NoisyFlake
-Section: Tweaks
-MD5sum: db9963ba67bde18bf1c55ece51f7f95e
-SHA1sum: 7570255e8442a180b5330276628fbe408efe9572
-SHA256sum: 1987c4bd6266779ebaac7063e7f65dd38f3347bb9d2c9a980e3038283244e819
-Filename: debs//com.ndk.ipadstatusbarvn_1.1.6_iphoneos-arm.deb
-
-Package: com.ndk.statusbarxs
-Name: StatusBarXS
-Version: 1.2
-Size: 3800
-Architecture: iphoneos-arm
-Description: Mang Thanh Trạng Thái iPhone X Lên Các Dòng iPhone Cũ Từ iOS 12-14
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: dpkg_
-Section: Tweaks
-MD5sum: 7356e276b72718913bfaeace02157a3e
-SHA1sum: 838702fd10fd796e103f833475e1fd5275473df5
-SHA256sum: 5e945f075481a946bd71b24d7326a88cd3b867c378ea93cdd1efe26efc15f7fb
-Filename: debs//com.ndk.statusbarxs_1.2_iphoneos-arm.deb
-
 Package: com.ndk.keyboardx
 Name: KeyBoard X
 Version: 0.0.2
@@ -154,20 +82,6 @@ SHA1sum: 62d25363030254d4be7f9519056dd144aa1aa18f
 SHA256sum: 4b9b04114471926766eb897eaac078f8567336011ce2f643693b23f12174729e
 Filename: debs//com.ndk.keyboardx_0.0.2_iphoneos-arm.deb
 
-Package: com.ndk.autohidehomebarxvn
-Name: AutoHideHomeBarX VN
-Version: 1.0.4
-Size: 25624
-Architecture: iphoneos-arm
-Description: Tự Động Ẩn Thanh Home X. Hỗ Trợ iOS 11-13 
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: Asterix
-Section: Tweaks
-MD5sum: e992f346ed902ba808bf876234c5239d
-SHA1sum: eaab647b170134c9a483ac03f404a8b5b697c9f9
-SHA256sum: 63aedbf05394ea90e9b82359e25e78b995112b636e295f90ce36a366351ea96f
-Filename: debs//com.ndk.autohidehomebarxvn_1.0.4_iphoneos-arm.deb
-
 Package: com.ndk.barmoji
 Name: Barmoji
 Version: 2020.5
@@ -181,22 +95,6 @@ MD5sum: 72d0a3c5fed53aed65f65570d529da36
 SHA1sum: 7cb4beef2758e456bee303986e697fb99027ae51
 SHA256sum: dc3b0f93620a552d4aea85ad6aac9626f567eb3928667e9331b3acce113a35a4
 Filename: debs//com.ndk.barmoji_2020.5_iphoneos-arm.deb
-
-Package: com.ndk.rgboardvn
-Name: RGBoard VN
-Version: 1.0.5
-Size: 278948
-Architecture: iphoneos-arm
-Description: Cải Thiện Bàn Phím Của Bạn. Hỗ Trợ iOS 12-13.6
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: MiRO
-Section: Tweaks
-Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/RGBoard/
-SileoDepiction: https://nguyendinhkhanh06.github.io/Cydia/info/RGBoard/
-MD5sum: 757fdb97082e59fb2258c21b09db7c16
-SHA1sum: d7709e7e5f84a1ca16dbf6f1d1b83aa28a7e5e9d
-SHA256sum: d15580ce1013dd6291e4dfb4650ff20be9aeaa617949cb56896363be37ab354e
-Filename: debs//com.ndk.rgboardvn_1.0.5_iphoneos-arm.deb
 
 Package: com.ndk.neptunevn
 Name: Neptune for iPhone VN
@@ -353,20 +251,6 @@ MD5sum: 13ccb24b5c14c49c254e6f0cc07d5137
 SHA1sum: 620f2808eedc9cbe81d7ec5a393e87c77171f597
 SHA256sum: d0bbf13ced41e357a664bda83e5d50de90ba516a293980c470c134244705c182
 Filename: debs//com.ndk.clockvietnam_1.0_iphoneos-arm.deb
-
-Package: com.ndk.sileonightly
-Name: Sileo (Nightly Channel)
-Version: 2.2+20210711.1626025868.3c4b392
-Size: 2246596 
-Architecture: iphoneos-arm
-Description: Kho lưu trữ Sileo, cho nền libhooker, nên cài openssh trước khi cài đặt
-Maintainer: NDK <nguyendinhkhanh06@gmail.com
-Author: Sileo Team
-Section: Packaging
-MD5sum: 2bebb245fc1562d17146fcdc2468c396
-SHA1sum: 567b12a4a6d46d9c918e8659b552681ff12a9630
-SHA256sum: 8f39d74eaf7d07c02aa7a8831839db1f7e84a9152b74a51feaec43455cfce262
-Filename: debs//com.ndk.sileonightly_2.2+20210711.1626025868.3c4b392_iphoneos-arm.deb
 
 Package: com.ndk.JanTTP
 Name: Jan TTP
@@ -579,3 +463,17 @@ MD5sum: 967aebf3f2c8c4d46c97e25b6f94d0c5
 SHA1sum: 01f23e88f475df551e7bbd7a496ecd5eec2d3269
 SHA256sum: 568046ad6c92dd2e9778d0649137d3a01bb61026bcc6ef62825d28bf0831d929
 Filename: debs//com.ndk.begreen12_1.0.7~beta10_iphoneos-arm.deb
+
+Package: com.ndk.milkiway
+Name: Milkiway (iOS 12)
+Version: 0.1.4beta
+Size: 30576
+Architecture: iphoneos-arm
+Description: Đa nhiệm cải tiến cho ios 12
+Maintainer: NDK <nguyendinhkhanh06@gmail.com
+Author: akusio
+Section: Tweaks
+MD5sum: 370c8f3275b14b13bba8764f60fd94e8
+SHA1sum: 8c2dbb63fbaa0ee87a3da4ac9fe517e54faf26a5
+SHA256sum: 5e8e0802707f8fd56934f3dd759db49a629917ed1e9b5bdc9d5992b76b2cb410
+Filename: debs//com.ndk.milkyway_0.1.4beta_iphoneos-arm.deb
