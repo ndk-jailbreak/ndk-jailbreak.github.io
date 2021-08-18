@@ -31,6 +31,7 @@ Name: HalfiPad
 Version: 3.3.0
 Size: 40048 
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Mang Cử Chỉ Của iPhone X Lên Các Dòng iPhone Cũ
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Hius
@@ -45,6 +46,7 @@ Name: HomeGesture Lite VN
 Version: 1.5
 Size: 3576  
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Mang Cử Chỉ Của iPhone X Lên Các Dòng iPhone Cũ Yêu Cầu Thêm Tweak iPadStatusBar hoặc StatusBarXS Để Tránh SafeMode Khi Vuốt CC Ở iOS 11-12. Hỗ Trợ iOS 11-14.6
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: VitaTaf
@@ -59,6 +61,7 @@ Name: SugarCane VN
 Version: 1.0.0
 Size: 5664 
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description:  Hiển Thị Phần Trăm Trên Thanh Trượt Ở ControlCenter
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: iOS Creatix
@@ -73,6 +76,7 @@ Name: KeyBoard X
 Version: 0.0.2
 Size: 2584
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Nâng Bán Phím Lên Như iPhone X Cho Các Dòng iPhone Cũ
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: clarityzzz
@@ -87,6 +91,7 @@ Name: Barmoji
 Version: 2020.5
 Size: 59484
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description:  Thêm Các Emoji Vào Dưới Bàn Phím iPhone X. Hỗ Trợ iOS 11-13
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: CP Digital Darkroom
@@ -101,6 +106,7 @@ Name: Neptune for iPhone VN
 Version: 1.2
 Size: 145760 
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Mang Cử Chỉ iPhone X Lên Các Dòng iPhone Cũ
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: duraidabdul
@@ -129,6 +135,7 @@ Name: ProundLock Xr VN
 Version: 0.3-3
 Size: 1136428
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Hiển Thị Biểu Tượng Khoá Như iPhone X
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Sniper_GER
@@ -199,6 +206,7 @@ Name: FBFreeze VN
 Version: 2.0
 Size: 307040
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Tắt Đã Xem Trong Ứng Dụng Facebook Messenger
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: MiRO
@@ -357,6 +365,7 @@ Name: LunarTime
 Version: 0.1
 Size: 18872
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Thêm âm lịch vào thanh trạng thái
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: fahlnbg
@@ -371,6 +380,7 @@ Name: AirPort VN
 Version: 2.1
 Size: 16170984
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Tuỳ Chỉnh Thông Báo AirPods, hỗ trợ iOS 11-12.5.4
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Boo
@@ -385,6 +395,7 @@ Name: Vedette VN
 Version: 1.1.4
 Size: 72360
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Chỉnh Công Suất CPU Cho Từng App
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: udevs
@@ -399,6 +410,7 @@ Name: DeamonDisable VN
 Version: 1.1.3
 Size: 59608
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Bật Tắt Các Deamon Trong Cài Đặt Của Bạn
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: level3tjg
@@ -413,6 +425,7 @@ Name: PowerCuff VN
 Version: 0.1
 Size: 11188
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Tuỳ Chỉnh Công Suất CPU Của Bạn
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: rpetrich
@@ -427,6 +440,7 @@ Name: Nereid VN
 Version: 0.1.8-1
 Size: 90036
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Thiết kế lại trình phát nhạc cho màn hình khoá của bạn.
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Nepeta
@@ -441,6 +455,7 @@ Name: FacebookDarkMode VN
 Version: 2.6.5
 Size: 248428
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Chế Độ Tối Cho FaceBook Cho iOS 12
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: FoxfortMobile
@@ -455,6 +470,7 @@ Name: BeGreen12
 Version: 1.0.7~Beta10
 Size: 54920
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Thay Đổi Kiểu Dáng % Pin Của Bạn, Hỗ Trợ iOS 11-12.5.4
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: tateu
@@ -484,6 +500,7 @@ Name: LittleXS VN
 Version: 2.4.4
 Size: 21816
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Mang cử chỉ iPhone X lên các dòng iPhone cũ
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: binksalex & Ryan Nair
@@ -498,6 +515,7 @@ Name: RGBoard VN
 Version: 1.0.5
 Size: 279000
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Cải thiện bàn phím của bạn
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: MiRO
@@ -512,6 +530,7 @@ Name: iPadStatusBar VN
 Version: 1.1.6
 Size: 29812 
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Mang thanh trạng thái iPad lên iPhone
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: NoisyFlake
@@ -526,6 +545,7 @@ Name: StatusBarXS
 Version: 1.2
 Size: 3804
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Mang thanh trạng thái iPhone X lên iPhone
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: dpkg_
@@ -540,6 +560,7 @@ Name: AutoHideHomeBarX VN
 Version: 1.0.4
 Size: 25652
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Tự động ẩn thanh home iPhone X
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: asterix
@@ -554,6 +575,7 @@ Name: 13HUD VN
 Version: 1.0.1
 Size: 31256
 Architecture: iphoneos-arm
+Depends: mobilesubstrate
 Description: Mang thanh điều chỉnh âm
 lượng iOS 13 lên iOS 11-12
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
