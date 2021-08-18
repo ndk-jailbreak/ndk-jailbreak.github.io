@@ -563,7 +563,6 @@ SHA1sum: 2fe6ee1a1387c89cdba4974b9a49fa84e389feb0
 SHA256sum: 0a457829153652b98cc13f8c8e9e4ebd4575cf35b65a13ce6d3bdcb88a6b3feb
 Filename: debs//com.ndk.13hudvn_1.0.1_iphoneos-arm.deb
 
-<<<<<<< HEAD
 Package: com.ndk.elagengmg
 Name: Elagen GMG
 Version: 1.0
@@ -689,9 +688,4 @@ MD5sum: 215109e391d7bcdec91d43500abd96c5
 SHA1sum: 21ac46abeffd82fa6ed9b20e9fb13d3d6881977d
 SHA256sum: 43797f9d36c8f3f9525b6f06e04f83330d605d60e5b7d8f9abc41ae0b6397a2f
 Filename: debs//com.ndk.belleui_1.0_iphoneos-arm.deb
-
-
-
-=======
->>>>>>> d3f9fd1ffc21a4aa31e3ec2ac940c5c30cfcc5bc
 
