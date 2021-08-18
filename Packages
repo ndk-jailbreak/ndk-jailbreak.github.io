@@ -227,15 +227,15 @@ Filename: debs//com.ndk.cover_1.6.7_iphoneos-arm.deb
 Package: com.ndk.anime
 Name: Anime
 Version: 1.0.92
-Size: 49260556 
+Size: 48820108
 Architecture: iphoneos-arm
 Description: Wigdet cho XenHTML
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Trương Tam Phong
 Section: Wigdets
-MD5sum: 474c16e04c735d15eb01a9b8d651fbd0
-SHA1sum: 4bd8b8b937bf428dceb1f1a8311b5484263fd242
-SHA256sum: 3aa11759fbb6d8950f80fbca7c890b8c745caa655f600be09b25a3c4ec9a47dd
+MD5sum: d041d7f693ad3d53bb86adece00305bf
+SHA1sum: 5d992e4afd7269516e34fa6971922a21f5165fc2
+SHA256sum: ad38fd853d26eb0381c027f495d298ceef10021e08525d3709f9d44b07e7ec31
 Filename: debs//com.ndk.anime_1.0.92_iphoneos-arm.deb
 
 Package: com.ndk.clockvietnam
