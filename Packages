@@ -469,6 +469,7 @@ Name: Milkiway (iOS 12)
 Version: 0.1.4beta
 Size: 30576
 Architecture: iphoneos-arm
+Depends: mobilesubstrate, jp.akusio.backgrounderaction11 | jp.akusio.backgrounderaction12
 Description: Đa nhiệm cải tiến cho ios 12
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: akusio
