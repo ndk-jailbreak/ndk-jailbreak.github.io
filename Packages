@@ -419,8 +419,8 @@ SHA1sum: c69b8dcb4e2c67c36109d7b74f344ae8dc5ec3e0
 SHA256sum: a7d03d31cd3a016474b87d75cffa7f05886482f7fc0e599efbac041b63568e25
 Filename: debs//com.ndk.vedettevn_1.1.4_iphoneos-arm.deb
 
-Package: com.ndk.deamondisablevn
-Name: DeamonDisable VN
+Package: com.ndk.daemondisablevn
+Name: DaemonDisable VN
 Version: 1.1.3
 Size: 59608
 Architecture: iphoneos-arm

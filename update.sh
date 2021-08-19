@@ -50,7 +50,7 @@ echo "{}]" >> all.pkgs
 }
 echo "------------------"
 echo "Building Packages...."
-apt-ftparchive packages ./Deb > ./Packages;
+apt-ftparchive packages ./debs > ./Packages;
 #sed -i -e '/^SHA/d' ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
