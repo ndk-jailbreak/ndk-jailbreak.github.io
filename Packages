@@ -7,6 +7,8 @@ Description: Chủ đề iOS 14 kích hoạt qua iThemer hoặc SnowBoard
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: KhanhNDK
 Section: Themes
+Depictions: https://ndk-jailbreak.github.io/info/iOS14
+SileoDepictions: https://ndk-jailbreak.github.io/info/iOS14
 MD5sum: 3f86ad11e05a1808c10ae5ad640534a3
 SHA1sum: 08f017b99c170c13ff7d90ff7a2b8f462be5150a
 SHA256sum: f1b9e632737309dbdfa082ddb23a33228754f050fb9b4bea7e2a01afb6dc84ce
@@ -66,6 +68,8 @@ Description:  Hiển Thị Phần Trăm Trên Thanh Trượt Ở ControlCenter
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: iOS Creatix
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/SugarcaneXS
+SileoDepictions: https://ndk-jailbreak.github.io/info/SugarcaneXS
 MD5sum: 473ba8a1d77b22122df9228867443898
 SHA1sum: adef970a4682ba884c1287a4c75eb86d01a42d5e
 SHA256sum: 19fc18eab29a41e4a3d32629096b3f3783e0b25963fb13c90070af20900f762f
@@ -111,6 +115,8 @@ Description: Mang Cử Chỉ iPhone X Lên Các Dòng iPhone Cũ
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: duraidabdul
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/Neptune
+SileoDepictions: https://ndk-jailbreak.github.io/info/Neptune
 MD5sum: 8072d55d39c4c9e7f96f97fc9e4b2f7c
 SHA1sum: d48bf8b6e64d214910b0c9835c28250535b10158
 SHA256sum: e263a0f976f5b7cf2814d3b3f3cbd2a7bf7cdd65c10d3492c0697c16f11e9246
@@ -130,8 +136,8 @@ SHA1sum: 97194f62ca58a01e79d9fcad4457dbfbc69ed8e9
 SHA256sum: a4ca12d506551cc48612fa0195f6ab6cf27e30ffa5c53c2407d4524e3cb49a3c
 Filename: debs//com.ndk.gineso_1.0_iphoneos-arm.deb
 
-Package: com.ndk.proundlockxrvn
-Name: ProundLock Xr VN
+Package: com.ndk.proudlockxrvn
+Name: ProudLock Xr VN
 Version: 0.3-3
 Size: 1136428
 Architecture: iphoneos-arm
@@ -140,6 +146,8 @@ Description: Hiển Thị Biểu Tượng Khoá Như iPhone X
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Sniper_GER
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/ProudlockXr
+SileoDepictions: https://ndk-jailbreak.github.io/info/ProudlockXr
 MD5sum: 5e9133e9638d08a3691de3d1a050235e
 SHA1sum: 77a9bcb8ba47fc12ae6971f7239512f981373ea4
 SHA256sum: 80adda3c1f62fc05d6d09cb6bdd011b81261d0bd7b1b1836a7885f6205b4b87f
@@ -223,8 +231,8 @@ Size: 24351052
 Architecture: iphoneos-arm
 Description: Wigdet cho XenHTML
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
-Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/Cover
-SileoDepiction: https://nguyendinhkhanh06.github.io/Cydia/info/Cover
+Depiction: https://ndk-jailbreak.github.io/info/Cover
+SileoDepiction: https://ndk-jailbreak.github.io/info/Cover
 Author: Trương Tam Phong
 Section: Wigdets
 MD5sum: 6518ae623d9a3a49208d641ba2cc1aeb
@@ -255,6 +263,8 @@ Description: Wigdet cho XenHTML
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: @ongcenh
 Section: Wigdets
+Depictions: https://ndk-jailbreak.github.io/info/ClockVN
+SileoDepictions: https://ndk-jailbreak.github.io/info/ClockVN
 MD5sum: 13ccb24b5c14c49c254e6f0cc07d5137
 SHA1sum: 620f2808eedc9cbe81d7ec5a393e87c77171f597
 SHA256sum: d0bbf13ced41e357a664bda83e5d50de90ba516a293980c470c134244705c182
@@ -309,8 +319,8 @@ Size: 21963944
 Architecture: iphoneos-arm
 Description: Wigdet cho XenHTML
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
-Depiction:https://nguyendinhkhanh06.github.io/Cydia/info/Friday%20TTP/
-SileoDepiction: https://nguyendinhkhanh06.github.io/Cydia/info/Friday%20TTP/
+Depiction:https://ndk-jailbreak.github.io/info/Friday%20TTP/
+SileoDepiction: https://ndk-jailbreak.github.io/Cydia/info/Friday%20TTP/
 Author: Trương Tam Phong
 Section: Wigdets
 MD5sum: 919b2bcfc3be50d83ecfc7c06c358250
@@ -385,6 +395,8 @@ Description: Tuỳ Chỉnh Thông Báo AirPods, hỗ trợ iOS 11-12.5.4
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Boo
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/Airport
+SileoDepictions: https://ndk-jailbreak.github.io/info/Airport
 MD5sum: 0c5c96e82289099377207d99595ab23c
 SHA1sum: 05bf14b70bf8f5e88878c936c9d5bda549443813
 SHA256sum: 05f8b53933e6b77d1a8df9726ac93d72e83360a6909bbd5c7561dd1fd68782e2
@@ -400,6 +412,8 @@ Description: Chỉnh Công Suất CPU Cho Từng App
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: udevs
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/Vedette
+SileoDepictions: https://ndk-jailbreak.github.io/info/Vedette
 MD5sum: 045e0f2981484c433d40627f88127eea
 SHA1sum: c69b8dcb4e2c67c36109d7b74f344ae8dc5ec3e0
 SHA256sum: a7d03d31cd3a016474b87d75cffa7f05886482f7fc0e599efbac041b63568e25
@@ -415,6 +429,8 @@ Description: Bật Tắt Các Deamon Trong Cài Đặt Của Bạn
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: level3tjg
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/DaemonDisabler
+SileoDepictions: https://ndk-jailbreak.github.io/info/DeamonDisabler
 MD5sum: 45d4c659d8516a2bef94825939013dd5
 SHA1sum: 0f8924d6708fc032bc74b2e96408e4bad9f59992
 SHA256sum: 8583c039fd09d6900dd80cc8edefc519e29aea49f89d488da3ea9f557dfefc07
@@ -430,6 +446,8 @@ Description: Tuỳ Chỉnh Công Suất CPU Của Bạn
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: rpetrich
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/Powercuff
+SileoDepictions: https://ndk-jailbreak.github.io/info/Powercuff
 MD5sum: a9bd495995e847ddf0e0d8dbd2bf6ba5
 SHA1sum: edace5b310e3def787ff3c3b885c96e7d14fcfd7
 SHA256sum: 6aa23bc3232960568b3b8bb323c2393853530b893b2db4344c89949d8ac2ba89
@@ -445,6 +463,8 @@ Description: Thiết kế lại trình phát nhạc cho màn hình khoá của b
 Maintainer: NDK <nguyendinhkhanh06@gmail.com
 Author: Nepeta
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/Nereid
+SileoDepictions: https://ndk-jailbreak.github.io/info/Nereid
 MD5sum: b21e79e6c19706906fc3abce8c9d99ba
 SHA1sum: 184cd790c502a880934ef8193e4181430b1a0c79
 SHA256sum: b5a27afe2bc5b59faad102718fb3f31cc30328676bcf45ccd42691734e044aa5
@@ -520,6 +540,8 @@ Description: Cải thiện bàn phím của bạn
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: MiRO
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/RGBoard
+SileoDepictions: https://ndk-jailbreak.github.io/info/RGBoard
 MD5sum: f45446a6819a868a6d5b61340712918c
 SHA1sum: 0d7c651083a03466290bb3d2566b1dd42b3fe4f4
 SHA256sum: b93e4bcb3a3fdcf8af212b284bf2bf4af7c38c6eee1171999d58faa95007f8ab
@@ -535,6 +557,8 @@ Description: Mang thanh trạng thái iPad lên iPhone
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: NoisyFlake
 Section: Tweaks
+Depictions: https://ndk-jailbreak.github.io/info/iPadStatusBar
+SileoDepictions: https://ndk-jailbreak.github.io/info/iPadStatusBar
 MD5sum: 2e927859c088f7fedad3bf957abcbaf4
 SHA1sum: ddefee56e9be99f05dcd8ced0018d9d0d83e9e11
 SHA256sum: fc087e296200a9c3f7642b66dd0cc443fb7445b11225ae30cb1faff2f49a614a
@@ -665,6 +689,8 @@ Description:  Theme iDer kích hoạt qua iThemer hoặc SnowBoard
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: Le0n
 Section: Themes
+Depictions: https://ndk-jailbreak.github.io/info/iDer
+SileoDepictions: https://ndk-jailbreak.github.io/info/iDer
 MD5sum: 9d22cf6bee89a0b066e45d5bb211417e
 SHA1sum: 366ab71ec2a22ffffca5f846f60be752ac1bc508
 SHA256sum: d84e4888fabb1968d17d43ae5cbc9475cd449442bc250eb523b2abdce487302d
@@ -679,6 +705,8 @@ Description:  Theme iDer Red kích hoạt qua iThemer hoặc SnowBoard
 Maintainer: NDK <nguyendinhkhanh06@gmail.com>
 Author: Le0n
 Section: Themes
+Depictions: https://ndk-jailbreak.github.io/info/iDerRed
+SileoDepictions: https://ndk-jailbreak.github.io/info/iDerRed
 MD5sum: b641f118389c7769896534ba5e762650
 SHA1sum: 42ddb253686b270f44d91c06d6da7de4f6af59ed
 SHA256sum: 48711d1bd676a7a372e18787f890e8070850d89dfadaadb4ef2c9a803d0560f7
