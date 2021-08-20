@@ -87,16 +87,16 @@ Installed-Size: 20416
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
 Conflicts: com.yourepo.exfoliate.glitchpods
 Filename: ./debs/com.ndk.airportvn_2.1_iphoneos-arm.deb
-Size: 16836128
-MD5sum: 9ab11e60aafbcab10bb508773aca3677
-SHA1: 38d95fcd20d20d05cae63e13572b76bf6b71e78e
-SHA256: 86d2112c7f6647490d535fb3b24e3bbe4ca52f6bf7acae00e7ea478794de1b53
-SHA512: 9ba92ed91a65249af404815091bc29caeb810918976ef00368e5551f09d77b9ca88ff48bbcee6a3489479cfdc6ebdc3b588fecbf1d742d8ae978bad27d62a3dc
+Size: 16836146
+MD5sum: 62881026e70d9e6ba9016efcabaf5ba7
+SHA1: baf9df84f12077f1c8c694d3c1dbd3927a5275b9
+SHA256: a3ef74ea06b0bd67c8e901a96e9c52efcb01871b905e2fba6345f412ab2e972c
+SHA512: a740861f2557055422a02b7261ec4efb4a6588946e0e7b25e515a96e047029ed396a701934b9437154b8e5e0c3e02e428d153c1c28119b27fdaba8ce1a4bb85f
 Description: cải thiện thông báo AirPods của bạn
 Name: AirPort VN
 Author: Boo
-Depictions: https://ndk-jailbreak.github.io/info/Airport
-SileoDepictions: https://ndk-jailbreak.github.io/info/Airport
+Depictions: https://ndk-jailbreak.github.io/info/Airport/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/Airport/?p=info
 
 Package: com.ndk.anime
 Architecture: iphoneos-arm
@@ -229,16 +229,33 @@ Version: 1.0
 Section: Widgets
 Maintainer: NDK
 Filename: ./debs/com.ndk.clockvietnam_1.0_iphoneos-arm.deb
-Size: 16637384
-MD5sum: 7e81a3d3c4f24a72d565c553e22193c1
-SHA1: 65c974e8afdc5a3d03d5c3b1a15bf111558d91b1
-SHA256: 4c7b021481f915730e9a07de08a8a4a62585c92b1657fae325b659477a17bc1a
-SHA512: 315620306db75ef0c0d568d29671d5376eca8171b1ee34892114d88dbd421ee4a57af3080fa07b13166c373de98b3191e6bdc1cc03a931700c293abcfbcd1fe2
+Size: 17032586
+MD5sum: d0a496cd40b15df2e13babe71024d7d4
+SHA1: ad6800cce783af0630b36222aaf78a58df403b44
+SHA256: b40480dd046118160830f246cdd5e99534d4c9d244d5ffb0c1f22a469589e7cf
+SHA512: 6f4c53bda40a1d9e2333b16648fecf8a60bfaf18e323fa036acf7f83b1ba08113e0de744a8679695f7cb63e62cb210bd299bfa7b1ed7e193f658cffecf468aa2
 Description: Wigdet cho XenHTML
 Name: Clock Việt Nam !
 Author: @ongcenh <anhminh311105@gmail.com>
-Depictions: https://ndk-jailbreak.github.io/info/ClockVN
-SileoDepictions: https://ndk-jailbreak.github.io/info/ClockVN
+Depictions: https://ndk-jailbreak.github.io/info/ClockVN/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/ClockVN/?p=info
+
+Package: com.ndk.cover
+Architecture: iphoneos-arm
+Version: 1.6.7
+Section: Wigdets
+Filename: ./debs/com.ndk.cover_1.6.7_iphoneos-arm.deb
+Size: 45692618
+MD5sum: d65bac70c609b0e947ce9dab59f21f03
+SHA1: a019c0bf1dfd4e0bcbce706155605ef277a85b30
+SHA256: 347c9f97c9f2674c0b65b81117a2f4e9cf8fb0f33378eb61a9ce639a5d721e20
+SHA512: 324de9e5cb3e3495d96a904171651ced70f5671526660f657543def1b4227e96a8bdda95692d3fd4189588705977e8437b09e89e72953c0dc5c1f56d4761b255
+Description: Widget cho Xen HTML
+Name: Cover
+Author: Trương Tam Phong
+Depiction: https://nguyendinhkhanh06.github.io/Cydia/info/Cover/?p=info
+SileoDepiction: https://nguyendinhkhanh06.github.io/Cydia/info/Cover/?p=info
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
 Package: com.ndk.daemondisablervn
 Architecture: iphoneos-arm
@@ -248,16 +265,16 @@ Maintainer: KhanhNDK
 Installed-Size: 640
 Depends: mobilesubstrate, preferenceloader, ldid
 Filename: ./debs/com.ndk.daemondisablervn_1.1.3_iphoneos-arm.deb
-Size: 59656
-MD5sum: 3094527f93295c38f29cac3b81075031
-SHA1: 3898a75768dca7b66796b0dc8ddcb87f8baf1ca4
-SHA256: ef0a73982ba1a50fdc1b0d78002efa588069778a87dd6bdacaadc841a0db72b5
-SHA512: e6b9bd9b7b417df397633c85e899e501725568f71625a42e6f40741018f92d2a225c42991e8dd4f0740d3d454e8ebee981d1c755d436fc4dbdce2dddc94be5c8
+Size: 78704
+MD5sum: 6f0d62ff5bbed2ca077aabd27a474205
+SHA1: 1fe0728bee45dc286afc2faa80490f839f7e40af
+SHA256: b7d97d95066e2f97d491c5437da646526c1c98704c768cf559446c5dae15177f
+SHA512: 4c10626204ee272ad31477fabee42ed5349ca3cdb12e48888ace4d2b09f35d4ef004656aa02432c2d43a9bcbdead38dbe6f00450c574815941d4a7786013e893
 Description: Bật Tắt Các Deamon Trong Cài Đặt
 Name: DaemonDisabler VN
 Author: level3tjg
-Depictions: https://ndk-jailbreak.github.io/info/DaemonDisabler
-SileoDepictions: https://ndk-jailbreak.github.io/info/DeamonDisabler
+Depictions: https://ndk-jailbreak.github.io/info/DaemonDisabler/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/DeamonDisabler/?p=info
 
 Package: com.ndk.elagengmg
 Architecture: iphoneos-arm
@@ -484,16 +501,16 @@ Version: 1.2
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.ider_1.2_iphoneos-arm.deb
-Size: 4331220
-MD5sum: cff3eaa4034bdfb9e30c8603b4397648
-SHA1: 705d55dafd799dfee47666251cd6632b658d0c5f
-SHA256: 1e1e340260aaae046888e9c94b240b324c873ac6dbdb77a9901a3f5063e38dcc
-SHA512: 7751680cda091b9d0b5de746806364a617c749221233bcf415e135a9e5e3cd2231fbf5a7489962bccc175fecb980388599d2e37dfc0ce05c3923379f6d72590f
+Size: 6837292
+MD5sum: cd532d5632263ad91fca2bfeed1a5cd1
+SHA1: 67bb191df0265d0f9b369bbe9a5f22d91da6ace3
+SHA256: 694ed01942833603bc3ff7ba98bb26d153a6c739916a6f5c8e078ee610f0aa92
+SHA512: 86a6ca7351cc2510aeb0069669935674dd52cae1d680d603576d99d2dafcd3347aabc02ce1fd9aad61188baedc30c1831fb2f199827091f50b7a05e89945304f
 Description: iDer Theme
 Name: iDer
 Author: NDK
-Depictions: https://ndk-jailbreak.github.io/info/iDer
-SileoDepictions: https://ndk-jailbreak.github.io/info/iDer
+Depictions: https://ndk-jailbreak.github.io/info/iDer/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/iDer/?p=info
 Icon: file:///Applications/Cydia.app/Sections/chudekt.png
 
 Package: com.ndk.iderred
@@ -502,16 +519,16 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.iderred_1.0_iphoneos-arm.deb
-Size: 7574984
-MD5sum: bde967870c3121eca1e2ce02ac3e9705
-SHA1: 36a8e45c6b95beda270a682f35026e6a60689584
-SHA256: 709111385b4792e569f12f02d9bbc90e9fd165c4c5bc54a8ac2f8c1b1ad71d6c
-SHA512: 771e431e6fdbe6f0e31bd8786f99d9f30c12e0157896d3586fdac5d0b177830859bc87d902b2e4564c81a7ff589ff15bbb5f52dfe890a0a610d5f74c8b3e9ff8
+Size: 9142428
+MD5sum: 6af1c3d6ca0becb515e9498323d6cc0c
+SHA1: 1e8cbcbff3816d9d578ad781341cc91d9ac348a2
+SHA256: fbd52fd135274a54dfeade5e3d619bdb63676cca5248ac93739ec8a8175fb2c0
+SHA512: 4b413b56c4453b065bc1b3835e74eb5e2bca5e378d504186462c9124ee1256cec8fdec673b285d92a4b8fc74534f95fcf1c95a0a02c94695ba64a035b3d062ed
 Description: iDer Red Theme
 Name: iDer Red
 Author: NDK
-Depictions: https://ndk-jailbreak.github.io/info/iDerRed
-SileoDepictions: https://ndk-jailbreak.github.io/info/iDerRed
+Depictions: https://ndk-jailbreak.github.io/info/iDerRed/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/iDerRed/?p=info
 Icon: file:///Applications/Cydia.app/Sections/chudekt.png
 
 Package: com.ndk.ios14
@@ -520,16 +537,16 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.ios14_1.0_iphoneos-arm.deb
-Size: 153432
-MD5sum: 7389ea517246aff32df9fe6186347374
-SHA1: 24aecb46f5d3269a33dc0667ca3624f2651870c5
-SHA256: e566b8d3ce7c393c7f51384336d6b1c19468ea3f04f55791f549cda54c80726d
-SHA512: 9448675704a42ee65d9477db7b5967e1b7c58761391d59ede376e67b12e28ffb4a36d74cc758d212b865b981646f607c2c3dfb7d82209b982c57d293624000f5
+Size: 153748
+MD5sum: 0844f5a91d527436b74f9f164e31b38e
+SHA1: fa44750e7df5cb9556907392734157a351f4193d
+SHA256: 25572437b606abb9dc118139499aad641ca23c446c84147e6eff2e89dbf316d7
+SHA512: ef424607fbcc38c977b7811cbd0f1897702d9a01e061319184848b05240061338d200d7ccc37fd978a7600d3f002c2dc53c59f435c82d29b4389e5e72c90c21c
 Description: Chủ đề iOS 14
 Name: iOS 14 (iOS12)
 Author: NDK
-Depictions: https://ndk-jailbreak.github.io/info/iOS14
-SileoDepictions: https://ndk-jailbreak.github.io/info/iOS14
+Depictions: https://ndk-jailbreak.github.io/info/iOS14/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/iOS14/?p=info
 Icon: file:///Applications/Cydia.app/Sections/chudekt.png
 
 Package: com.ndk.ios14wg
@@ -661,18 +678,18 @@ Maintainer: KhanhNDK
 Installed-Size: 378
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.ndk.neptunevn_1.2_iphoneos-arm.deb
-Size: 145832
-MD5sum: 1a2f5624bc95320d467680c14669d97f
-SHA1: cc1ca9f1c328dd4e5517548334fe9d11a1ad3563
-SHA256: 0c6bd016c0fb3d8b10b3fc14478550db0fc9e30b8ed48801bc636585c40e5d3a
-SHA512: e52e43a5df88016b4eebc358b91dc7c347c7f67cd74b352ede75cc4e0cd790a042a806fb5e6ce020f5fd19eeee2170fa6f106572a6e9d4f09962e4fa688cc69b
+Size: 160902
+MD5sum: 9dfbc06bd6b24dbb669c3c063ef03349
+SHA1: 0e3778e5cf7e6f9a51644b892e6dc2be883b934c
+SHA256: b15af745b45ce4d3ab26bce94e811d93140bfe2c9bd09da57e32e4887359c798
+SHA512: a7c7ac633a38b5f50c11366fc8cdacebf22f651976af90ce33e2bdf2a795aae150de98c33430c23129bc8c6dba9127bee03f980889e4b952233698af4a02b868
 Description: Kích Hoạt Cử Chỉ Vuốt iPhone X Trên Các Dòng iPhone
 Tag: purpose::extension, compatible::ios12
 Name: Neptune for iPhone VN
 Author: Duraid Abdul <feedback.100@icloud.com>
 dev: duraidabdul
-Depictions: https://ndk-jailbreak.github.io/info/Neptune
-SileoDepictions: https://ndk-jailbreak.github.io/info/Neptune
+Depictions: https://ndk-jailbreak.github.io/info/Neptune/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/Neptune/?p=info
 
 Package: com.ndk.powercuffvn
 Architecture: iphoneos-arm
@@ -682,16 +699,16 @@ Maintainer: KhanhNDK
 Installed-Size: 156
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debs/com.ndk.powercuffvn_0.1_iphoneos-arm.deb
-Size: 11196
-MD5sum: 70482b6c671738a18bd69ced7e0181d2
-SHA1: 2fa3367d85f5357889c8f820919b654bd3152d6f
-SHA256: 92d1c50eb1d5a8c4309274a62ea4d6455d30098c074ab9335505970d12747f8f
-SHA512: 2b16a60ef84448020dbc160949d72db8ddec28bfa084b5544ba36a330f16d61f86f9a3af9fe1f3653923a5786bd9e57f09402387d5a45a9b06ad58d3762baaad
+Size: 14216
+MD5sum: 6472d5391e7cbdbdf59316de223bddbf
+SHA1: ea7b1f05b950049a3bf3c0679554faac0fa1ad9d
+SHA256: 2a410804cac8533f73a7eceffd33e68db8e4acb4bb02d4ff67423c4b6dac0f12
+SHA512: 2753c9b55f83f754df6574607162790080db6d76d96a0b59aaaacf2e2cf11e0bfe81f4737babe17bf910f858ed2f290df2ee2cebdce523a19831dbd7493a092c
 Description: Select from additional low power device states
 Tag: purpose::extension
 Name: Powercuff VN
-Depictions: https://ndk-jailbreak.github.io/info/Powercuff
-SileoDepictions: https://ndk-jailbreak.github.io/info/Powercuff
+Depictions: https://ndk-jailbreak.github.io/info/Powercuff/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/Powercuff/?p=info
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
@@ -704,16 +721,16 @@ Maintainer: KhanhNDK
 Installed-Size: 4872
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.ndk.proudlockxrvn_0.3-3_iphoneos-arm.deb
-Size: 1136196
-MD5sum: 1bd9680fb27e4f77e8d2058af1a2e54d
-SHA1: 3b8f54cccbc1f6931c63886561af6bdcf17b0290
-SHA256: 556452c27b0b23bc6aa18ed187e51ea4bddc84e96ffb8cc09d57ce37ed99e4bb
-SHA512: 1875201682b3d7c924bca528c300993afe9d0e0056fc497b75f0f5d501715507b8a5b99263020c85596a9cc1368e122f3bdd8d9abfb943a4705286cd1658acc2
+Size: 1385186
+MD5sum: 1bb87933ea3188ae9984b82b31108696
+SHA1: 344e2ec84ce20840174c9a9829be86da40eb3f4b
+SHA256: 9554e9c7e6077f77f8bba4c25d272a21190fa6e1dc3dc9a02d8a034ff4b92a70
+SHA512: b706cf6f6dd00783fbbc369e519793f905f553c630ac6c3b243f16ac5781f921814222a7bab40f0f65a95b862422d4142faa6d2ecfb58c5f501117367697d190
 Description: Thêm Biểu Tượng Khoá Như iPhone X
 Name: ProudLock Xr VN
 Author: Sniper_GER <sniperger@festival.ml>
-Depictions: https://ndk-jailbreak.github.io/info/ProudlockXr
-SileoDepictions: https://ndk-jailbreak.github.io/info/ProudlockXr
+Depictions: https://ndk-jailbreak.github.io/info/ProudlockXr/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/ProudlockXr/?p=info
 
 Package: com.ndk.rgboardvn
 Architecture: iphoneos-arm
@@ -723,16 +740,16 @@ Maintainer: MiRO <tweaks_support@miro92.com>
 Installed-Size: 680
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
 Filename: ./debs/com.ndk.rgboardvn_1.0.5_iphoneos-arm.deb
-Size: 278964
-MD5sum: 551cccd81e88594cf03d4ba2d5a88015
-SHA1: a70482598d5bce6c551d2f6ad5145bd94b1debc7
-SHA256: cba94fd7c383769f27eb6ee1246091f6351565f94b9c5ef2ab741b64cc8e529f
-SHA512: ef719ab676e49128598b0e58cc96fff8fccc6508cba9e5286e4a470fcc133ea255911a13797dbaae2de5448758ffd2701d4dc4b09af50fea84997cd57863a263
+Size: 324744
+MD5sum: 586a1d6944d79d1ef7a749a6ee3ca316
+SHA1: 64364c3d22fc83ef51aa85e4af9133a2adf6f854
+SHA256: 1cb8f026df6463b0ed055a67bcd6ff994563feed93a209be37b74f7fe483753d
+SHA512: 3881516c52a7d5516f2e5c0e3c60f866ede5671d33d81faa40496c7c3b7b10c6b3851eafd4eb44644364fe12cfc3b55ed58de0aa4da2a9809fdc150ff2ac5cc8
 Description: Razer Chroma RGB keyboard.
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios13.6
 Name: RGBoard VN
-Depictions: https://ndk-jailbreak.github.io/info/RGBoard
-SileoDepictions: https://ndk-jailbreak.github.io/info/RGBoard
+Depictions: https://ndk-jailbreak.github.io/info/RGBoard/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/RGBoard/?p=info
 Author: MiRO <tweaks_support@miro92.com>
 
 Package: com.ndk.savegtasa
@@ -859,14 +876,14 @@ Maintainer: Nepeta
 Installed-Size: 488
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
 Filename: ./debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
-Size: 90236
-MD5sum: 76f12aad94437a08373fd18818162c30
-SHA1: b4407417b4935ceb5a6fa813ce72e1f6e96cdf51
-SHA256: 5bedadfcd69e2c827626c4ba14d7d6b78d1f8dd0757d71f4f99a3fa3d5875d1a
-SHA512: 2c61d61088688c099d26abebe44b8122e59b92327c85a601a878611b1d43b90a5f724b4de623db8ced47c13311f51a8e5325c8ea0460c1c8cd6962ab14e459db
+Size: 125650
+MD5sum: b17f538769a625d9550b8c63f209c0c4
+SHA1: a10ce4cd25cf59230748bba1136cf46ba5e59429
+SHA256: 5c42540779d26bd717e25996e8cc0aba47134e155f6d60325f8c85991d13c522
+SHA512: 0277e74fce13a006153267059133d4080f411daad80131cf2f9ba2fb223d1e7225d9dd5d6a6d97641f8d9be6b3d6ee376e0020339a84dc0f8cd752e0781c3bc5
 Description: Lock screen music player redesign
 Name: Nereid
 Author: Nepeta
-Depictions: https://ndk-jailbreak.github.io/info/Nereid
-SileoDepictions: https://ndk-jailbreak.github.io/info/Nereid
+Depictions: https://ndk-jailbreak.github.io/info/Nereid/?p=info
+SileoDepictions: https://ndk-jailbreak.github.io/info/Nereid/?p=info
 
