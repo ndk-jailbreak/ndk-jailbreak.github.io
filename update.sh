@@ -49,12 +49,12 @@ done
 echo "{}]" >> all.pkgs
 }
 echo "------------------"
-echo "Building Packages...."
+echo "Đang Tạo Packages...."
 apt-ftparchive packages ./debs > ./Packages;
 #sed -i -e '/^SHA/d' ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
-echo "Building Release...."
+echo "Đang Tạo Release...."
 printf "Origin: NDK's Repo\nLabel: NDK's Official Repo\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Kho Lưu Trữ Các Tinh Chỉnh Cho iOS\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
 
 echo "------------------"
