@@ -1,3 +1,19 @@
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0~release
+Section: System
+Maintainer: KhanhNDK
+Depends: mobilesubstrate
+Filename: ./debs/com.matchstic.xenhtml_2.0~release_iphoneos-arm.deb
+Size: 4226476
+MD5sum: 3f474acae837609d14e88c9962ea2fae
+SHA1: 1fe4c05f686705b76c055de8aa12790b14512299
+SHA256: 6f8c36334fa044b264903d28da234ddd976e79088cc325aa8e4dbd5609111de5
+SHA512: 0ead44cd9252c8fc9731545b6979264137aea0293b6231cd6b87bb722406f6fd2c8f775f624033c5d5708808823d982677cac90aba6c44c01aae5861cdde18ac
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+Name: Xen HTML
+Author: Matt Clarke
+
 Package: com.ndk.13hudvn
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -113,6 +129,23 @@ Name: Anime
 Author: Trương Tam Phong
 Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
 
+Package: com.ndk.autofishing
+Architecture: iphoneos-arm
+Version: 1.0
+Section: AutoTouchTweak
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, net.kenhtao.autotouch
+Conflicts: com.BIENVANNHAT.autotouch
+Filename: ./debs/com.ndk.autofishing_1.0_iphoneos-arm.deb
+Size: 4980
+MD5sum: c7f4e868f43002ce09689c6f295313bd
+SHA1: 574846d95cb8cbfdf4cfa243547f147fbab3669b
+SHA256: bae4e1906f9a3586077901c3a624bbb04dc923a03a6b438eda7e712ac34894c8
+SHA512: b7e4898292ab7470a6bf62e2cb1434cb163843ec465012233ef3e64566000aebafab6a49a1f2b375ce0a3919f5c6061bb4f89379745cbbca422088ba1119fd78
+Description: Auto câu cá cho mọi dòng iPhone, iPad (iPhone: 5SE - 12 Pro Max, iPad: Air 2 - iPad Pro).
+Name: Auto Fishing PlayTogether
+Author: To Bự
+
 Package: com.ndk.autohidehomebarxvn
 Architecture: iphoneos-arm
 Version: 1.0.4
@@ -206,6 +239,23 @@ Description: Belle UI
 Name: Belle UI
 Author: NDK
 Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+
+Package: com.ndk.carbondarkmodevm
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 731
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.ndk.carbondarkmodevm_1.5_iphoneos-arm.deb
+Size: 82380
+MD5sum: cf235639f8015c4f0e4724677ddcc868
+SHA1: 03b42eb7f1e76675e18d983e9d5085544e72d2f1
+SHA256: 297e8144b1630535f077581ae0c7229939761bf28aece8736a2dceb9870e5fbf
+SHA512: a3bbc96f1ecae106fb41d0ba44ed68b606ca9f0d162098ce3db302f2c9b9aff16e0c8f288bb1d09c58f1bed52542ae3c88d7bc15503db3da19229a3dc101c498
+Description: Chế độ tối trên toàn hệ thống
+Name: Carbon Dark Mode VN
+Author: OxideLabs
 
 Package: com.ndk.ciutadellarounded
 Architecture: iphoneos-arm
@@ -495,6 +545,24 @@ Description: Bật Cử Chỉ iPhone X Cho Các Dòng iPhone Đời Thấp
 Name: HomeGesture Lite VN
 Author: VitaTaf
 
+Package: com.ndk.iconrepo
+Architecture: iphoneos-arm
+Version: 1.0
+Essential: yes
+Section: System
+Maintainer: KhanhDNK
+Filename: ./debs/com.ndk.iconrepo_1.0_iphoneos-arm.deb
+Size: 233310
+MD5sum: b6288a05852cff396df9f3329c302e56
+SHA1: cd7c5c6b8384f5297be7adb14dc4bdd4cfcacf52
+SHA256: e2149e90f5dd245f815dcb7962d0076764639277647a5fc121d21c22d7732962
+SHA512: 5e9d7ef04261548ad1b1bac725ee4c0a096505c08bcb282f252f60105d8e4b95bf99f02fd56e10e80a570e8ad68aacb5759a2303bceae31bf6a3477f73f3eceb
+Description: Biểu tượng Cydia cho kho lưu trữ NDK
+Name: BVN-Icon Repo
+Author: NDK
+Depiction: Biểu tượng Cydia cho kho lưu trữ NDK
+Icon: file:///Applications/Cydia.app/Sections/system.png
+
 Package: com.ndk.ider
 Architecture: iphoneos-arm
 Version: 1.2
@@ -581,6 +649,24 @@ SHA512: 9a9760459b31a5b403061e821b81f17c272844fd4f496ce33ae90bc827ed83007b573180
 Description: Mang Thanh Trạng Thái iPad Lên iPhone
 Name: iPadStatusBar VN
 Author: NoisyFlake
+
+Package: com.ndk.jellyfishvn
+Architecture: iphoneos-arm
+Version: 1.6.0.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11,com.junesiphone.lockpluspro,com.adriandev.jellyfishcustom,com.bengiannis.manta,hi.my.name.is.ubik.kalm
+Filename: ./debs/com.ndk.jellyfishvn_1.6.0.1_iphoneos-arm.deb
+Size: 67552
+MD5sum: e4a07f487023dcb77b877dae6aa8b9bb
+SHA1: 0ac12541d402345c491b872fe96f3e6cfdd5e484
+SHA256: 13c861b1712aa6b2bbedd9da4cef0162402c8c49ae816d786816a5dee367e909
+SHA512: 5cd3de7e8f34009244b3bdd8326a12a796e747375239bf72da1ce59edd3619b29401a0d642680b5e2997da214b43b32360f172bf480d7a63e6b4dbe175943018
+Description: Cải thiện màn hình khoá của bạn
+Name: JellyFish VN
+Author: Justin Proulx and AppleBetas
+Icon: file:///Applications/Cydia.app/Sections/chudekt.png
 
 Package: com.ndk.keyboardx
 Architecture: iphoneos-arm
@@ -784,6 +870,22 @@ Name: SF Compact Rounded
 Author: NDK
 Icon: file:///Applications/Cydia.app/Sections/chudekt.png
 
+Package: com.ndk.songios10
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Car
+Maintainer: KhanhNDK
+Depends: firmware (>= 12)
+Filename: ./debs/com.ndk.songios10_1.0_iphoneos-arm.deb
+Size: 1171432
+MD5sum: f283453686a815d2154e3bc563774226
+SHA1: cd72dd4c83eab76e1b642392c44d344d23a37780
+SHA256: e3d2fa43ee35e52b2e53d411557b426ae01b857817ca4f8971470f009bef51f9
+SHA512: 9aaa490e4bb595518a6939bff99186fd5a0c5f1d59a336eedf25ccb1fb4c2c2f2113eac012a6c1a4aa843ad58fd9f869266521f061676e88d681eb8ac6748207
+Description: Cột Sóng iOS 10
+Name: Sóng iOS10
+Author: NDK
+
 Package: com.ndk.statusbarxs
 Architecture: iphoneos-arm
 Version: 1.2
@@ -817,6 +919,26 @@ SHA512: b02dad833668e575034b908bdc8e74ab61e3889184b2f08ebfea80a7fd8746617e233ad3
 Description: Hiện Phần Trăm Ở Thanh Trượt Control Center cho ios 11-12
 Name: SugarCane VN
 Author: iOS Creatix
+
+Package: com.ndk.systeminfovn
+Architecture: iphoneos-arm
+Version: 2.0.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 913
+Depends: mobilesubstrate, firmware (>= 3.0)
+Filename: ./debs/com.ndk.systeminfovn_2.0.0-1_iphoneos-arm.deb
+Size: 178404
+MD5sum: 35a365d8dae141ec3bbf31f66ab192f6
+SHA1: b06e02a3440893cf593e26b0ee91b24ddcc75423
+SHA256: 616dd0f4b65f6e42d4db05d2d30eac718d78d8344d6936c5ce0943a6cf1569ee
+SHA512: d42fbff7b01a76db95355524ae287431efdcf4baf67f3c0660262936c0b1bac62a45040f7cb3e7507102b901fc3e21ba436a87956ef3bbc7fc2e4c9b6ad61483
+Description: Thêm Nhiều Thông Tin Về Máy Của Bạn
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+Name: System Info VN
+Author: ARX8x <arx8@icloud.com>
+dev: arx8x
 
 Package: com.ndk.tronmokenhtao
 Architecture: iphoneos-arm
@@ -868,6 +990,42 @@ Name: Volte Rounded
 Author: NDK
 Icon: file:///Applications/Cydia.app/Sections/chudekt.png
 
+Package: com.ndk.zebra
+Architecture: iphoneos-arm
+Version: 1.1.21
+Section: Packaging
+Maintainer: KhanhNDK
+Installed-Size: 16308
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debs/com.ndk.zebra_1.1.21_iphoneos-arm.deb
+Size: 8413700
+MD5sum: cbc18eedac1ec9e287267f2065dd197d
+SHA1: fe456edf665ab4b5c66a7d85dc6d9a55f73e4af8
+SHA256: e3ba4a06ff1604a738329fe2d5c16356ff40f0ed057e7cb241876a38c535c212
+SHA512: 6f899164cc63c7efebd082fa49d34731be95e4d03bbf0f3877b1976ef63ff32205c92a70a8357b3113d08a4fa5a8140a233c66fca2ee00f0284b59376e366d55
+Description: Trình quản lý tinh chỉnh
+Tag: compatible::9.0-14.6
+Name: Zebra
+Author: Wilson Styres <wilson@styres.me>
+
+Package: me.nepeta.docky
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 344
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.iconstate
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/me.nepeta.docky_0.1.0_iphoneos-arm.deb
+Size: 38156
+MD5sum: 25a8a397b2da74e21114b83129521d93
+SHA1: 2108b779ed44109353d53cccf73f0e02baefdcc7
+SHA256: 4a2c03e6271b88a115c4f3054dbb4178de622d411b5a7778b537bfd82760515c
+SHA512: 838a8f62f7084a5095bd27502ab32401c29363242e16db847edb810bc6c7fd1ce6df513a2f27ee2dcbb6f32ef54234d4745e784639b9bfc9f68e2a6a68c85251
+Description: Dock customizer
+Name: Docky
+Author: Nepeta <ominousness@protonmail.com>
+
 Package: me.nepeta.nereid
 Architecture: iphoneos-arm
 Version: 0.1.8-1
@@ -886,4 +1044,22 @@ Name: Nereid
 Author: Nepeta
 Depictions: https://ndk-jailbreak.github.io/info/Nereid/?p=info
 SileoDepictions: https://ndk-jailbreak.github.io/info/Nereid/?p=info
+
+Package: me.nepeta.notifica
+Architecture: iphoneos-arm
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Nepeta
+Installed-Size: 1128
+Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
+Conflicts: io.ominousness.modernxi
+Filename: ./debs/me.nepeta.notifica_0.3.1_iphoneos-arm.deb
+Size: 397424
+MD5sum: fe6bf4346269c85f072e2c571095039e
+SHA1: 1f3ad314ec15b70b3638a1b893bbebb3bce0f583
+SHA256: b0d1b48f33d8ea05fd3bccae533d20eccce0cef1daec6400a97395d33fcb4986
+SHA512: 9a1f0140b8822a233e45af96936c5519b63f3ccb8a7305623333ca2b507212e449105d42ab199311a40c94c47d515d77dc25856f354374f4f67486f61efeb814
+Description: Notification customizer
+Name: Notifica
+Author: Nepeta
 
