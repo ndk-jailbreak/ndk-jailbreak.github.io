@@ -545,24 +545,6 @@ Description: Bật Cử Chỉ iPhone X Cho Các Dòng iPhone Đời Thấp
 Name: HomeGesture Lite VN
 Author: VitaTaf
 
-Package: com.ndk.iconrepo
-Architecture: iphoneos-arm
-Version: 1.0
-Essential: yes
-Section: System
-Maintainer: KhanhDNK
-Filename: ./debs/com.ndk.iconrepo_1.0_iphoneos-arm.deb
-Size: 233308
-MD5sum: 8fbe55e867b3ac030638f1a5b758aaad
-SHA1: 3bda754ae3c2cba378fbb14270dace49d758ddf1
-SHA256: 8b1656e088ff7e7541374104566dc6425aa51ad12299d68c0d49599267d0b3d6
-SHA512: 78e67a1a8fc0b1625ab44a61b8577d82de3e25b32f4cd6ce76d7b92222f394ce90a51cb5ce47227f07d6011c82f492f6f08aba865f0d3abc4460c98bcfd2de69
-Description: Biểu tượng Cydia cho kho lưu trữ NDK
-Name: NDK-Icon Repo
-Author: NDK
-Depiction: Biểu tượng Cydia cho kho lưu trữ NDK
-Icon: file:///Applications/Cydia.app/Sections/system.png
-
 Package: com.ndk.ider
 Architecture: iphoneos-arm
 Version: 1.2
