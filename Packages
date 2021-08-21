@@ -990,6 +990,26 @@ Tag: compatible::9.0-14.6
 Name: Zebra
 Author: Wilson Styres <wilson@styres.me>
 
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.6.2R
+Priority: optional
+Section: System
+Maintainer: KhanhNDK
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./debs/jp.soh.reprovision_0.6.2R_iphoneos-arm.deb
+Size: 15957210
+MD5sum: a19ccf70dc7eb4b35ca69b9f8e8e26da
+SHA1: 8c16db9ab8bcd07c15590018e21992cf26ad5b6a
+SHA256: 5ae628e80b3a7a1fb4ee7d44a083a1ccdeeedd6ccce94a4173a4caaa8ccf7f10
+SHA512: f8d90546bda4674bf581e4a53b3c81a778ab3d79f8c14cbff42d0b73bff7ad56af2b08686b85a3123cd9086e7f4c39cfa53561454c54f935f628df7e393be509
+Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
+Name: ReProvision Reborn VH
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+
 Package: me.nepeta.docky
 Architecture: iphoneos-arm
 Version: 0.1.0
