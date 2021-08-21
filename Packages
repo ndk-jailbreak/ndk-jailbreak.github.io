@@ -705,6 +705,23 @@ Description: LittleX revitalized for iOS 12.
 Name: LittleXS VN
 Author: binksalex & Ryan Nair
 
+Package: com.ndk.lockdown
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: KhanhNDK
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.lockdown_1.0.5_iphoneos-arm.deb
+Size: 19572
+MD5sum: 1806dccd9de67257ffec9c0af97b436d
+SHA1: ffb7a882a4271da4c6ab2fd50b01a67236f7d461
+SHA256: cfd276447b07932abbd9ca6aae0217fb5f124a6c3be85fb5b8355f618e5c9720
+SHA512: c519eaac2be49b51a08cadb4520334154652852f03d9fe55adfdf97c2681d60996d950c63531438d7996e9478a7d17fbde5a885c950c55b1399351ff0aa61bc1
+Homepage: https://repo.krit.me/pack/lockdown
+Description: Cho phép đặt mật mã cho iOS 14+ A11. (Checkra1n)
+Name: LockDown Beta
+Author: _kritanta <kritantadevelopment@gmail.com>
+
 Package: com.ndk.lunartime
 Architecture: iphoneos-arm
 Version: 0.1
