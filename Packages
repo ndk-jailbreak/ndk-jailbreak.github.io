@@ -326,6 +326,24 @@ Author: level3tjg
 Depictions: https://ndk-jailbreak.github.io/info/DaemonDisabler/?p=info
 SileoDepictions: https://ndk-jailbreak.github.io/info/DeamonDisabler/?p=info
 
+Package: com.ndk.docky
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 344
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.iconstate
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/com.ndk.docky_0.1.0_iphoneos-arm.deb
+Size: 55904
+MD5sum: 88523589a39fd0964d394d5e85dbf881
+SHA1: fd08abf832b8306547b27cf758c39e8f225f1a39
+SHA256: c726bf33dfc530bf5666d17244d5bf37559566d758ce4a09995b807e94c648c6
+SHA512: bfc4a1d8271cb247af7ae42560d896d3c49418339ec18864955e763742a2682ffd9a1ce8758ab819523be75ab1fd2a4eb5c6af55692ed85790c1bd2e81340997
+Description: Dock customizer
+Name: Docky
+Author: Nepeta <ominousness@protonmail.com>
+
 Package: com.ndk.elagengmg
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1009,24 +1027,6 @@ Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
 Name: ReProvision Reborn VH
 Author: Soh Satoh, Matt Clarke
 dev: Matt Clarke
-
-Package: me.nepeta.docky
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Tweaks
-Maintainer: Nepeta <ominousness@protonmail.com>
-Installed-Size: 344
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.iconstate
-Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
-Filename: ./debs/me.nepeta.docky_0.1.0_iphoneos-arm.deb
-Size: 38156
-MD5sum: 25a8a397b2da74e21114b83129521d93
-SHA1: 2108b779ed44109353d53cccf73f0e02baefdcc7
-SHA256: 4a2c03e6271b88a115c4f3054dbb4178de622d411b5a7778b537bfd82760515c
-SHA512: 838a8f62f7084a5095bd27502ab32401c29363242e16db847edb810bc6c7fd1ce6df513a2f27ee2dcbb6f32ef54234d4745e784639b9bfc9f68e2a6a68c85251
-Description: Dock customizer
-Name: Docky
-Author: Nepeta <ominousness@protonmail.com>
 
 Package: me.nepeta.nereid
 Architecture: iphoneos-arm
