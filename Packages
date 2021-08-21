@@ -859,14 +859,14 @@ Section: Car
 Maintainer: KhanhNDK
 Depends: firmware (>= 12)
 Filename: ./debs/com.ndk.songios10_1.0_iphoneos-arm.deb
-Size: 1171432
-MD5sum: f283453686a815d2154e3bc563774226
-SHA1: cd72dd4c83eab76e1b642392c44d344d23a37780
-SHA256: e3d2fa43ee35e52b2e53d411557b426ae01b857817ca4f8971470f009bef51f9
-SHA512: 9aaa490e4bb595518a6939bff99186fd5a0c5f1d59a336eedf25ccb1fb4c2c2f2113eac012a6c1a4aa843ad58fd9f869266521f061676e88d681eb8ac6748207
+Size: 1277426
+MD5sum: 532e235e28dda26efaf8a3ae2e8b8893
+SHA1: 3039769977819a37c58a1882fa64e50256a64301
+SHA256: 299a55665bb4b51185c1aaffb0c1901d32fe92ae0fe8bea1aa36ab3033d9b54c
+SHA512: c97f45496645a144282d3177cc4b97ef0aa72a3c043157802108131ae19437a95e80171e7b139a1ad6d673807d6a90cb014cac7b643511355c3b0f68a7569385
 Description: Cột Sóng iOS 10
 Name: Sóng iOS10
-Author: NDK
+Author: @ongcenh
 
 Package: com.ndk.statusbarxs
 Architecture: iphoneos-arm
