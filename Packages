@@ -280,15 +280,15 @@ Section: Widgets
 Maintainer: NDK
 Filename: ./debs/com.ndk.clockvietnam_1.0_iphoneos-arm.deb
 Size: 17032586
-MD5sum: d0a496cd40b15df2e13babe71024d7d4
-SHA1: ad6800cce783af0630b36222aaf78a58df403b44
-SHA256: b40480dd046118160830f246cdd5e99534d4c9d244d5ffb0c1f22a469589e7cf
-SHA512: 6f4c53bda40a1d9e2333b16648fecf8a60bfaf18e323fa036acf7f83b1ba08113e0de744a8679695f7cb63e62cb210bd299bfa7b1ed7e193f658cffecf468aa2
+MD5sum: 54a1e928726520514e104cc34f5fe5f3
+SHA1: 9f3d5a6e04685492c46c607861693133ef9daf3c
+SHA256: aefd015214eb26ffd7d72b39e9756f506a6673528a83282bfa91fb58b3a20bcb
+SHA512: 83789af342dd12d8b64e1426abac0f050fc326ac834299e3d0ea73b55290ecb8ab34a655f7eb44d4caec5717076296d014c40570031767ca284acdca5d6d72c6
 Description: Wigdet cho XenHTML
 Name: Clock Việt Nam !
 Author: @ongcenh <anhminh311105@gmail.com>
-Depictions: https://ndk-jailbreak.github.io/info/ClockVN/?p=info
-SileoDepictions: https://ndk-jailbreak.github.io/info/ClockVN/?p=info
+Depiction: https://ndk-jailbreak.github.io/info/ClockVN/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/ClockVN/?p=info
 
 Package: com.ndk.cover
 Architecture: iphoneos-arm
