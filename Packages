@@ -103,16 +103,16 @@ Installed-Size: 20416
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
 Conflicts: com.yourepo.exfoliate.glitchpods
 Filename: ./debs/com.ndk.airportvn_2.1_iphoneos-arm.deb
-Size: 16836146
-MD5sum: 62881026e70d9e6ba9016efcabaf5ba7
-SHA1: baf9df84f12077f1c8c694d3c1dbd3927a5275b9
-SHA256: a3ef74ea06b0bd67c8e901a96e9c52efcb01871b905e2fba6345f412ab2e972c
-SHA512: a740861f2557055422a02b7261ec4efb4a6588946e0e7b25e515a96e047029ed396a701934b9437154b8e5e0c3e02e428d153c1c28119b27fdaba8ce1a4bb85f
+Size: 16836154
+MD5sum: 024816a93df4df370a25a8bf3f6528b0
+SHA1: 0b7243b67c0087ae617ca16e0e8029ffa56274ba
+SHA256: 039817342badb930943c2c4590a79a61a8a6f2077adda3ea582c80d78769a297
+SHA512: a04675013e268a090e8edac7f286f159991fb016ab1161a0971447be5932c627999c1d78ee69198be58eb0a61c6f446d38bb6fd1428d24bc5e1ade15b80a9648
 Description: cải thiện thông báo AirPods của bạn
 Name: AirPort VN
 Author: Boo
-Depictions: https://ndk-jailbreak.github.io/info/Airport/?p=info
-SileoDepictions: https://ndk-jailbreak.github.io/info/Airport/?p=info
+Depiction: https://ndk-jailbreak.github.io/info/Airport/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Airport/?p=info
 
 Package: com.ndk.anime
 Architecture: iphoneos-arm
