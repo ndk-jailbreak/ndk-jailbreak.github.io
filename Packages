@@ -18,19 +18,22 @@ Package: com.ndk.13hudvn
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Muirey03
+Maintainer: KhanhNDK
 Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
 Conflicts: applebetas.ios.tweak.willow, es.ubikstyl.sonus12, org.fwdr.sonus, com.midkin.byebyehud, me.nepeta.flashyhud, com.lnx.aerify, com.ruler225.videohud, me.nepeta.brokenhud, com.ikilledappl3.switchhud, com.yakir.volhud
 Filename: ./debs/com.ndk.13hudvn_1.0.1_iphoneos-arm.deb
-Size: 31256
-MD5sum: 1d91677969638a76a53bdc24ca89c8e7
-SHA1: 2fe6ee1a1387c89cdba4974b9a49fa84e389feb0
-SHA256: 0a457829153652b98cc13f8c8e9e4ebd4575cf35b65a13ce6d3bdcb88a6b3feb
-SHA512: 00ab821de813041db456c27dcb1180ca110ea6a0ba1bada94df3176383f49bbb1d2e268f8c596475453f0e7232a0cccee0f7ada7c414dc239e2c9a72192b5910
+Size: 51632
+MD5sum: 5fc63691f5ecc123e14f1ed988c82e6c
+SHA1: 2b12a6a1a9d567ec7c9a91071eb99cd4a417ff98
+SHA256: 62c51d4dc2b637224c1b23293e5a458b5786b12d15586fc6488d46b8ecf5bd44
+SHA512: 865d41cad27f685d785a636eda27ab0c1274f47e7dbdb29a45e5535dcb6ed606f89dbc21dc7412920062abbd025070397b56a0b95268fa3e304bd377258fa59f
 Description: Thanh điều chỉnh âm lượng của iOS 13 cho iOS 11, 12
 Name: 13HUD VN
 Author: Muirey03
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/13HUD/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/13HUD/?p=info
 
 Package: com.ndk.8ballhack
 Architecture: iphoneos-arm
@@ -157,20 +160,19 @@ Maintainer: KhanhNDK  <nguyendinhkhanh06@gmail.com>
 Installed-Size: 396
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.ndk.autohidehomebarxvn_1.0.4_iphoneos-arm.deb
-Size: 25652
-MD5sum: d297129ea45a2c8ebe3608b6f8fa1fb3
-SHA1: 850710c0667cf9ef4f42894e8ff4a3e1736c78f7
-SHA256: 970020f0a825592be2bb76302127a2a1a680272afccb0135e67262049903b1a5
-SHA512: 38cbbd3588c8c90479a0552167d4936f669a6e4d834d37222bc9cecbab124b6c15a140bae51d51a94441bd110906338dee438d6219d9758d77f0a584ba56e5e0
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autohidehomebarxDp
-Description: Homebar hide, swipe disabler
+Size: 37312
+MD5sum: 88278a61a092630dbced1bd97df450ca
+SHA1: 8cca604f7dd4ae6f4fa850d2a1c30fa8d62a6626
+SHA256: 80652a1f9830b79438c02f3624de44378cf057ca13ba931a6bff160cb8936607
+SHA512: e7e2374bd53cf0f17d9ac225fe8f68c630fd0d6e85f2ea3ee3a2cab3090cd34efc1778fa2478e326d35ce02847426b7de9417304def5527b55105c7a02300764
+Description: Tự Động Ẩn Thanh Home iPhone X
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Asterix <asterix_gaul@outlook.com>
 Name: AutoHideHomeBarX VN
-Depiction: Tự Động Ẩn Thanh Home iPhone X
-Sponsor: thebigboss.org <http://thebigboss.org>
+Depiction: https://ndk-jailbreak.github.io/info/autohidehomebarX/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/autohidehomebarX/?p=info
 dev: asterix
-Icon: file:///Library/PreferenceBundles/autohidehomebarx.bundle/icon2x.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.backgrounderaction12
 Architecture: iphoneos-arm
@@ -197,17 +199,18 @@ Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Installed-Size: 488
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.ndk.barmoji_2020.5_iphoneos-arm.deb
-Size: 59484
-MD5sum: 72d0a3c5fed53aed65f65570d529da36
-SHA1: 7cb4beef2758e456bee303986e697fb99027ae51
-SHA256: dc3b0f93620a552d4aea85ad6aac9626f567eb3928667e9331b3acce113a35a4
-SHA512: d7533c32ee050f0de8d3fef9c4d5a4360e018d28d02fed23d2b5435bdcd967d5144f232c3f869dd708635a08e7c58f78b53eef1bb21d6e02f7197bfc4cf92b51
-Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Size: 108092
+MD5sum: 472d5e7695369d4f441722adc13a1045
+SHA1: 09e8aab93f669e673e0c549fc0e37a960491eaae
+SHA256: 07d947c32bb0f38150b2f3148fd014353861d661e99ab51cd3d47704469254b4
+SHA512: 3d055ab1d69fedf371c466323f68a0fcff5595ef07edee3d5168fed8aabe7893002d723dde3be1ff2eea398677dfd286d832b746b57633e5e9b4ab597a9350da
 Description: Quick Emoji Access Bar
 Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
 Name: Barmoji
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Depiction: https://ndk-jailbreak.github.io/info/Barmoji/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Barmoji/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.begreen12
 Architecture: iphoneos-arm
@@ -246,22 +249,25 @@ Name: Belle UI
 Author: NDK
 Icon: file:///Applications/Cydia.app/Sections/chudekt.png
 
-Package: com.ndk.carbondarkmodevm
+Package: com.ndk.carbondarkmodevn
 Architecture: iphoneos-arm
 Version: 1.5
 Section: Tweaks
 Maintainer: KhanhNDK
 Installed-Size: 731
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
-Filename: ./debs/com.ndk.carbondarkmodevm_1.5_iphoneos-arm.deb
-Size: 82380
-MD5sum: cf235639f8015c4f0e4724677ddcc868
-SHA1: 03b42eb7f1e76675e18d983e9d5085544e72d2f1
-SHA256: 297e8144b1630535f077581ae0c7229939761bf28aece8736a2dceb9870e5fbf
-SHA512: a3bbc96f1ecae106fb41d0ba44ed68b606ca9f0d162098ce3db302f2c9b9aff16e0c8f288bb1d09c58f1bed52542ae3c88d7bc15503db3da19229a3dc101c498
+Filename: ./debs/com.ndk.carbondarkmodevn_1.5_iphoneos-arm.deb
+Size: 132292
+MD5sum: fe1231aa93d7c776ef1d3687328d4776
+SHA1: cc154a7e15efd45117c50603466da42a0252c42b
+SHA256: 0c5b818a9eb7d7d4b9e8061968d6336490e4fe7721f6626ca2a8d785de8af25d
+SHA512: c4ee31cb3f5d99f04667c55a1f0b378f841a0e2b0cd3a87fd613e4cc5d07c34d0e141dc2defb652a9f55e19506d7ece00e1826ca7f4801f8d62bbdfec62015d6
 Description: Chế độ tối trên toàn hệ thống
 Name: Carbon Dark Mode VN
 Author: OxideLabs
+Depiction: https://ndk-jailbreak.github.io/info/Carbon/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Carbon/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.ciutadellarounded
 Architecture: iphoneos-arm
@@ -324,16 +330,17 @@ Maintainer: KhanhNDK
 Installed-Size: 640
 Depends: mobilesubstrate, preferenceloader, ldid
 Filename: ./debs/com.ndk.daemondisablervn_1.1.3_iphoneos-arm.deb
-Size: 78704
-MD5sum: 6f0d62ff5bbed2ca077aabd27a474205
-SHA1: 1fe0728bee45dc286afc2faa80490f839f7e40af
-SHA256: b7d97d95066e2f97d491c5437da646526c1c98704c768cf559446c5dae15177f
-SHA512: 4c10626204ee272ad31477fabee42ed5349ca3cdb12e48888ace4d2b09f35d4ef004656aa02432c2d43a9bcbdead38dbe6f00450c574815941d4a7786013e893
+Size: 78728
+MD5sum: 166f492b0a90711c393001c52886d393
+SHA1: 5e41620bc6c36a694cb29b04a0dea0a0abe57c26
+SHA256: a65902f840c28be3a080cdf2dce5627f407a7ab2bb3a7bed5de1c8832e20662e
+SHA512: 9f35dd18e89117fedf89f1c3587b6c18fad4e50a889b3caa1b730296899b5b316ab8f58e33946da17b2e9f93169387d2f42a0a514d1940b8eb345c607cdee90b
 Description: Bật Tắt Các Deamon Trong Cài Đặt
 Name: DaemonDisabler VN
 Author: level3tjg
-Depictions: https://ndk-jailbreak.github.io/info/DaemonDisabler/?p=info
-SileoDepictions: https://ndk-jailbreak.github.io/info/DeamonDisabler/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/DaemonDisabler/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/DaemonDisabler/?p=info
 
 Package: com.ndk.docky
 Architecture: iphoneos-arm
@@ -515,15 +522,17 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.greenmist_1.0_iphoneos-arm.deb
-Size: 2447284
-MD5sum: 06799279ead607dd3b95723a7ac2e971
-SHA1: dc609a8380de532d12c658f9021c4c36a05858e1
-SHA256: 2e665f6c57fbc01e8b5b2ef6000e52b014d0b4d71f2bff724161aefe62763949
-SHA512: 8991db26531c7413ee8cb51a2fe1d41383848ee450d2001dae2ee7ec35f92f0f71d74f66ced7ca508ea18aeee3c677245bb3eeb7b40080252bd5aacc08bf5fe5
+Size: 3314442
+MD5sum: 066963e7ae60b8c8341644c5a1fc39c3
+SHA1: 2e09a90c20538d81adb1fbe3d4b9c6815a5965e4
+SHA256: 528778ad3b944068ef1ab779af20e71076cf3a015dcd2dc0cc5ce9e920cb66d6
+SHA512: 752be6e6d53257c47a6dfbfe650c47a0f17751707cc3d455ecf81cd460299ae7779a7411ca4682fb3ab4f643417917dc9d73d4da5767e72cad19a3625151390d
 Description: GreenMist Themes
 Name: GreenMist
 Author: NDK
-Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+Depiction: https://ndk-jailbreak.github.io/info/GreenMist/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/GreenMist/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.greenred
 Architecture: iphoneos-arm
@@ -549,20 +558,19 @@ Maintainer: BigBoss
 Installed-Size: 321
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.ndk.halfipad_3.3.0_iphoneos-arm.deb
-Size: 40048
-MD5sum: b027d4e457def2eccb235075b962096b
-SHA1: a386fe507ca2b2eb10fb217c3508850f7fe2ab1d
-SHA256: 7f3406875f763b39cf1ee7ca07438842ba2ff9357713e93214af89e24b519da4
-SHA512: b3bcf25f4453a6530f715f1c105101773a1888aeaae0def9fdbdd453ff9f9bc4e6f54f12487c13dd8d1cf8b5e3dd023e554636aae2d48d15c4d9f69782d16c3f
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=halfipadDp
+Size: 64704
+MD5sum: 248e6c7a026efe6e4fba8cb52c0092c8
+SHA1: f08b020f405fd1fa1cd6fe4aef9354bcc833c71b
+SHA256: e374925a2aef11b193d582a0dab54c38c3296968c99db9ea6c1ca05bf4ec6731
+SHA512: e270001554353f2380505fccdd056edce6e2da72fdc1166c0874d89f93d61f1297917346380cc090af05a7de658368684c647249d333e806632801c18bbed8b5
 Description: Cử chỉ iPhone X cho các dòng 6,7,8
 Tag: purpose::extension, compatible::ios13
 Author: Hius
 Name: HalFiPad
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=halfipadDp
-Sponsor: thebigboss.org <http://thebigboss.org>
+Depiction: http://ndk-jailbreak.github.io/info/HalfiPad/?p=info
+SileoDepiction: http://ndk-jailbreak.github.io/info/HalfiPad/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 dev: hius
-Icon: file:///Library/PreferenceBundles/halfipadprefs.bundle/icon@2x.png
 
 Package: com.ndk.homegesturelitevn
 Architecture: iphoneos-arm
@@ -677,14 +685,17 @@ Maintainer: KhanhNDK
 Installed-Size: 424
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.ipadstatusbarvn_1.1.6_iphoneos-arm.deb
-Size: 29824
-MD5sum: 41ca1004776ede140c0c6a96c66b77f3
-SHA1: 73f8142d2ba83f9fbed7e9574a460a111425731f
-SHA256: f3bd33213efc16365f1e2bc833c366eebf6ff636741feaf42eb911acff426183
-SHA512: 9a9760459b31a5b403061e821b81f17c272844fd4f496ce33ae90bc827ed83007b5731809c10c6909bfaf69a3b4389cb45b7a5ea84a153193aed87d0bcae4ee9
+Size: 54668
+MD5sum: d92107694cd396253efe1e3f49a4b1fc
+SHA1: c33f8c50ab11d55871b2926e938250c1a0ff19d3
+SHA256: f8c8e288be6e5f6ad779284733fdf4fe69cdd2e2af15803181ab7d7e008ea485
+SHA512: 9668f9f217384bb763e5848b6fae2b4388005a5c530e93e241634a8a096b32b12eaff50ec6afc17a30b656cbe9f18e72d3396353e7077f3ff828b61e771bdb33
 Description: Mang Thanh Trạng Thái iPad Lên iPhone
 Name: iPadStatusBar VN
 Author: NoisyFlake
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/iPadsttb/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/iPadsttb/?p=info
 
 Package: com.ndk.jellyfishvn
 Architecture: iphoneos-arm
@@ -727,21 +738,24 @@ Package: com.ndk.littlexsvn
 Architecture: iphoneos-arm
 Version: 2.4.4
 Section: Tweaks
-Maintainer: binksalex & Ryan Nair
+Maintainer: KhanhNDK
 Installed-Size: 332
 Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Filename: ./debs/com.ndk.littlexsvn_2.4.4_iphoneos-arm.deb
-Size: 21816
-MD5sum: 59ce9d7efd83bbfb92875a8afd8d4ddd
-SHA1: 227244138fc32cda6fe71e34795775216faf2b24
-SHA256: 87642f47c9eaea79992bbc61e947783440c59ce89de8666016b2da0ae4b18545
-SHA512: b7e7c5c5cd69255fd452ba9b101a622cc5dd456becb8e383ae0e59ac1f2be6057a79073991de482c9906dfa1c58d995c6038ebee0e2f39e31e15c161ff04b28f
+Size: 35088
+MD5sum: feba97d3266b946e6e9a8986ef308519
+SHA1: 87a787b8527cf3f881bd032f4b1e4d6f722705ac
+SHA256: 66e12d2dffeff0b4269ac777e93d14ca8f5be6e645c88c891076ceb85e317e8c
+SHA512: 422c65a318b5544d3fe42c12f21620dea87be9fe963616902c73ec1844ac32c748db7c059c9cf6b900ef619d757da53ed70d89fcbc6f2563c3dd2f5ea6ad92f0
 Description: LittleX revitalized for iOS 12.
 Name: LittleXS VN
 Author: binksalex & Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depicion: https://ndk-jailbreak.github.io/info/LittleXS/?p=info
+SileoDepicion: https://ndk-jailbreak.github.io/info/LittleXS/?p=info
 
 Package: com.ndk.lockdown
 Architecture: iphoneos-arm
@@ -777,6 +791,24 @@ Description: Thêm âm lịch vào thanh trạng thái
 Tag: purpose::extension
 Name: LunarTime
 Author: fahlnbg
+
+Package: com.ndk.masktaitho
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Kênh Táo
+Filename: ./debs/com.ndk.masktaitho_1.0_iphoneos-arm.deb
+Size: 85602
+MD5sum: a92de42b47ee7074123a84b58f2dc1db
+SHA1: 461663d7e4fbce4af6ddf0300102103856730748
+SHA256: 80162d8460bba33c4be412de3d9450d5ee062b0163ec37d8c6959bdc9e02c268
+SHA512: 18a814984dfa0e1c7becae0ee1f36751fd9c6f490463797468c36af88ad6065a83f58070798b25665b37fa788abc3a7f963bbf3bbbe695eaa82d4350e986c274
+Description: Mask Tai Thỏ kích hoạt qua iThemer hoặc SnowBoard
+Name: Mask Tai Thỏ
+Author: dpth
+Depiction: https://ndk-jailbreak.github.io/info/TaiTho/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/TaiTho/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.masktaitho
 Architecture: iphoneos-arm
@@ -840,19 +872,20 @@ Maintainer: KhanhNDK
 Installed-Size: 156
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debs/com.ndk.powercuffvn_0.1_iphoneos-arm.deb
-Size: 14216
-MD5sum: 6472d5391e7cbdbdf59316de223bddbf
-SHA1: ea7b1f05b950049a3bf3c0679554faac0fa1ad9d
-SHA256: 2a410804cac8533f73a7eceffd33e68db8e4acb4bb02d4ff67423c4b6dac0f12
-SHA512: 2753c9b55f83f754df6574607162790080db6d76d96a0b59aaaacf2e2cf11e0bfe81f4737babe17bf910f858ed2f290df2ee2cebdce523a19831dbd7493a092c
+Size: 14256
+MD5sum: 4f22ac4ce8ae0aafab110d1f8269cacb
+SHA1: c219926c4e55e21ae9c49ea25cbfb9aad56061ca
+SHA256: 583cca73879be959506795edbd9d6d8ba4f48cffdb11c3a5e0e062f5f706ae88
+SHA512: d3a0179255e380ef8dde7ee2f97e3032e2b3db535c285b0c75710429616994d166e2eab5c86024ec20b23de2fea947a7717a2a21c5594483fce1ca1b2794e538
 Description: Select from additional low power device states
 Tag: purpose::extension
 Name: Powercuff VN
-Depictions: https://ndk-jailbreak.github.io/info/Powercuff/?p=info
-SileoDepictions: https://ndk-jailbreak.github.io/info/Powercuff/?p=info
+Depiction: https://ndk-jailbreak.github.io/info/PowerCuff/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/PowerCuff/?p=info
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.proudlockxrvn
 Architecture: iphoneos-arm
@@ -970,14 +1003,17 @@ Maintainer: KhanhNDK
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.sugarcanevn_1.0.0_iphoneos-arm.deb
-Size: 5656
-MD5sum: 1f614692d122137f10ede44eff6de8db
-SHA1: 14ba444dd890b5ca695a2a23abbcdc7fd60685ae
-SHA256: b6c7e0da208bd1364511cf04dd81f47224096e8149856ee7819b22e02a7e9912
-SHA512: b02dad833668e575034b908bdc8e74ab61e3889184b2f08ebfea80a7fd8746617e233ad36e771ae416d089a46282e138ad03f901ef0d9a663f338ddbeebc9892
-Description: Hiện Phần Trăm Ở Thanh Trượt Control Center cho ios 11-12
+Size: 7558
+MD5sum: 2ec582ae58472b9a448cb1baba15e343
+SHA1: 70a504659bd891349e15dafa3430aef9c28a5fd3
+SHA256: 1ce80ae07fded20cbb6c8780c23742e10678dc90456d468b88cc18af8fbd9020
+SHA512: 172677b0c70810a7536f23eea4c86e0668c616d13a84c2a58c7f8f851c2eca5c661611db127125cb9653fade1147154cb5bcb562384669cbe6f07eb791965991
+Description: Hiện Phần Trăm Ở Thanh Trượt Control Center cho ios 11-12.
 Name: SugarCane VN
 Author: iOS Creatix
+Depiction: https://ndk-jailbreak.github.io/info/SugarCane/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/SugarCane/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.systeminfovn
 Architecture: iphoneos-arm
@@ -1005,15 +1041,17 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.tronmokenhtao_1.0_iphoneos-arm.deb
-Size: 11724
-MD5sum: a13fb36e803165f4bcaeab40c67f5966
-SHA1: e9be8af460eb23b255488f753db40d470e284622
-SHA256: a09eef6407778029168e51e5749d58067e332c730abf5ba34a26bdaf78cd8ae1
-SHA512: 8fd4a762c067e06d8e2b78d395891812ee6fe782b5a95eb69a916bb8d68b99ab555079bd4336d67fe5e9560d136f1f08aeef74a83eb6a938201e34f9761a88e2
+Size: 11792
+MD5sum: 0efe479fe9e2d9b5cb52ce770dbd4a67
+SHA1: 859b351fa712e1ecf58b7c060ce26fb282aa45bd
+SHA256: d32eae1d523618645c1e00bb33f30b9d9e101232225cc919e46e94ec039c79a2
+SHA512: 4ab45ef86388d1ddbd82e2761200a3fa9ba6748d2d38f92842cf578c97503fe5751fc12e0cd8bcec2993ab28219be74e02710de9df90f16a37a2567aee30c995
 Description: Mask cho iPhone
 Name: Mask Tròn
 Author: NDK
-Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+Depiction: https://ndk-jailbreak.github.io/info/Tron/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Tron/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.vedettevn
 Architecture: iphoneos-arm
