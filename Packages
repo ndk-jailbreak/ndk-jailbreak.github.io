@@ -857,6 +857,26 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depictions: https://ndk-jailbreak.github.io/info/Neptune/?p=info
 SileoDepictions: https://ndk-jailbreak.github.io/info/Neptune/?p=info
 
+Package: com.ndk.nicebarxvn
+Architecture: iphoneos-arm
+Version: 2.0.5.4-2
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 8332
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate
+Filename: ./debs/com.ndk.nicebarxvn_2.0.5.4_iphoneos-arm.deb
+Size: 3271142
+MD5sum: 231db07bbbc43da71933ed27caff8013
+SHA1: fca6b80dfab492d42c59cf1bf8033872738bba01
+SHA256: 310359380ec82009161777a165d9c7c9e26305c0b74a1c1716f4f5ac49026b82
+SHA512: 9426cda03b8d8d6e93a73e001f11fea1f1707954f32c38b1c1cd64f806ec115135b814e3efc616b3a84012f634f347e6a0765afc61384107b221ddc2d4648374
+Description: Một tinh chỉnh tuyệt vời cho thanh trạng thái của bạn
+Depiction: https://ndk-jailbreak.github.io/info/NiceBarX/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/NiceBarX/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Name: NiceBarX VN
+Author: niceios
+
 Package: com.ndk.powercuffvn
 Architecture: iphoneos-arm
 Version: 0.1
@@ -963,14 +983,16 @@ Section: Car
 Maintainer: KhanhNDK
 Depends: firmware (>= 12)
 Filename: ./debs/com.ndk.songios10_1.0_iphoneos-arm.deb
-Size: 1277462
-MD5sum: d4f1debbae4e54ac74388729d7843887
-SHA1: f4739c05142d68fee8a13fcd16e6fe77c69a466f
-SHA256: b0c4fddd07cdbf34de0b8efe3084d8c73c798a4395933fb46e226654ce6b256c
-SHA512: 49b32bcd107206aa2d8016cb91d957c316970431c252e78447e57da16460b3c54c612e60edcd1446d3d5dac5062c1876a7edef8b3904c84c595d65c35e0aec9a
+Size: 1277504
+MD5sum: 880faec28c1d62ddaf4c327116411b8a
+SHA1: 17fb3d864ed5c9c4e49adef2a57061838265daa2
+SHA256: 5f2682f272a3a7eb5fc872fe16d3b21101c3355d774623554e0cdf36bf9994a1
+SHA512: a49403273afb5d62e3db376b0da279f646bbef797f12e384b06f3548c020fe9ce3d53da72406cda4e2fd9e0a92e449b099506361c7e588220adf2acaba55303c
 Description: Cột Sóng iOS 10
 Name: Sóng iOS10
 Author: @ongcenh
+Depiction: https://ndk-jailbreak.github.io/info/Song10/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Song10/?p=info
 Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
 
 Package: com.ndk.statusbarxs
@@ -1085,6 +1107,24 @@ Author: NDK
 Depiction: https://ndk-jailbreak.github.io/info/VolteRounded/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/info/VolteRounded/?p=info
 Icon: file:///Applications/Cydia.app/Sections/NDK-Font.png
+
+Package: com.ndk.volumecafe
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.volumecafe_0.1_iphoneos-arm.deb
+Size: 265692
+MD5sum: 4b062094345ff4a0d57fc44517db9684
+SHA1: 1fe09b0a28e94410e5a931e8c1f8bbf67fca3f92
+SHA256: dbb91d8ab272252a5f574f3ab7278a70ccf65e94d71ae43f8ad9ffbeb7ccf574
+SHA512: d895dd184f2439a7a6f23ffb99ae09c14196ee31f95c0b8c8aafa6bf2617811d75c774ffd61c4cf30bce0b2f77f6b5b4d69c0e85dca2716264793aba401b017c
+Description: Thay đổi biểu tượng Âm Lượng !
+Name: Volume Cafe
+Author: @ongcenh <anhminh311105@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/VolCafe/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/VolCafe/?p=info
 
 Package: com.ndk.zebra
 Architecture: iphoneos-arm
