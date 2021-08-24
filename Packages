@@ -1361,17 +1361,17 @@ Maintainer: Nepeta
 Installed-Size: 488
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
 Filename: ./debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
-Size: 125684
-MD5sum: ffa3fa61827b8b453be723aa029a59be
-SHA1: cdca83647618af08f51659a46ee94206313fff54
-SHA256: 111a09c654abe41a40007c9ec54e7c0d683b268f7f043465630b63d5500ec201
-SHA512: 98590ac3cd468b16fd05c1393fa74e8a0a3e0e5bf946659888fb1dbef456384948e8a8bbe60c1c72623c9efa4fc8d4c2df094ddd0d7f0fd41a3851641a92e6ba
+Size: 125698
+MD5sum: 2090336f00d75532a3349a0d35fedccc
+SHA1: bce064c6208836fc87ea6609934f58a8443e7075
+SHA256: 04f89a52e84e450667ef6fa80f32915e4739095a8d532a3d7771e248082b1208
+SHA512: bd78d7b0e3a46995e314109b9b0a9623bcf55e392bd97a12fcb1750971a66574ed4e99609374f2a7c2ada85746e5a586a2806cfcd6be4da560c25c06b468d85f
 Description: Lock screen music player redesign
 Name: Nereid
 Author: Nepeta
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depiction: https://ndk-jailbreak.github.io/info/Nereid/?p=info
-SileoDepiction: https://ndk-jailbreak.github.io/info/Nereid/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Nereid.json
 
 Package: me.nepeta.notifica
 Architecture: iphoneos-arm
