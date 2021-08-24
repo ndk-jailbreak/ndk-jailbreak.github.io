@@ -1,18 +1,21 @@
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 2.0~release
-Section: System
+Section: Tweaks
 Maintainer: KhanhNDK
 Depends: mobilesubstrate
 Filename: ./debs/com.matchstic.xenhtml_2.0~release_iphoneos-arm.deb
-Size: 4226476
-MD5sum: 3f474acae837609d14e88c9962ea2fae
-SHA1: 1fe4c05f686705b76c055de8aa12790b14512299
-SHA256: 6f8c36334fa044b264903d28da234ddd976e79088cc325aa8e4dbd5609111de5
-SHA512: 0ead44cd9252c8fc9731545b6979264137aea0293b6231cd6b87bb722406f6fd2c8f775f624033c5d5708808823d982677cac90aba6c44c01aae5861cdde18ac
+Size: 8254156
+MD5sum: 50e83f98ea9507e5781ad498ada7afab
+SHA1: 0976ac52d238de5fbfb25cbf72e4c4739691dfb1
+SHA256: 29d807458afa0bf1671aeec563f19e4053ced5bc8cbac84e768bd61aedb4430b
+SHA512: d30680bfb8bcfc31a1e618e993cd41ccf51cee826751c961035db1d7820138565c7c91adc23b93ff8b90b21fd4763dc32c75d12bf3ea6411155712d79b06280a
 Description: Thêm tiện ích lên màn hình chính và màn hình khoá
 Name: Xen HTML
 Author: Matt Clarke
+Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.13hudvn
 Architecture: iphoneos-arm
@@ -1337,14 +1340,17 @@ Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
 Filename: ./debs/jp.soh.reprovision_0.6.2R_iphoneos-arm.deb
-Size: 15957210
-MD5sum: a19ccf70dc7eb4b35ca69b9f8e8e26da
-SHA1: 8c16db9ab8bcd07c15590018e21992cf26ad5b6a
-SHA256: 5ae628e80b3a7a1fb4ee7d44a083a1ccdeeedd6ccce94a4173a4caaa8ccf7f10
-SHA512: f8d90546bda4674bf581e4a53b3c81a778ab3d79f8c14cbff42d0b73bff7ad56af2b08686b85a3123cd9086e7f4c39cfa53561454c54f935f628df7e393be509
+Size: 15957260
+MD5sum: fec45ced95340a7518e6d195c2758c1b
+SHA1: d4a655fddadf760385a996eff21002001f9b2744
+SHA256: 0f983eb622aa107a08f23a5a07dab57b8160662e4f89e9d0032448c507ba4f45
+SHA512: 87f5a573ecdc3ed2e497db62ede9c33e418b4ae1dc076315fa27f89e7ce815939c3a838b2308455f8b40325e1a197d97e32870a9a0fe203044ac39c66718fc1c
 Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
 Name: ReProvision Reborn VH
 Author: Soh Satoh, Matt Clarke
+Icon: https://ndk-jailbreak.github.io/info/Reprovision/appicon.png
+Depiction: https://ndk-jailbreak.github.io/info/Reprovision/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Reprovision/?p=info
 dev: Matt Clarke
 
 Package: me.nepeta.nereid
@@ -1355,16 +1361,17 @@ Maintainer: Nepeta
 Installed-Size: 488
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
 Filename: ./debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
-Size: 125650
-MD5sum: b17f538769a625d9550b8c63f209c0c4
-SHA1: a10ce4cd25cf59230748bba1136cf46ba5e59429
-SHA256: 5c42540779d26bd717e25996e8cc0aba47134e155f6d60325f8c85991d13c522
-SHA512: 0277e74fce13a006153267059133d4080f411daad80131cf2f9ba2fb223d1e7225d9dd5d6a6d97641f8d9be6b3d6ee376e0020339a84dc0f8cd752e0781c3bc5
+Size: 125684
+MD5sum: ffa3fa61827b8b453be723aa029a59be
+SHA1: cdca83647618af08f51659a46ee94206313fff54
+SHA256: 111a09c654abe41a40007c9ec54e7c0d683b268f7f043465630b63d5500ec201
+SHA512: 98590ac3cd468b16fd05c1393fa74e8a0a3e0e5bf946659888fb1dbef456384948e8a8bbe60c1c72623c9efa4fc8d4c2df094ddd0d7f0fd41a3851641a92e6ba
 Description: Lock screen music player redesign
 Name: Nereid
 Author: Nepeta
-Depictions: https://ndk-jailbreak.github.io/info/Nereid/?p=info
-SileoDepictions: https://ndk-jailbreak.github.io/info/Nereid/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/Nereid/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Nereid/?p=info
 
 Package: me.nepeta.notifica
 Architecture: iphoneos-arm
@@ -1375,12 +1382,15 @@ Installed-Size: 1128
 Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), ws.hbang.common (>= 1.11), me.nepeta.libnepeta (>= 0.1.1), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi
 Filename: ./debs/me.nepeta.notifica_0.3.1_iphoneos-arm.deb
-Size: 397424
-MD5sum: fe6bf4346269c85f072e2c571095039e
-SHA1: 1f3ad314ec15b70b3638a1b893bbebb3bce0f583
-SHA256: b0d1b48f33d8ea05fd3bccae533d20eccce0cef1daec6400a97395d33fcb4986
-SHA512: 9a1f0140b8822a233e45af96936c5519b63f3ccb8a7305623333ca2b507212e449105d42ab199311a40c94c47d515d77dc25856f354374f4f67486f61efeb814
+Size: 454088
+MD5sum: 56cb763697887ef3b77c0ae998d1e25d
+SHA1: c39d2079adfdcfc632e83d76d0c588fec634a7b4
+SHA256: 974dba1fa7f09d8fdf51108f2035a1bdb9dbaf538987fab8d4911e13db960069
+SHA512: 73a602fd7700cecabab5dec08365726f095d69407f6a9853fa8b1a577c93000acb4fea0e221e34b40b6aac7a375f33fd25431fd848a556241c12fb38c7a4b8fa
 Description: Notification customizer
 Name: Notifica
+Depiction: https://ndk-jailbreak.github.io/info/Notifica/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Notifica/?p=info
 Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
