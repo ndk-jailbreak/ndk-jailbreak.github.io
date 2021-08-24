@@ -38,16 +38,16 @@ SileoDepiction: https://ndk-jailbreak.github.io/info/13HUD/?p=info
 Package: com.ndk.8ballhack
 Architecture: iphoneos-arm
 Version: 0.17
-Section: Tweaks
+Section: Hacks
 Maintainer: KhanhNDK
 Installed-Size: 236
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.8ballhack_0.17_iphoneos-arm.deb
-Size: 176008
-MD5sum: 7a7577e77691660674dea32db20a9448
-SHA1: c08111c7695e51b1a31269a885125d0d730ca7b5
-SHA256: 335d78f1804cd775e00f3772393798fb0f2487515eee9146ec18b2ffb09250fa
-SHA512: 2c74ff5810ddc8b7f685b14fc96383b4eb78d831fb6ca5b3a86870076aba7acd1a9a9070dea4a94f96b6b11dd3716744e8aa617c35051a29938703f44a77a4a5
+Size: 176006
+MD5sum: b1d77560e7a9e2c0ce1ea1dee53c6335
+SHA1: e9a75cc7986eb97433431a1200f765c559be4298
+SHA256: cf6245f72abe2a8d11df8399e71520f7f99f2ffa2c298994b3c54ed22f16e8e0
+SHA512: d673ff978a25e7e8b0d37147937d3f1c7e8aee7e1a8afe508449617584490a9b8e8158a2f5ecadc9f42df416e12f125633fc62a0e8de73ff523144dd3ca8da5e
 Description: 8BALL POOL HACK nên dùng tweak AppStore++ hạ về bản 5.3.1 để dùng
 Name: 8ball pool hack
 Author: {DN}PUBG
@@ -924,15 +924,15 @@ Author: MiRO <tweaks_support@miro92.com>
 Package: com.ndk.savegtasa
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Hack
+Section: Hacks
 Maintainer: KhanhNDK
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.savegtasa_1.0_iphoneos-arm.deb
-Size: 61746
-MD5sum: 2846474f5a2a4cb1040393731bbd19d5
-SHA1: 9889d69cab7ecdf4c529a6c15dcc3c0f0b473fa7
-SHA256: 8efc2172ece61d35169078c80344dafffbaf4f28f1b7968e63c29b74fd8f1c70
-SHA512: 8a3f2622a354ea552874f5202c7ac3a4dfd09ee51fa729eb279b2c8c1d59da585a4172f5f33a53a4db918779dcc19581f59e2b52323823d1cf436204efb29062
+Size: 61742
+MD5sum: f6c9d79d595d415add22b2abb164fec7
+SHA1: 5dd7199cb6053d265f828465c47621db25d9d3df
+SHA256: 6dad0a3fd44a7b91b0d9fecad63ba80662acb3ea806111ee391cc7224c0d927b
+SHA512: fcb6f137971a5baa7eaa592d7d2915dfd9856b6c8a34a58568df94479f19ed3b7382d3d6c46ee325d3542fdd30ac92bb947a3e808681275e384c11d07cee4caa
 Description: Save game 100% cho GTA SanAndereas
 Name: Save game 100% GTA SA
 Author: Korosu
