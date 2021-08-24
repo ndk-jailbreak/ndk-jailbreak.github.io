@@ -544,15 +544,17 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.greenred_1.0_iphoneos-arm.deb
-Size: 9612288
-MD5sum: c64cdb304f76d1c9e92f0fad91e8cdc3
-SHA1: bf093f17690b6040067cac4d1223c05620fd4e1c
-SHA256: 8924a48a47368231d095d96513f68a834e3dfaaa4db860b87a0fed58275fb43c
-SHA512: 878c270341f078e23092c003e735a193be04c060d7103222f843022fc6910a6a8cd8dcf53c2f7ce68e18b86773d88ccd8c5abe34d1f6cfae0f2f243f5e6465c3
+Size: 11651588
+MD5sum: 422a09439ea72fedd03403bb76ec4fbe
+SHA1: 5a3e942e29d294d722ad864bc9b527a5104aa9ae
+SHA256: 3fe0c38a8fd0ece0d568e61afdf1a3ea1160342597dd90ef809ca6a2abb025b9
+SHA512: e4b218138ce9d83f26cae795fd80f57fdd2a7204f6a2de2ec4c7ea9c7f0093a94bba11a6af29ae4951a4e71f9c24e64aa661d696493670e0e8acb96e9b475d0c
 Description: GreenRed themes
 Name: GreenRed
 Author: NDK
-Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+Depiction: https://ndk-jailbreak.github.io/info/GreenRed/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/GreenRed/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.halfipad
 Architecture: iphoneos-arm
@@ -961,14 +963,15 @@ Section: Car
 Maintainer: KhanhNDK
 Depends: firmware (>= 12)
 Filename: ./debs/com.ndk.songios10_1.0_iphoneos-arm.deb
-Size: 1277426
-MD5sum: 532e235e28dda26efaf8a3ae2e8b8893
-SHA1: 3039769977819a37c58a1882fa64e50256a64301
-SHA256: 299a55665bb4b51185c1aaffb0c1901d32fe92ae0fe8bea1aa36ab3033d9b54c
-SHA512: c97f45496645a144282d3177cc4b97ef0aa72a3c043157802108131ae19437a95e80171e7b139a1ad6d673807d6a90cb014cac7b643511355c3b0f68a7569385
+Size: 1277462
+MD5sum: d4f1debbae4e54ac74388729d7843887
+SHA1: f4739c05142d68fee8a13fcd16e6fe77c69a466f
+SHA256: b0c4fddd07cdbf34de0b8efe3084d8c73c798a4395933fb46e226654ce6b256c
+SHA512: 49b32bcd107206aa2d8016cb91d957c316970431c252e78447e57da16460b3c54c612e60edcd1446d3d5dac5062c1876a7edef8b3904c84c595d65c35e0aec9a
 Description: Cột Sóng iOS 10
 Name: Sóng iOS10
 Author: @ongcenh
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
 
 Package: com.ndk.statusbarxs
 Architecture: iphoneos-arm
