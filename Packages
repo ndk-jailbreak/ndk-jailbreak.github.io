@@ -43,59 +43,60 @@ Maintainer: KhanhNDK
 Installed-Size: 236
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.8ballhack_0.17_iphoneos-arm.deb
-Size: 175956
-MD5sum: 95affca4a3d6b16fd01c36e575cb7357
-SHA1: 2a401f70ae11623ba40fb2c1d276bf09ab551d90
-SHA256: 40d2843644c44d6d571fce1811dfd1ba0ce7b8ec4fe2234d68910b0290f629bb
-SHA512: f91a0d46d815c679e584e5ab5a2669c572c2ee4b4e512e593f7a0e4ba084e741b48e35ed61f1de569bc2e4ea28dbab077ae9d63d70dbe24e26dbf4caa82c6954
+Size: 176008
+MD5sum: 7a7577e77691660674dea32db20a9448
+SHA1: c08111c7695e51b1a31269a885125d0d730ca7b5
+SHA256: 335d78f1804cd775e00f3772393798fb0f2487515eee9146ec18b2ffb09250fa
+SHA512: 2c74ff5810ddc8b7f685b14fc96383b4eb78d831fb6ca5b3a86870076aba7acd1a9a9070dea4a94f96b6b11dd3716744e8aa617c35051a29938703f44a77a4a5
 Description: 8BALL POOL HACK nên dùng tweak AppStore++ hạ về bản 5.3.1 để dùng
 Name: 8ball pool hack
 Author: {DN}PUBG
+Icon: file:///Applications/Cydia.app/Sections/NDK-Hacks.png
 
 Package: com.ndk.JanTTP
 Architecture: iphoneos-arm
 Version: 1.0.6
 Section: Wigdets
 Filename: ./debs/com.ndk.JanTTP_1.0.6_iphoneos-arm.deb
-Size: 109560
-MD5sum: 16226be00a211819e65bc764ff01e818
-SHA1: 4ad573815e2747db59f00dfd267605b3a0b40374
-SHA256: d557041bf18859443c505e3c8c3ddd9fbd389b17971281854dd456cd14afcbb4
-SHA512: 8af94b5c9106c80c1609b4a3a69595ab422ecc285ad6d4a8265089263aaa2b7fef5f242186cd39cc3f23fb0274fd573c92c119540ebae7629c19e303090a26bf
+Size: 145276
+MD5sum: 2da56f5df3248475db6fe15e7b611061
+SHA1: 2a90fbcf5f562f4e0a319efc45cefbc2a16b656e
+SHA256: 1d523c7881e5704211d8a6ec5d00f082c41cb28a4a4a0f84b529c945f43ffce3
+SHA512: d8c222a6df22c014522e3141271a984bdc50512099b1b96ef7e3f4e5db1a1e3ecd3f1a52ca265d1b20cbdb07b6d8c39093fdab3e87ced47ec726e49b5779b195
 Description: Widget for Xen HTML
 Name: Jan TTP
 Author: TTP + CodeOne88
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
 
 Package: com.ndk.TTP1508
 Architecture: iphoneos-arm
 Version: 1.0.2.3
 Section: Wigdets
 Filename: ./debs/com.ndk.TTP1508_1.0.2.3_iphoneos-arm.deb
-Size: 1276816
-MD5sum: d7c88911d623953e87d6eecf4e8ac5a5
-SHA1: 6d64236111cf09669727e1138e24fa0e33807c8b
-SHA256: 9414ac2aa8e9a9dde9d029d478c2d66774bec4ecfb794d256f43f10ec84f161f
-SHA512: 06de3f4da7752c32047f15c7c7d8f67d9c7891e799d700ee71768108c3e9ba127b9d123919925bd29a8deb7b64b31d8cd0a2d1069e3b3f64df65bdf2803c8283
+Size: 1470290
+MD5sum: bce17c7444f0c264a2e7a592964728c1
+SHA1: 6a1e9b362f131389435c0d3d2515309f9aa65437
+SHA256: d3295e0f8b0be6d4c6960cf402a366d1a2e558453ab7822d53f06964e90c82cc
+SHA512: 3080be3919d4ada842dfa87b4fec5d0b60455d7b81e7a05c83e051779f255388024d00e1cccb8e5786af8cbce5b79db0384cbf1a077bab2a6d90495864a35826
 Description: Widget cho Xen HTML
 Name: TTP 1508
 Author: Trương Tam Phong
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
 
 Package: com.ndk.aerelys
 Architecture: iphoneos-arm
 Version: 1.1.8
 Section: Wigdets
 Filename: ./debs/com.ndk.aerelys_1.1.8_iphoneos-arm.deb
-Size: 716476
-MD5sum: 9453488a728023f3936ac4acb99af668
-SHA1: 030dc48e44e2054ab60b2ce487485be7eb7c00b3
-SHA256: 071905a837105424f65c2094ce2ca16ae61eb6bca9154a9777cc5000c6fa8d1a
-SHA512: a39dc62939ef38b8d4f026965b1a57e9a948c1f1b670ec7e534964af97e6335b705ec0552299adfe65a7ea0af0929b179beccb255f69d48aa3387c41e40b75ea
+Size: 1167434
+MD5sum: 11a2b61554f540a909cf2cb6d339fdca
+SHA1: fcac114bb4f83a2d4b8bac6fa8f4e43702a60636
+SHA256: 034777e8e61349d0037e48bb219a9532265b23fa91574eabda36c1158b90d2bf
+SHA512: 481c62ccfec119f7a67f01cb0074b856506e9e8d40b3ad40a54f7b4cef01d2a196ec80a84f1f89f04c0f73458cd9a1bf0d53c67a3ca006aa61b854dd20f4d7d7
 Description: Widget cho Xen HTML
 Name: Aerelys Việt Nam
 Author: TTP + CodeOne88
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
 
 Package: com.ndk.airportvn
 Architecture: iphoneos-arm
@@ -143,14 +144,15 @@ Maintainer: KhanhNDK
 Depends: mobilesubstrate, net.kenhtao.autotouch
 Conflicts: com.BIENVANNHAT.autotouch
 Filename: ./debs/com.ndk.autofishing_1.0_iphoneos-arm.deb
-Size: 4980
-MD5sum: c7f4e868f43002ce09689c6f295313bd
-SHA1: 574846d95cb8cbfdf4cfa243547f147fbab3669b
-SHA256: bae4e1906f9a3586077901c3a624bbb04dc923a03a6b438eda7e712ac34894c8
-SHA512: b7e4898292ab7470a6bf62e2cb1434cb163843ec465012233ef3e64566000aebafab6a49a1f2b375ce0a3919f5c6061bb4f89379745cbbca422088ba1119fd78
+Size: 4982
+MD5sum: e5cf8698889ed34e98a8d81e98bdc9d7
+SHA1: 3ca211fed7e7776c3608ebebc307f5684e071006
+SHA256: 3691ff14dfc892f2f8b2067c715096965b8ef3bddea04957fde9c78491e82c74
+SHA512: 75082d0982cfc7201c9306ff09a0b7dce991a3f3cf87fca837b5a635425c3377e5057d972d0c1beb86d41f28fb4f81a3d48df1c0c834160f36bbc6ba89c681d7
 Description: Auto câu cá cho mọi dòng iPhone, iPad (iPhone: 5SE - 12 Pro Max, iPad: Air 2 - iPad Pro).
 Name: Auto Fishing PlayTogether
 Author: To Bự
+Icon: file:///Applications/Cydia.app/Sections/NDK-Hacks.png
 
 Package: com.ndk.autohidehomebarxvn
 Architecture: iphoneos-arm
@@ -239,15 +241,15 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.belleui_1.0_iphoneos-arm.deb
-Size: 2620916
-MD5sum: 215109e391d7bcdec91d43500abd96c5
-SHA1: 21ac46abeffd82fa6ed9b20e9fb13d3d6881977d
-SHA256: 43797f9d36c8f3f9525b6f06e04f83330d605d60e5b7d8f9abc41ae0b6397a2f
-SHA512: bf330802b0bd75a85df8b11fb5eda715f04a3acaffe3da01af4441d15463d577cd873f8a6f624b88fbc7733f91a6cd28312443bf06be9017018fda12b8325554
+Size: 3516978
+MD5sum: a5b5cb005098165b050ffa010f2341fc
+SHA1: fdadf2ceac75ac618c2da5d36281aa91b74517a2
+SHA256: abeb0c1cd6f590deb4ad5a51bada6ac7d9f85afb0efdbf42e504e6d62db569de
+SHA512: a4fe5dd8f7943bd4a088081690d56f606d50134cf7e54a94bc83341abb8550d1f26faaa40ed27633dd4955eb7b25b925be1ef79609b0cffd9190c075cccbabdb
 Description: Belle UI
 Name: Belle UI
 Author: NDK
-Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.carbondarkmodevn
 Architecture: iphoneos-arm
@@ -346,19 +348,20 @@ Package: com.ndk.docky
 Architecture: iphoneos-arm
 Version: 0.1.0
 Section: Tweaks
-Maintainer: Nepeta <ominousness@protonmail.com>
+Maintainer: KhanhNDK
 Installed-Size: 344
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.iconstate
 Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
 Filename: ./debs/com.ndk.docky_0.1.0_iphoneos-arm.deb
-Size: 55904
-MD5sum: 88523589a39fd0964d394d5e85dbf881
-SHA1: fd08abf832b8306547b27cf758c39e8f225f1a39
-SHA256: c726bf33dfc530bf5666d17244d5bf37559566d758ce4a09995b807e94c648c6
-SHA512: bfc4a1d8271cb247af7ae42560d896d3c49418339ec18864955e763742a2682ffd9a1ce8758ab819523be75ab1fd2a4eb5c6af55692ed85790c1bd2e81340997
+Size: 55952
+MD5sum: d8276428b95944c053ebdd1acec1a6a1
+SHA1: ff121a843000f8a044bd585211131dc84ca1561f
+SHA256: a1d1198a39e5e6ac0d7a5a530d57697ff9d91a7c79f28a6b6ea28f106cc45071
+SHA512: 1616c8fe1302910ce5791c4a254b41bb992d1ab3bc68960d988d3e3ff7b172a0e0d2306d3c53502c9ec388131f8407dc5fe6a9f367d1880df5a786c761a751ab
 Description: Dock customizer
-Name: Docky
+Name: Docky VN
 Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.elagengmg
 Architecture: iphoneos-arm
@@ -366,30 +369,30 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.elagengmg_1.0_iphoneos-arm.deb
-Size: 5769232
-MD5sum: 46577501257f49534f290663f0e63350
-SHA1: 797b72b466759a3c50f179d0769b596c61bd674e
-SHA256: a7d85237f1ea1c9a5c5218c15853f366a1d1856344aa5b2b12d64948275f4f71
-SHA512: 3480cdd0c6dcfb5ed81350ffcf27cf8f6a6161d376c7c508c7b22b52d21c0c7d4afc752bf514267b02623db9e5e17541d31d02ac5e3f55777c0eeb370c4a453d
+Size: 7272650
+MD5sum: 325403ca5faff9bc8ebea372b3e582c9
+SHA1: 79161f7e40c0ce4d50a3be74552a7842d91a8152
+SHA256: d52c7b8ed691f9fc9cc9bc21b1829b3477181b4a50a21b69c087e5786e034e84
+SHA512: f72d7c756fb3c80dca463c0460bf5aa1f847f01e3ab69350a6b73a7e2f90c615b8dd317ac9239518fe31c2a91f73cf7524e3302674062845a2199ca4bff139a4
 Description: Elagen GMG theme
 Name: Elagen GMG
 Author: @hatiato
-Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.eqesuperbass
 Architecture: iphoneos-arm
 Version: 1.0
 Section: EQE Presets
 Filename: ./debs/com.ndk.eqesuperbass_1.0_iphoneos-arm.deb
-Size: 1100
-MD5sum: f29dafcc2f93fea4ab6ae686e1e3753b
-SHA1: 0a172b5abc3359544109ea4d7a1079408bee1029
-SHA256: d96a0e10ea1d9fbe1bf54add98459d7d57a1d14bc035e92f27b118b90e81e48a
-SHA512: 6924ba5abcaab6b7534c124762ff9a9afe783f636b8f07db62d8798a652f565f8cc5549e75bdd4da071fd1436437fca5a43ab918e0fbdd90c03744c55e7bec60
+Size: 1008
+MD5sum: dbef1ef97dbb63e76ac58d01de6cb513
+SHA1: 22d518162dcfe88fd32b4153551e171506596f98
+SHA256: 29e80b8b66552e8f4aeaf52ea7c91931b3775cc4fa399488c1bbdb2b779cbe85
+SHA512: c83ccb0ef299a6868704005d53230c3652c51978654f24d1f313d826d2c44a350dc88d18d30b310e7e9e82da401dcc9a6250c7300fdc8972785c22286a103ff1
 Description: Super Bass cho EQE
 Name: EQE Super Bass Presets
 Author: KhanhNDK
-Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.facebookdarkmodevn
 Architecture: iphoneos-arm
@@ -399,11 +402,11 @@ Maintainer: KhanhNDK
 Installed-Size: 1020
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, com.foxfort.foxforttools (>= 1.2.6), com.foxfort.libfoxfortsplash, com.foxfort.libfoxfortutils (>= 1.1.4)
 Filename: ./debs/com.ndk.facebookdarkmodevn_2.6.5_iphoneos-arm.deb
-Size: 248428
-MD5sum: 2ad78471ba24a496fed6eb14a75bee55
-SHA1: 83157a72be108f59c93e1193d7b9e093e666c8db
-SHA256: 8c5be2964e4ca305244ff5444146ccc82378944e9e80876e9b152c51e7b3008d
-SHA512: 45ac3ce104e6c54401ec00530a4d4463d25f7380fcc49bd7deb55fc6abf9b5b8d53d78d977bf67144850664eddd3487013291512fb7a977cbf8259c5aef8f14f
+Size: 333874
+MD5sum: 1949dc4e838a2659dc307dc2d14b8ab4
+SHA1: dc7bdf9b3e3785eaec7c5e6f961cd846f6f58bca
+SHA256: 7be75892a414ac117db087a7f53186f9ee7d859e21a71d678d804ae1691235b2
+SHA512: 8730e1aaf6ac700c62a202d62d68001af856fba19ef7e3c18eb270c1ffad2c57d87321e9e346127a3cce900b643a6dcd8bda83490f9ce449304693ff4916c646
 Description: Chế độ tối cho Facebook
 Name: FacebookDarkMode VN
 Author: FoxfortMobile
@@ -417,15 +420,16 @@ Maintainer: KhanhNDK
 Installed-Size: 1176
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.15), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11)
 Filename: ./debs/com.ndk.fbfreezevn_2.0_iphoneos-arm.deb
-Size: 307040
-MD5sum: 38c2abf5b56541af3852dbd9ffd7166d
-SHA1: 06cdad9649691c690e2ffa5e48fb70c399590711
-SHA256: 74bf572067c92d39a68aaddcc5f5d70712449ae27c9bd8f554bd959847b29326
-SHA512: 0040d862da007dd646a601f489e7f145f8e60ebe8eb78904479232b34760f2e3d5817689b9ab9b45b4d3fa7098411169e8f99ffb7dc3bc7e5e3784164b75441d
+Size: 416020
+MD5sum: 2b0516e3b890ecaf0ae30d572d9b3587
+SHA1: 20084902908b5ff094fb5bbd0ebed8c08f881d5f
+SHA256: 598a27339066ba867f451999171c8aa077826e8b64cab9ef5f0c1df10c15297a
+SHA512: 1f869d48fa7e37d0c50cb25bfcfbbe8d77599db599709810dfdcbdb3c4c800f6d764acef1a60eb24d28a406ec099a1ba53e75926ecbc508f48f22e8857bc72a1
 Description: Ẩn Đã Xem Trong Facebook Messenger
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
 Name: FBFreeze VN
 Author: NDK
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.flux
 Architecture: iphoneos-arm
@@ -580,14 +584,15 @@ Maintainer: KhanhNDK
 Installed-Size: 88
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.homegesturelitevn_1.5_iphoneos-arm.deb
-Size: 3576
-MD5sum: 1c27dd97e4ac1f4d941b27abeb957e88
-SHA1: d584cb647de8c59de3fd4e8a884dfb67534bd833
-SHA256: 5568900a53da5a2f3cef7df217e37e2abcf51d5509e164fc0b75d1fc2567bf57
-SHA512: 2cc3bd94979c4c102dd9dc23be6ff42483a1304a71552dcce510b414f5b45c6516293ab0a079ee4d2da284e3b511a0943300f50b2996b7b58ff9cf1efd65047f
+Size: 4088
+MD5sum: 156de94cf6cba4855bd534ddefd9b9c3
+SHA1: 824e0923ca2219ac01f8cafd002252b2337bcbda
+SHA256: 6d7c0a17a5e738d451297c6a018f3a755cb047bb7d38832fa954cfb8ed2c5c2f
+SHA512: a8a3175214664357b09f962990a4d9ab3594b9a2fa20a28171c2cabb055a66c8f353517f39c7847107064cebffeecb9fbbfaf197426774e2b1a12e1eafe211ac
 Description: Bật Cử Chỉ iPhone X Cho Các Dòng iPhone Đời Thấp
 Name: HomeGesture Lite VN
 Author: VitaTaf
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.iconrepo
 Architecture: iphoneos-arm
@@ -649,17 +654,17 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.ios14_1.0_iphoneos-arm.deb
-Size: 153748
-MD5sum: 0844f5a91d527436b74f9f164e31b38e
-SHA1: fa44750e7df5cb9556907392734157a351f4193d
-SHA256: 25572437b606abb9dc118139499aad641ca23c446c84147e6eff2e89dbf316d7
-SHA512: ef424607fbcc38c977b7811cbd0f1897702d9a01e061319184848b05240061338d200d7ccc37fd978a7600d3f002c2dc53c59f435c82d29b4389e5e72c90c21c
+Size: 153750
+MD5sum: 218b49f4535442fa4c19bda79190a2ad
+SHA1: 8724df07241196a2c495be8129ae876e2f832014
+SHA256: 50b37e8153e15a9e984651599f249b2265b8a89bbfbeb2a089bd6f81e15b1160
+SHA512: 0ece33baa7c9b0e5a2f8bcf8c16f76c75f350ec447d46f46ddf2de386f256e883182a28752b11c51f9981c2c7853cdd4e9350572a2a19697a88fa7e9e98a883c
 Description: Chủ đề iOS 14
 Name: iOS 14 (iOS12)
 Author: NDK
 Depictions: https://ndk-jailbreak.github.io/info/iOS14/?p=info
 SileoDepictions: https://ndk-jailbreak.github.io/info/iOS14/?p=info
-Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.ios14wg
 Architecture: iphoneos-arm
@@ -667,15 +672,15 @@ Version: 1.0
 Section: Wigdets
 Maintainer: NDK
 Filename: ./debs/com.ndk.ios14wg_1.0_iphoneos-arm.deb
-Size: 861200
-MD5sum: c718307157baca1f806ec6f050cf3f55
-SHA1: 0b6feb0a7e3f759f69d047a53b22f5086bf31c8d
-SHA256: d240cae92b7b58dc023a7a0591b53a1f3a3818a53f19aa4460e942b92207ef70
-SHA512: 0fe3f83ea2ae915c9ff51386cdad62a5aebed32e245299192b415db3244edba70626acd41cac56e548dc69775ec718c684635d5dbc3c567659ae2f1f8b2ef8f6
+Size: 9429486
+MD5sum: 33340fafc6ea01d0d79d3123c434b7ae
+SHA1: 69ab2969161be986489fcd3356fadcf443802015
+SHA256: 18db95be3d47aa7f4dbe593e3438a647a5a56bcdfc7a15e21adad974b1163b92
+SHA512: d61dc97d2e69b32d1444155ed53aef13c1ca839f542b9eee3c258b7338c95719bbfbef3683073bb35d14c054bc3f6704042bc527a8b6caaaad0a0c6bc9cab625
 Description: Wigdets iOS 14
 Name: iOS 14 Wigdets
 Author: NDK
-Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
 
 Package: com.ndk.ipadstatusbarvn
 Architecture: iphoneos-arm
@@ -725,14 +730,15 @@ Maintainer: KhanhNDK
 Installed-Size: 56
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/com.ndk.keyboardx_0.0.2_iphoneos-arm.deb
-Size: 2584
-MD5sum: dbf24822a3b560187f699d2c90aa818f
-SHA1: 62d25363030254d4be7f9519056dd144aa1aa18f
-SHA256: 4b9b04114471926766eb897eaac078f8567336011ce2f643693b23f12174729e
-SHA512: ced585eb2de16f70a3fde4983f257ac28ffa2b2f836fade92ea44756929f3f284b647b5bf705e26647b1f0e3ec4fdaff8880362424fd29bca56c1192ac725e11
+Size: 2842
+MD5sum: 72b5d047584d4023da1d8df994d41897
+SHA1: 9b09a4520d1bfeefd4bf791edc3705fa562e9fb2
+SHA256: a4062256d15fe9328ada79ba84a72f1a318a9a736bcb9dc1ad3a9c21b42aca40
+SHA512: a712824e6e28ebd55530bed651e50bcddca251d43568d8c61d2ac209bd32c9bb09422929f584de70530ecc97dc48560eddd9cbbc632f2895dd15ad11b363850c
 Description: Bring iPhone X Keyboard to older devices
 Name: KeyboardX
 Author: clarityzzz
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.littlexsvn
 Architecture: iphoneos-arm
@@ -764,14 +770,15 @@ Section: Tweaks
 Maintainer: KhanhNDK
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.lockdown_1.0.5_iphoneos-arm.deb
-Size: 19572
-MD5sum: 1806dccd9de67257ffec9c0af97b436d
-SHA1: ffb7a882a4271da4c6ab2fd50b01a67236f7d461
-SHA256: cfd276447b07932abbd9ca6aae0217fb5f124a6c3be85fb5b8355f618e5c9720
-SHA512: c519eaac2be49b51a08cadb4520334154652852f03d9fe55adfdf97c2681d60996d950c63531438d7996e9478a7d17fbde5a885c950c55b1399351ff0aa61bc1
+Size: 19610
+MD5sum: 28aa9e1fabf22f6c1ef947274cd69b73
+SHA1: 2c16f37fa13d04cde3c5c7b2bcf47dae55f789ce
+SHA256: 9fa78d07fb342b30b337f09709de7997ebe37d9b2341c93d67e6340f53c3a06d
+SHA512: 4fe91fdae5b1b2d3f60e0eea5b378776c8dc60ee7a38ce285ddfb0aef0ebbf1e0daf6e2fd50bceee80b8467ae5c95e3cee0d1e306cab029f75ce611045497734
 Homepage: https://repo.krit.me/pack/lockdown
 Description: Cho phép đặt mật mã cho iOS 14+ A11. (Checkra1n)
 Name: LockDown Beta
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Author: _kritanta <kritantadevelopment@gmail.com>
 
 Package: com.ndk.lunartime
@@ -782,49 +789,32 @@ Maintainer: KhanhNDK
 Installed-Size: 160
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.ndk.lunartime_0.1_iphoneos-arm.deb
-Size: 18872
-MD5sum: 50f273d3f4acdc16c6d4f33807398293
-SHA1: 8565f91e14cfe1fa78a0a4a9129f3f32aa1c0a82
-SHA256: d8fb1970e2f17ff143e74e39cc0177b6a485c64d1ecbf2220cd1ba5b58e9ad0c
-SHA512: 0fcc0932d0abb62ebb2e3e4b92f055a88a7bc986f8f8e6742fd770b91064c775ed05823512bf737247205977a76a0b138aedfd558b1c285bbeea571854890eac
+Size: 27358
+MD5sum: 198367190a75b84ecd3dc7fe841971ab
+SHA1: 3f72d076a7d1b17c3546648d52faa028fed606ac
+SHA256: 2225ddf97f7f72d878980847a2db40360531385d33eb686cc83f80eedb6a9eb6
+SHA512: d142ab61c08c790ed033c2399091ed182498336958c8299409338a37ede7000ad800fbb69ea3b12b91a37283d42ecd3fea3682b066e2005a85b7835631969a46
 Description: Thêm âm lịch vào thanh trạng thái
 Tag: purpose::extension
 Name: LunarTime
 Author: fahlnbg
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.masktaitho
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Themes
-Maintainer: Kênh Táo
+Maintainer: KhanhNDK
 Filename: ./debs/com.ndk.masktaitho_1.0_iphoneos-arm.deb
-Size: 85602
-MD5sum: a92de42b47ee7074123a84b58f2dc1db
-SHA1: 461663d7e4fbce4af6ddf0300102103856730748
-SHA256: 80162d8460bba33c4be412de3d9450d5ee062b0163ec37d8c6959bdc9e02c268
-SHA512: 18a814984dfa0e1c7becae0ee1f36751fd9c6f490463797468c36af88ad6065a83f58070798b25665b37fa788abc3a7f963bbf3bbbe695eaa82d4350e986c274
+Size: 85552
+MD5sum: 37a4f965c3a7e741e4d03eb5536b4491
+SHA1: 19690886dc4f81b3eb62e2a1bcecd4925084fe2d
+SHA256: f559e13703f03a0c2c11c3e5f8d85eef3bbf852d918348685a9215f3e38879c1
+SHA512: 4424b9dcc15059fe187e69a509359f0897b8cf58f595d53c4f20084edbecc704c2f10baa283cf9ce015672c23ebc32969b916c5d2478198be9528678fb9f5a3f
 Description: Mask Tai Thỏ kích hoạt qua iThemer hoặc SnowBoard
-Name: Mask Tai Thỏ
-Author: dpth
-Depiction: https://ndk-jailbreak.github.io/info/TaiTho/?p=info
-SileoDepiction: https://ndk-jailbreak.github.io/info/TaiTho/?p=info
 Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
-
-Package: com.ndk.masktaitho
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Themes
-Maintainer: Kênh Táo
-Filename: ./debs/com.ndk.masktaitho_1.0_iphoneosarm.deb
-Size: 71136
-MD5sum: 3bf1af420bd1002f0dfc44346a8b9ce9
-SHA1: faeb787f637f2e2fec14d5a483ff01c5df9b89ef
-SHA256: 16b390a3e0782c179280fc40b965324607b558f7c0c8e8f7ae8040b8b760133d
-SHA512: d140cef62d7b906a8ef3a91ecd57229ea862c2a29eecf74bdf86ce213f7ec02df61deebe15abdd95c53fda64862269a9cfb4d25cf607410bfaeb062c5fad991a
-Description: Mask Tai Thỏ kích hoạt qua iThemer hoặc SnowBoard
 Name: Mask Tai Thỏ
-Author: dpth
-Icon: file:///Applications/Cydia.app/Sections/chudekt.png
+Author: Kênh Táo
 
 Package: com.ndk.milkyway
 Architecture: iphoneos-arm
@@ -851,16 +841,17 @@ Maintainer: KhanhNDK
 Installed-Size: 378
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.ndk.neptunevn_1.2_iphoneos-arm.deb
-Size: 160902
-MD5sum: 9dfbc06bd6b24dbb669c3c063ef03349
-SHA1: 0e3778e5cf7e6f9a51644b892e6dc2be883b934c
-SHA256: b15af745b45ce4d3ab26bce94e811d93140bfe2c9bd09da57e32e4887359c798
-SHA512: a7c7ac633a38b5f50c11366fc8cdacebf22f651976af90ce33e2bdf2a795aae150de98c33430c23129bc8c6dba9127bee03f980889e4b952233698af4a02b868
+Size: 160940
+MD5sum: 42359f32f3495bda37fd2026b9bf9be3
+SHA1: 1bab59a192eabb87d2b5bce1f20d1b364c86647c
+SHA256: 2328e97ac3c0c00c651b23b90a4481f7d3c5628a6235a95f0181348d246e6b7f
+SHA512: 2ca574d505bd41fce1440394d4f87de0bd6289e2e0eae676771af6b49fa0de9df809f24ff7c3a25e2bc2d478186a2db055e9240b432fb8527bac5bfc0459d0aa
 Description: Kích Hoạt Cử Chỉ Vuốt iPhone X Trên Các Dòng iPhone
 Tag: purpose::extension, compatible::ios12
 Name: Neptune for iPhone VN
 Author: Duraid Abdul <feedback.100@icloud.com>
 dev: duraidabdul
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depictions: https://ndk-jailbreak.github.io/info/Neptune/?p=info
 SileoDepictions: https://ndk-jailbreak.github.io/info/Neptune/?p=info
 
@@ -935,14 +926,15 @@ Section: Hack
 Maintainer: KhanhNDK
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.savegtasa_1.0_iphoneos-arm.deb
-Size: 50076
-MD5sum: 7f84622f95517a6743041a5a7fd5a3a7
-SHA1: 1ec494603e63235167c18a8ac22a8b56b9fff86e
-SHA256: 05897fd75372996abab5b947e36ccfe817836ee10a1760144087a3cb40a37dd5
-SHA512: f2318cc1912a7e87ddfe6ef27b1f2ba9d358dc805793b2e4e92cecaa45add4de06f5b933e3e116778c362a68f81ba84d81e6b0babdd841e2b4e0866d1abd68d1
+Size: 61746
+MD5sum: 2846474f5a2a4cb1040393731bbd19d5
+SHA1: 9889d69cab7ecdf4c529a6c15dcc3c0f0b473fa7
+SHA256: 8efc2172ece61d35169078c80344dafffbaf4f28f1b7968e63c29b74fd8f1c70
+SHA512: 8a3f2622a354ea552874f5202c7ac3a4dfd09ee51fa729eb279b2c8c1d59da585a4172f5f33a53a4db918779dcc19581f59e2b52323823d1cf436204efb29062
 Description: Save game 100% cho GTA SanAndereas
 Name: Save game 100% GTA SA
 Author: Korosu
+Icon: file:///Applications/Cydia.app/Sections/NDK-Hacks.png
 
 Package: com.ndk.sfcompactrounded
 Architecture: iphoneos-arm
@@ -986,14 +978,15 @@ Maintainer: KhanhNDK
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.statusbarxs_1.2_iphoneos-arm.deb
-Size: 3804
-MD5sum: 16ea87da4b7d0ae36e8d4ede36f83665
-SHA1: a764a526387d86d0af5351c6cda7f223e5c0c204
-SHA256: 64d950d9bc639832146c85f68eeca4b6d45507556f3bcf6d57a3f8b3558b8214
-SHA512: 7cde08f57eecad8b9a5535bf8a78088f2d27cd2e738f3650b87a2c488019897171b2f6727e33bd01ab7e2b8a4dfcfd72aa4f6bdb41731fac82c09cfc282dfb4f
+Size: 5030
+MD5sum: 4f1e5586c7badc51fa1436778cc48ac3
+SHA1: b360043fe7b1e4b348d8d8926d14520b9f1daa4b
+SHA256: d196f667a82e1cf7662bd302b20c957f34b19b615958e91de2a86944b3d4e1aa
+SHA512: fdc5ea00ebfdfe8e07f51ba71d488ad9fb96e381b3976f3fd8223b48ff1971e23a993bfdbc54cab09645452573a1d6b0208e6a2ec3a4d16153840c5bb534570c
 Description: Enable the “modern” statusbar on any device.
 Name: StatusBarXS
 Author: dpkg_
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.sugarcanevn
 Architecture: iphoneos-arm
@@ -1024,15 +1017,16 @@ Maintainer: KhanhNDK
 Installed-Size: 913
 Depends: mobilesubstrate, firmware (>= 3.0)
 Filename: ./debs/com.ndk.systeminfovn_2.0.0-1_iphoneos-arm.deb
-Size: 178404
-MD5sum: 35a365d8dae141ec3bbf31f66ab192f6
-SHA1: b06e02a3440893cf593e26b0ee91b24ddcc75423
-SHA256: 616dd0f4b65f6e42d4db05d2d30eac718d78d8344d6936c5ce0943a6cf1569ee
-SHA512: d42fbff7b01a76db95355524ae287431efdcf4baf67f3c0660262936c0b1bac62a45040f7cb3e7507102b901fc3e21ba436a87956ef3bbc7fc2e4c9b6ad61483
+Size: 269436
+MD5sum: 8061f076822c31c7c90d6aa3aa107f8f
+SHA1: ade9c8ba8398023843e48bc03a2090bebb8d6e0f
+SHA256: 20fe682e2e59736f67068f71b4e1b47cce37ea14046dc0bf0340b4d194ff5cd2
+SHA512: 4848f23bd475489619dfd3cc7b50471a42d6141e15ec428fd680e77154a2a252df46fc80fb7000a39570da60ec73226bf209de65c2087c41dd31ad2a4703c15f
 Description: Thêm Nhiều Thông Tin Về Máy Của Bạn
 Tag: purpose::extension, compatible::ios10, compatible::ios11
 Name: System Info VN
 Author: ARX8x <arx8@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 dev: arx8x
 
 Package: com.ndk.tronmokenhtao
@@ -1061,15 +1055,15 @@ Maintainer: KhanhNDK
 Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
 Filename: ./debs/com.ndk.vedettevn_1.1.4_iphoneos-arm.deb
-Size: 72416
-MD5sum: fdffa842ca8d9525cd33b219859ce5be
-SHA1: 4250f9368463f9c6e4247ffc196a9d4e56759748
-SHA256: f41b6264eab7f4ba3bdb86617a8593f023fdd19b53d4218784eee51bdbd94bbe
-SHA512: b9cbd38dbe7f44bd32dfc4a8a0921755b644cd5f2fc59aaf168eedbe3b850dd99d673a02ea95c7898b2bfc946d47306fbc1a0ba0a389ce8e9f3e9aa459cb2658
+Size: 106714
+MD5sum: 846e6281d409cbf1c2af4cd5f4a966a6
+SHA1: 40757a8688dcdea934c9cd137fe35152fe2ed4dc
+SHA256: 9379320c0108b2f082ce83190eb58123f7fe1e36ebf3cb5e3dc763cce1a118f5
+SHA512: 513ba26d0f348df60221baa75e89d1d3b8046430c9236e4149831d6796cce1749be7c263ab47acbd952fdfd9600b490253405b3d225dc9ee93eb6fef76f699a9
 Description: Tuỳ Chỉnh Công Suất CPU
 Name: Vedette VN
 Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vedette/icon/icon.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.volterounded
 Architecture: iphoneos-arm
@@ -1097,15 +1091,16 @@ Maintainer: KhanhNDK
 Installed-Size: 16308
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Filename: ./debs/com.ndk.zebra_1.1.21_iphoneos-arm.deb
-Size: 8413700
-MD5sum: cbc18eedac1ec9e287267f2065dd197d
-SHA1: fe456edf665ab4b5c66a7d85dc6d9a55f73e4af8
-SHA256: e3ba4a06ff1604a738329fe2d5c16356ff40f0ed057e7cb241876a38c535c212
-SHA512: 6f899164cc63c7efebd082fa49d34731be95e4d03bbf0f3877b1976ef63ff32205c92a70a8357b3113d08a4fa5a8140a233c66fca2ee00f0284b59376e366d55
+Size: 9836532
+MD5sum: c7180089267cff061486c23a4fef9cc4
+SHA1: 1f53f5c6077100717931778768c3f55c7d34a9b5
+SHA256: 895489270da38249de4ac9ed6c749efb7c8d1ce681547af2d63d4304b74a2fd0
+SHA512: 9dc02601822d7dddcf13ecf1b0b0c4ab5e5dcb273afc2738988e59a60fbc69e420bee1231ede5927554d2a15d6e1d17075bd774dee429b112ffcc93d0f905552
 Description: Trình quản lý tinh chỉnh
 Tag: compatible::9.0-14.6
 Name: Zebra
 Author: Wilson Styres <wilson@styres.me>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Packaging.png
 
 Package: jp.soh.reprovision
 Architecture: iphoneos-arm
