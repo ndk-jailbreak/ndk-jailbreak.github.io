@@ -53,6 +53,60 @@ Name: 8ball pool hack
 Author: {DN}PUBG
 Icon: file:///Applications/Cydia.app/Sections/NDK-Hacks.png
 
+Package: com.ndk.AsistiveTouchX
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Car
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.AsistiveTouchX_1.0_iphoneos-arm.deb
+Size: 474960
+MD5sum: 6633a8ea4e49208f5e081c1cef54f947
+SHA1: 075fe63f1317726848c0e036b1bf3120b1d0d944
+SHA256: 4c30a8d2a98efd182fdc4b2a21b214e3723b741091a8d14dbad8e10cf5f990de
+SHA512: 2c70c1270a5ff624f80d359dd6dbe0858203edf7d23db00f753de6a0809b2ff412b03dd1f586f3a5014b01ac51c3c69cd3271158d1b0945760e708c8cbc52eef
+Description: Nút Home Iphone X
+Name: AssistiveTouchX
+Author: @ongcenh
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/AsistiveTouchX/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/AsistiveTouchX/?p=info
+
+Package: com.ndk.AssistiveTouch1
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.AssistiveTouch1_0.1_iphoneos-arm.deb
+Size: 514504
+MD5sum: 981e72b1c9335c1fc7fa40a7e1e9cb94
+SHA1: f2495895e92d6479fef1989d35a3b8f3eeb8215c
+SHA256: 9e9b741d91c53641bf98bd5b530fac7c6177bc48e4f4df13cd548cf29d6f080b
+SHA512: ed2ed698c135b79168a3d7020667567eb0bb59a0cc32d874a3e3eae15130887deb1b0da4f2aa7f4b5c77b711f79527c8ff3bb2285c112a3783970d8582087291
+Description: Thay đổi hình dạng AssistiveTouch
+Name: AssistiveTouch || 1
+Author: @ongcenh <anhminh311105@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/AssistiveTouch1/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/AssistiveTouch1/?p=info
+
+Package: com.ndk.AssistiveTouch2
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.AssistiveTouch2_0.1_iphoneos-arm.deb
+Size: 566726
+MD5sum: da2ee29027f2ae19071739e186bf942f
+SHA1: fb9a503210157cdc7d9f4810f7b3942fc6cf0d23
+SHA256: 92ed69634f414f4c216103a0785b95a2543591db4ec1243565025f307e81abdb
+SHA512: 3b154acfd1474bd14d907ad705f51d8f5e719f01906d18c96381a585c0c71a3d38debcd14fbeaaeb37183dcc80fdbba20b0101e674caa2f14ab3c9474eb4e788
+Description: Thay đổi hình dạng cho AssistiveTouch
+Name: AssistiveTouch || 2
+Author: @ongcenh <anhminh311105@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/AssistiveTouch2/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/AssistiveTouch2/?p=info
+
 Package: com.ndk.JanTTP
 Architecture: iphoneos-arm
 Version: 1.0.6
@@ -251,6 +305,23 @@ Name: Belle UI
 Author: NDK
 Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
+Package: com.ndk.blackorangepro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.blackorangepro_1.0_iphoneos-arm.deb
+Size: 11349584
+MD5sum: d4e11e0a5c75947d051bd74b40a3677d
+SHA1: 67aa17e64d4e162d0f4be2d69f998400397d02d2
+SHA256: a9593254e2adcbc9c2b24a76bd89354eb0296da690f2557d92e8d5abdaee9e17
+SHA512: fa4a0f36bebe71b69b640cff56938fdcfdbe8c76d920be2ef623ca5ee92eca11a650cfe2cf92003a55a633dd48d4cbead268e15cc6ed42aa785dc7980c0abbff
+Name: BlackOrange Pro
+Depiction: https://ndk-jailbreak.github.io/info/BOPro/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/BOPro/?p=info
+Author: Khoảng Lặng
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
 Package: com.ndk.carbondarkmodevn
 Architecture: iphoneos-arm
 Version: 1.5
@@ -270,6 +341,81 @@ Author: OxideLabs
 Depiction: https://ndk-jailbreak.github.io/info/Carbon/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/info/Carbon/?p=info
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.carcall
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.carcall_0.1_iphoneos-arm.deb
+Size: 488282
+MD5sum: d63e2f3577294014f77e509823b4fda4
+SHA1: bcd151333308ff7d4f418f8fc02c159ebe9b5290
+SHA256: 744555057476f7aadbf6f86604f9725e41adc0ef1dc79381706fe1dd8d63d6a9
+SHA512: 494373033eb6097c96d412cf700abd81fa00a4d2a30a80ad10b01f54eaca2912cde1802ddc1202ff0a680d4266eba7fe16b7a25089bce51731f6f406e62b73a8
+Description: CarCall thay đổi icon cuộc gọi !
+Name: CarCall
+Author: @ongcenh <anhminh31115@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/carcall/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/carcall/?p=info
+
+Package: com.ndk.celllios6
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Car
+Maintainer: KhanhNDK
+Depends: firmware (>= 12)
+Filename: ./debs/com.ndk.celllios6_1.0_iphoneos-arm.deb
+Size: 2017520
+MD5sum: f06b18f9d81f15a170e5dcf584f7fd89
+SHA1: f1c96d2eb77759614ab17dab905178efb7cc8e1d
+SHA256: 7b32ecafc651a1f700d7a50d4e64a29739a8d74729749345e007f11b7a4a9aee
+SHA512: a493519fd4cfe91da99061f0bc05d4578bfa302c2acfafcbeda5abf82488af2a86fc809023fec5a0f70734a8bec8e88e3c131ef80dd85702ab941fafdec34ee4
+Description: Biểu tượng sóng wifi trái tim !
+Name: Cell IOS 6
+Author: @ongcenh <anhminh311105@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/celllios6/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/celllios6/?p=info
+
+Package: com.ndk.celllove11
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: KhanhNDK
+Depends: firmware (>= 11.4.1)
+Filename: ./debs/com.ndk.celllove11_0.1_iphoneos-arm.deb
+Size: 1365358
+MD5sum: dcb8e798b638eaf0c7bc5a63bc5a4529
+SHA1: d51c4ad659cb859c7fafb3b5410876382b2780f4
+SHA256: a5d666d0f23e936fac0e18057e55a85780c18430ebec34febc5c27da1ca0f083
+SHA512: 57fd8b109abb8025a887fdac827ea77c760049d05022f13bb8ca81aca93e5567d3e1601ddd21f88ffa043e0ea082942580aa9596acee5633df1560ce0096628d
+Description: Biểu tượng sóng wifi trái tim !
+Name: Cell Love ( 11 )
+Author: @ongcenh <anhminh311105@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/celllove11/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/celllove11/?p=info
+
+Package: com.ndk.celllove12
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Car
+Maintainer: KhanhNDK
+Depends: firmware (>= 12)
+Filename: ./debs/com.ndk.celllove12_1.0_iphoneos-arm.deb
+Size: 1365426
+MD5sum: e56e6eb6199c4d47a4993408dcece436
+SHA1: 3effcdad1ec69dbb44193fb722c0eab1e9cc85d6
+SHA256: f35d791a3f675d94b61c564f6141edd6c0dc9de0e0167d8800cdaea123fed22b
+SHA512: 31426ce329fb507bcd031f6980b9d0c0495a77f96c721b5e29c585730010d268ccfd02a203f84533c9791c5e63dd3cdfea72d94fa96c2b5bc408e934f79752a6
+Description: Biểu tượng sóng wifi trái tim !
+Name: Cell Love
+Author: @ongcenh <anhminh311105@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/celllove12/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/celllove12/?p=info
 
 Package: com.ndk.ciutadellarounded
 Architecture: iphoneos-arm
@@ -544,17 +690,35 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.greenred_1.0_iphoneos-arm.deb
-Size: 11651588
-MD5sum: 422a09439ea72fedd03403bb76ec4fbe
-SHA1: 5a3e942e29d294d722ad864bc9b527a5104aa9ae
-SHA256: 3fe0c38a8fd0ece0d568e61afdf1a3ea1160342597dd90ef809ca6a2abb025b9
-SHA512: e4b218138ce9d83f26cae795fd80f57fdd2a7204f6a2de2ec4c7ea9c7f0093a94bba11a6af29ae4951a4e71f9c24e64aa661d696493670e0e8acb96e9b475d0c
+Size: 11651598
+MD5sum: d522e93c67fea80bac0df2466a3893d6
+SHA1: d7055f15a7dae84431b97e2f06538c65e79936f4
+SHA256: 1eabd93476c0ed96f66571e20d670779c6d1af1c49824d96d2a9464d5051349e
+SHA512: 8069414feea1eb238563c2ba29c287d8d6b4b0dda79d5266a4ceee1b36c8151c774754d45b07feccbaa102d781a6589cdff9478cedb3624d12405eecfd6ca64a
 Description: GreenRed themes
 Name: GreenRed
-Author: NDK
+Author: Bùi Quang
 Depiction: https://ndk-jailbreak.github.io/info/GreenRed/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/info/GreenRed/?p=info
 Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.grpro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.grpro_1.0_iphoneos-arm.deb
+Size: 20934946
+MD5sum: 300b6f1766660872614d57096346c34f
+SHA1: ff04e70ca6a2f142d2454511445bfc2c84356832
+SHA256: c958f0e526f37efc18b5509713d5165e23f6f71977b9269d4a3a0c877769297f
+SHA512: 159d38f60d41dc4a3bf7ca35a4178fc520c3aeeedbc8fec9a410aaf26bf9e6d54bb455680d495c1af7e958d6cdf27a24ee70860cbcc77a6886d7fe15570dc021
+Description: Chủ đề GR Pro
+Name: GR Pro
+Author: HungBG,@ongcenh <anhminh311105@gmail>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+Depiction: https://ndk-jailbreak.github.io/info/GRPro/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/GRPro/?p=info
 
 Package: com.ndk.halfipad
 Architecture: iphoneos-arm
@@ -1125,6 +1289,24 @@ Author: @ongcenh <anhminh311105@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
 Depiction: https://ndk-jailbreak.github.io/info/VolCafe/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/info/VolCafe/?p=info
+
+Package: com.ndk.volumelove
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.volumelove_0.1_iphoneos-arm.deb
+Size: 409728
+MD5sum: 2e57677f60853b4643fb263caf022d92
+SHA1: 4dd611abec1e6c5511aca13719659ae8c55eba9b
+SHA256: 58bdff3817c0372eed734c08f78c77dcd3d5a74088322829749ebd5648ed6f68
+SHA512: d797ba517f914f683520d6ed33321346bc5bc91d0c267a57bc042cf0834dc26cce6bf29544ff87ada4856224b786ee0a05b24b61cf348bf8d6828ee6cb945813
+Description: Thay đổi biểu tượng Âm Lượng !
+Name: Volume Love
+Author: @ongcenh <anhminh311105@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Car.png
+Depiction: https://ndk-jailbreak.github.io/info/volumelove/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/volumelove/?p=info
 
 Package: com.ndk.zebra
 Architecture: iphoneos-arm
