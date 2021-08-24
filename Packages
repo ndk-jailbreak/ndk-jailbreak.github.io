@@ -1281,11 +1281,12 @@ Version: 0.1
 Section: Car
 Maintainer: KhanhNDK
 Filename: ./debs/com.ndk.volumecafe_0.1_iphoneos-arm.deb
-Size: 265702
-MD5sum: 140b45f8e84db2c90a0635618ff0657f
-SHA1: 84a6b72a2be6b24940d0a25799a09e9a2758dfb3
-SHA256: 8cc73a261dff97f4ee5a620639202a8e3ac74e62921136b64247c25a6a09b44a
-SHA512: e17250f2597ed18424e18f7d5cec6114faa60b5a488376c6fb27ac6fe5f88676f4e5db74263014f8b56a8a90e89effa440c808a1e999d248eedf587679d68079
+Size: 265712
+MD5sum: 2804896a978c714cc19d2f58e2e2928c
+SHA1: 71e2462283f5583a92cbe6a72104e5f129c720be
+SHA256: edc5ea6f559db6a17c430da5057ba79b415d93c2517e068713ed4ef10b55a9f8
+SHA512: ca5bc3b9e26261e3a1d9487f31936fc67d3e9993d86a9071153965c46ab85714898fef67d069bba1628e5e475fb9ebfc74e8f56a8f8720aafddd0a68aa732e30
+Homepage: https://ndk-jailbreak.github.io/info/VolCafe/?p=info
 Description: Thay đổi biểu tượng Âm Lượng !
 Name: Volume Cafe
 Author: @ongcenh <anhminh311105@gmail.com>
