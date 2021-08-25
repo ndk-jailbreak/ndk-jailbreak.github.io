@@ -1,6 +1,6 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://ndk-jailbrak.github.io/info/System/NDK.png",
+  "headerImage": "https://ndk-jailbrak.github.io/info/System/Images/Sileo.png",
   "minVersion": "0.3",
   "itemSize": "{330, 110}",
   "tabs": [
@@ -36,7 +36,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://ndk-jailbreak.github.io/info/VolCafe/Screenshots/1.png"
+              "url": "https://ndk-jailbreak.github.io/info/VolCafe/Screenshots/1.jpg"
             }
           ]
         },
@@ -98,7 +98,7 @@
           "spacing": 16
         },
         {
-          "URL": "https://ndk-jailbreak.github.io/info/System/NDK.png",
+          "URL": "https://ndk-jailbreak.github.io/info/System/Images/NDK.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,

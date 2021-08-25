@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Cải thiện trình phát nhạc của bạn </p>\n<p style=\"font-size:10pt;\"> Thêm ảnh nền bài hát làm màn hình khoá và một số chức năng khác </p>\n<p style=\"font-size:10pt;\"> Đã được Việt Hoá cho anh em dễ sử dụng.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Đây là file HỆ THỐNG, cân nhắc kĩ trước khi cài đặt. </p>\n<p style=\"font-size:10pt;\"> Khi cài đặt, mọi thứ sẽ tự động chạy</p>",
           "useRawFormat": true
         },
         {
@@ -36,7 +36,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://ndk-jailbreak.github.io/info/Nereid/Screenshots/2.png"
+              "url": "https://ndk-jailbreak.github.io/info/carcall/Screenshots/1.jpg"
             }
           ]
         },
@@ -63,17 +63,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Nepeta",
+          "text": "@ongcenh",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "0.1.8-1",
+          "text": "0.1",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 14.8",
+          "text": "11.0 - 14.7",
           "title": "Hỗ trợ"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "126 KB",
+          "text": "614 KB",
           "title": "Dung lượng"
         },
         {
@@ -98,7 +98,7 @@
           "spacing": 16
         },
         {
-          "URL": "https://ndk-jailbreak.github.io/info/System/NDK.png",
+          "URL": "https://ndk-jailbreak.github.io/info/System/Images/NDK.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
@@ -118,13 +118,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "0.1.8-1",
+          "title": "0.1",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
+          "markdown": "<ul>\n<li>Phát hành lần đầu.</li>\n</ul>",
           "useRawFormat": true
         }
       ]
