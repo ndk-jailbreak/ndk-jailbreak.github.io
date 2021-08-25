@@ -1,6 +1,6 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://ndk-jailbrak.github.io/info/System/Images/Sileo.png",
+  "headerImage": "info/System/Images/Repo.png",
   "minVersion": "0.3",
   "itemSize": "{330, 110}",
   "tabs": [
