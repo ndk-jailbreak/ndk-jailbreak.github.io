@@ -1,6 +1,6 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "info/System/Images/Repo.png",
+  "headerImage": "https://ndk-jailbreak.github.io/info/System/Images/Repo.png",
   "minVersion": "0.3",
   "itemSize": "{330, 110}",
   "tabs": [

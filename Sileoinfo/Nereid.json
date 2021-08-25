@@ -36,7 +36,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://ndk-jailbreak.github.io/info/Nereid/Screenshots/2.png"
+              "url": "https://ndk-jailbreak.github.io/info/Nereid/Screenshots/2.jpg"
             }
           ]
         },
@@ -98,7 +98,7 @@
           "spacing": 16
         },
         {
-          "URL": "https://ndk-jailbreak.github.io/info/System/NDK.png",
+          "URL": "https://ndk-jailbreak.github.io/info/System/Images/NDK.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
