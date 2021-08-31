@@ -1571,9 +1571,10 @@ portfolio
   background-color: #3C5EF9;
   max-width: 250px;
 }
-.btn: hover{
-  padding-left: 35px;
-  padding-right: 35px;
+.btn:hover{
+  padding-left: 11px;
+  padding-right: 11px;
+  opacity: 0.8;
 }
 .btn2{
   float: left;
@@ -1599,4 +1600,3 @@ a.dis: hover{
   color: #fff;
   background-color: #5fb759;
 }
-
