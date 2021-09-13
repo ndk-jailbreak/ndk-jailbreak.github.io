@@ -280,6 +280,25 @@ Depiction: https://ndk-jailbreak.github.io/info/Barmoji/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Barmoji.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.beenet
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.beenet_1.0_iphoneos-arm.deb
+Size: 5879682
+MD5sum: 63bf3f4a868bb8b2d0d8c7d4512f230d
+SHA1: fb8dfa51c3c8a534aa92f78a0d98f37b47bf64a5
+SHA256: cea2a9a8384d80903dcb60c637054025fbfc31c3f2d3656f7e8d4e2c7b230eb6
+SHA512: 1ba551e110065665aa686a24ce09ef5aed783ac7fc986c30c554a48a0744d38da92202cfd298839a4eccff2d32c03dfa847477fb3f42559f24836c5c6104103a
+Homepage: https://ndk-jailbreak.github.io/info/Beenet/?p=info
+Description: LS cho XenHTML
+Name: BeeNet VN
+Author: @ongcenh
+Depiction: https://ndk-jailbreak.github.io/info/Beenet/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Beenet.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+
 Package: com.ndk.begreen12
 Architecture: iphoneos-arm
 Version: 1.0.7~beta10
@@ -556,14 +575,14 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: EQE Presets
 Filename: ./debs/com.ndk.eqesuperbass_1.0_iphoneos-arm.deb
-Size: 1008
-MD5sum: dbef1ef97dbb63e76ac58d01de6cb513
-SHA1: 22d518162dcfe88fd32b4153551e171506596f98
-SHA256: 29e80b8b66552e8f4aeaf52ea7c91931b3775cc4fa399488c1bbdb2b779cbe85
-SHA512: c83ccb0ef299a6868704005d53230c3652c51978654f24d1f313d826d2c44a350dc88d18d30b310e7e9e82da401dcc9a6250c7300fdc8972785c22286a103ff1
+Size: 1024
+MD5sum: 5004da7d0325d40593eb82589ba2e90d
+SHA1: 664f675d49063e390477244dfbc5cb6757346cd7
+SHA256: 9a5d738882a2182daca2a7c542184014082ec38dce9c6d9fbf1ee01debc43efb
+SHA512: 338141084a2126b976fe466aea45945b705872ef8a4c4b592606fa9407120d69cce8cc2ef3cc6115687216c3561a8d9fde85b8f6b0dece4d7a2c4c4844f2d3d7
 Description: Super Bass cho EQE
 Name: EQE Super Bass Presets
-Author: KhanhNDK
+Author: Hoàng Nguyễn
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.facebookdarkmodevn
