@@ -1207,6 +1207,228 @@ Depiction: https://ndk-jailbreak.github.io/info/SFCompactRounded/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/SFCompactRounded.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Font.png
 
+Package: com.ndk.snowboard.dock
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 512
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Filename: ./debs/com.ndk.snowboard.dock_1.1.0~Beta4_iphoneos-arm.deb
+Size: 91068
+MD5sum: f76310db54b951a5f5e891d258c9c1c8
+SHA1: a594ab4db7f72c57fff81a2bfe02767d85373f1b
+SHA256: ecdf588351b5707f84b4437c2cc2b158861d3152ef9e42e26706f0c5d81f7b6b
+SHA512: 8810ec54516afacb3117fc139482c611b5c0757678f039741a1f5b85e47716a24b7bf9aea76de526603db1eb893ca0bafa74ba59fb85a3dbc86644ddf64d00e8
+Description: Gói tiện ích dock cho Snowboard
+Name: SnowBoard Dock Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
+
+Package: com.ndk.snowboard.effects
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 408
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Filename: ./debs/com.ndk.snowboard.effects_1.1.0~Beta4_iphoneos-arm.deb
+Size: 107248
+MD5sum: 086342d04d7fa333811c735815c21ab4
+SHA1: 6022b24e750c3825b0ac6d4c513d9b398e476a37
+SHA256: 1786b8e7fed44e77a0d3563bf3b1c441225357784a59707ae14478171dc05262
+SHA512: d61aeba227f6ae86dc08d77b61ed3b35e7fe76f72c6003ef12de93d5ea84414b1e34816d8a853476ba7b9ca2ab52ea4cd91f0c697c809a3b75ecb158c040f284
+Description: Hiệu ứng biểu tượng cho SnowBoard
+Name: SnowBoard Icon Effects Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
+
+Package: com.ndk.snowboard.fonts
+Architecture: iphoneos-arm
+Version: 1.0.12~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 400
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Filename: ./debs/com.ndk.snowboard.fonts_1.0.12~Beta4_iphoneos-arm.deb
+Size: 37944
+MD5sum: f56b4ccc11dbb48737f663187bc90fea
+SHA1: 3097f91e5551e4ade05ae4ddf9a13ad4378b2175
+SHA256: d5983005118b2d1d0d564b3d0e29dfc63c8f568b048d43e64bd2c7ffe3c70027
+SHA512: 124544b0f65be3334f9c63eefe8fbe94488af059a6025799df77f22bc3dcdaaa62168e6762eec98865aa09582dc469beddb89ed2520278721392b78e4934e88e
+Description: Phông chữ cho SnowBoard
+Name: SnowBoard Fonts Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.snowboard.labels
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 400
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Filename: ./debs/com.ndk.snowboard.labels_1.1.0~Beta4_iphoneos-arm.deb
+Size: 40424
+MD5sum: 5acd9ee2d47812327640a2ffd8db37d4
+SHA1: e8d4c595476c0c958225af93ca6d3d43ff45bab6
+SHA256: 2008d25c012942af2887a00b24f33356c9d59723ca08f0c205173eba1c7c215c
+SHA512: 86f72ae3723adf3be976016056f4643cb31bf6b112d63aeeac8bc14144525ffc0d1a6736cb23e7d5dbd8b74c376194c2f6e898c78fef94eef1f758ebc9d44c2a
+Description: Nhãn cho SnowBoard
+Name: SnowBoard Labels Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
+
+Package: com.ndk.snowboard.masks
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 356
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Filename: ./debs/com.ndk.snowboard.masks_1.1.0~Beta4_iphoneos-arm.deb
+Size: 55620
+MD5sum: b7365d42ff86ca0bde56b8fa66de744d
+SHA1: 627eef8a707421c99cc9a69b6d6a9459a004a81b
+SHA256: 9dd57ae897c0225100ffac1d6cd818195328124e2332ee31c32008249260cd06
+SHA512: 8f9234ca21c75e3d785d4c6eb1207a4fd8f2f50d8375a7cac26858e7e20b0f1c8ce84aa011a537cea5a1810940ca135693dd32edfd93088e93cded27c6d2769e
+Description: Mặt nạ biểu tượng cho SnowBoard
+Name: SnowBoard Icon Masks Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
+
+Package: com.ndk.snowboard.pagedots
+Architecture: iphoneos-arm
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 452
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Filename: ./debs/com.ndk.snowboard.pagedots_1.1.0~Beta4_iphoneos-arm.deb
+Size: 62378
+MD5sum: 1d83f6caed301d0e5e5c638af4c356f4
+SHA1: aef78bdd7d0155b8e6794c3116043ff523b617e7
+SHA256: 8ffff46da6b89455758977272e40402195891bf950f77e339e31eb6977635af2
+SHA512: 1ea8987221cbf28edd054881f8ac04edb12826d4362c174e9553d2dc6dd6018f3ff25ff21d958ee557bd2cc210d1343ed7e08b57c599c3d4035ad8a3820c9d09
+Description: Dấu chấm trên trang cho SnowBoard
+Name: SnowBoard Page Dots Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
+
+Package: com.ndk.snowboard.respringextension
+Architecture: iphoneos-arm
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 596
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Filename: ./debs/com.ndk.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm.deb
+Size: 79680
+MD5sum: 56b0685681afcb7269f8f93f4181af72
+SHA1: d0d4d8a2bbf8a592b6382a2887eb9a23b9b5f039
+SHA256: a3a9a276b257731db925e096e1c1cbe30b2bbc98934286eb05d9e8fea6bb88a7
+SHA512: 1436847f5eb71de172c8c3291a0bb33760bb0e3bc5fa8bee4bd6f1539a4d40a88ecc6452a6e9fb45870d9345e99e2572f88cb034fc5e8cef528ca48fc38e4489
+Description: Phần mở rộng biểu tượng respring cho SnowBoard
+Name: SnowBoard Respring Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
+
+Package: com.ndk.snowboard.settingsicons
+Architecture: iphoneos-arm
+Version: 1.0.26~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 452
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.0)
+Filename: ./debs/com.ndk.snowboard.settingsicons_1.0.26~Beta4_iphoneos-arm.deb
+Size: 75416
+MD5sum: ff671335225517f4f6d591e8c5ff76d1
+SHA1: 0e0b46c46aebeacfe31491dc1f55b361979d8dde
+SHA256: 009c76322d5ac5233d5af54a5a3c71055ca7cc4fa144f816518a4e22d9504d72
+SHA512: 45930f057372b8d5a04add993e0721dab2d3033e316d7e901b705d7442f1deb5fbf0539c2e2bfeab4f587d76eeb1df77e4021e2e6b06e525a4e13341ed02d4a9
+Description: Biểu tượng cài đặt cho SnowBoard
+Name: SnowBoard Settings Icons Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
+
+Package: com.ndk.snowboard.sounds
+Architecture: iphoneos-arm
+Version: 0.0.3~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 400
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Filename: ./debs/com.ndk.snowboard.sounds_0.0.3~Beta4_iphoneos-arm.deb
+Size: 41034
+MD5sum: ba2aaf788458f94ac5e6d8907fc57ca4
+SHA1: bfd7c715449a62e9b5a9fdd4f8ed38f55aaa2c76
+SHA256: 4b5a0fe5041cb39729dfea5bb5ad795dbee0e9c87e0f00564a706f895822e9fb
+SHA512: 220490d83048a19740c0a7715777326ba2a5c7c44d6ddcf03221715871d91de2da91f0780257e2bb0eee10f17cdd251b9c44e7dc383921ea89fc40464d070d44
+Description: Âm thanh cho SnowBoard
+Name: SnowBoard Sounds Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.snowboard.statusbar
+Architecture: iphoneos-arm
+Version: 1.0.10-Beta3
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 456
+Depends: mobilesubstrate, com.ndk.snowboard (>= 1.2.100)
+Filename: ./debs/com.ndk.snowboard.statusbar_1.0.10-Beta3_iphoneos-arm.deb
+Size: 73020
+MD5sum: 610738457e6a2913af65b056a161d493
+SHA1: dfba0ba8c4cd90c3b40a108366459dd4f6e98c4d
+SHA256: c9a26eb5bca9ac4dd13b5d39a898963c0f6ccf8bbf9420df3ed1aa4775dc671b
+SHA512: e3fb8ed7cee9b3e8de25b84a3df720cf2bf6bcb5e13015bb39f3e904a14f883e3413a6cea9730b22ffca9ab3f53dd15223772bbaa2e8330d68ba75d6137ca995
+Description: StatusBar cho SnowBoard
+Name: SnowBoard StatusBar Extension
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.snowboard.ui
+Architecture: iphoneos-arm
+Version: 1.0.58~Beta3
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 476
+Depends: mobilesubstrate, com.ndk.snowboard (>> 1.2.22)
+Filename: ./debs/com.ndk.snowboard.ui_1.0.58~Beta3_iphoneos-arm.deb
+Size: 122754
+MD5sum: d088a6e4b35a9fe809d537794163243e
+SHA1: ccc555149633e93697c0dd4b0f8a112691939910
+SHA256: 6c4862075326757012871677152d632e8ea151775ae2ac0dcb161091fed55d0b
+SHA512: 2a6a41f24e609cd1c86b328fcacd5437a5a56ea2260e42cd39c0921663cdae32f10841825eeeef45a32c8bb7dd23ee01203c75ba0f5f1a4804937e6b5c1ea3b0
+Description: Tiện ích mở rộng giao diện người dùng cho SnowBoard
+Name: SnowBoard UI Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
+
+Package: com.ndk.snowboard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 5008
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.TruongTamPhong.SnowBoardVietNam
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.ndk.snowboard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 2897362
+MD5sum: 12e7b8ff8bba4a5143698b03308abfae
+SHA1: fcb3d110118d8f541f790de069d74b50ff859ebb
+SHA256: 4bbdb0b0c7260d243523aa65a5dedfb0cd3de5f96bcf50f9d3a9e5db326d8304
+SHA512: f4daa0ded2a010b3423f6f18c0bffd758ee7645d96db66779a247490f3491ba7e47cdc13d33e9ae7f7b7bbef96dada524629da61b6f4cc36a3a7780adf113357
+Description: Trình quản lý chủ đề !
+Name: SnowBoard VN
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark & Dennis D. Bednarz
+
 Package: com.ndk.songios10
 Architecture: iphoneos-arm
 Version: 1.0
