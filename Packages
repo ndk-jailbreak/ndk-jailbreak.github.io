@@ -355,6 +355,22 @@ SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/BOPro.json
 Author: Khoảng Lặng
 Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
+Package: com.ndk.bongbong
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: NDK
+Filename: ./debs/com.ndk.bongbong_1.0_iphoneos-arm.deb
+Size: 2688594
+MD5sum: 5b8a873b9833d27bbc5eb4f7c278f4c1
+SHA1: 11572fc94db4c7e282e361a260f3785cb0c3f978
+SHA256: 26f29638053d977ee672f891e8763d07bdf165796b917bfabe5f95aa5fe9f51a
+SHA512: daad37df55bec6956ff1bd867c95a74ec055e335cbf2eab24ae843a0a67fd0ac45e53f79e15cacc8b2bfad800c6bbd5888d7ec4ec827161d7328cd27044215e6
+Description: Bàn phím gọi bong bóng
+Name: Nút gọi bong bóng
+Author: Mỹ Korg
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
 Package: com.ndk.carbondarkmodevn
 Architecture: iphoneos-arm
 Version: 1.5
