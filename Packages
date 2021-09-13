@@ -1221,16 +1221,36 @@ Version: 1.0
 Section: Themes
 Maintainer: NDK
 Filename: ./debs/com.ndk.ios14_1.0_iphoneos-arm.deb
-Size: 153750
-MD5sum: 218b49f4535442fa4c19bda79190a2ad
-SHA1: 8724df07241196a2c495be8129ae876e2f832014
-SHA256: 50b37e8153e15a9e984651599f249b2265b8a89bbfbeb2a089bd6f81e15b1160
-SHA512: 0ece33baa7c9b0e5a2f8bcf8c16f76c75f350ec447d46f46ddf2de386f256e883182a28752b11c51f9981c2c7853cdd4e9350572a2a19697a88fa7e9e98a883c
+Size: 153764
+MD5sum: 6679ec3803ded382cf8f37ba1f7b017d
+SHA1: b8ee68add3997df19ad4a3ae2949e595754c13dc
+SHA256: e1e881383f955ab6d9092708d3b011af25cea029b94a3e3063b78aa7e1934f8d
+SHA512: 930d1923a34cd6f5462cc0cae38e9d6ac480032ce5984794149d7ea3ab35d16e252e3b175cd6ffd60a088463b9269dab741bb325cb5bd3c30d9cbe514cfed385
+Homepage: https://ndk-jailbreak.github.io/info/iOS14/?p=info
 Description: Chủ đề iOS 14
 Name: iOS 14 (iOS12)
 Author: NDK
-Depictions: https://ndk-jailbreak.github.io/info/iOS14/?p=info
-SileoDepictions: https://ndk-jailbreak.github.io/info/iOS14/?p=info
+Depiction: https://ndk-jailbreak.github.io/info/iOS14/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/iOS14.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.ios14
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Themes
+Maintainer: NDK
+Filename: ./debs/com.ndk.ios14_1.1_iphoneos-arm.deb
+Size: 925154
+MD5sum: ada3dfcaa5411dc9009c1fdfd84fcb81
+SHA1: fab928afc8e35f6030856f0aeb7bd6aecd188be4
+SHA256: e710b7c21d55852ac6895d1e28262bb660f1d0d643bb8999116d1b6d30d5592e
+SHA512: b96aaac8086abb064176ccac52ff68e077ae76f20c7aad706d3415e7df5a4302cbf05a562ad3f3ae81c96f4c2caa26274025855e93711e54a3f780da4829ab98
+Homepage: https://ndk-jailbreak.github.io/info/iOS14/?p=info
+Description: Chủ đề iOS 14
+Name: iOS 14 (iOS12)
+Author: NDK
+Depiction: https://ndk-jailbreak.github.io/info/iOS14/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/iOS14.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.ios14wg
@@ -1572,6 +1592,22 @@ SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/NiceBarX.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Name: NiceBarX VN
 Author: niceios
+
+Package: com.ndk.oneui
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.oneui_0.2_iphoneos-arm.deb
+Size: 3417334
+MD5sum: d586495d1aa2e793d6a6b5e44e1d9e78
+SHA1: 3b5abe071b2fb9f532e5a6dd706a7f6a31a3a66f
+SHA256: f3efa33f948af9ccfbb8ad5bca4a8a8a69783152aa3c4aa8dc3fa2e326260f22
+SHA512: 253e93bf8f34ed735551aa6d9ad94d5eb782a8314d6197d900f1814e77414da1d4a6d7210de8b639cc4b6cf9ae5a21f06ab8950384e1b1bc779d344c8c474324
+Description: Theme One Ui
+Name: ONE UI (BETA)
+Author: TTJB Repo
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.orion
 Architecture: iphoneos-arm
