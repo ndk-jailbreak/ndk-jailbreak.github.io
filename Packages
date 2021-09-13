@@ -18,6 +18,45 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.michael.appleilluminator
+Architecture: iphoneos-arm
+Version: 0.7.0
+Section: System
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 11.0)
+Conflicts: com.michael.appleturboboost
+Filename: ./debs/com.michael.appleilluminator_0.7.0_iphoneos-arm.deb
+Size: 8468
+MD5sum: b2154b380f8bdf6d929f10f1bb37a9e0
+SHA1: 66c49f51ba35eceff4fefaeaad8309476a1f5d0a
+SHA256: 925567d036247b3b3f98865533a850b8cd5c5aba2a8fc3f9507fcc38ba0b92dc
+SHA512: 743a7ea9a2af5c754833e54d3486c24f4b318e9ceee08d772fcadd1993953554a91315671bb9111cfb68bd80d94bf31b063acd5c7cbb70a6314e1df2b33073db
+Description: Illuminate your Apple!
+ Illuminate your Apple!
+ Relieve Apple’s overheating Reduces brightness limit.
+ Support iOS11~14.
+Name: Apple Illuminator
+Author: Halo_Michael <yc992147156@me.com>
+
+Package: com.michael.appleturboboost
+Architecture: iphoneos-arm
+Version: 0.7.0
+Section: System
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0)
+Conflicts: com.michael.appleilluminator
+Filename: ./debs/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
+Size: 9876
+MD5sum: 3b3fb229c9efe153cdf6288963efc66a
+SHA1: d6ee79806088ed1ff10aa50e876662e09e1ecaf4
+SHA256: c593c79ecbd596793230cbb9de3dd448118d37a1f029f1904d455ffe28ee9992
+SHA512: f1d732753005fcc8ebe7dabe53ecef00f42afc078b906dd32d7e0cee5bfe06d50af5f7e340891f3c584a1200f727629d5790d71c6b664ecd18870163ea734105
+Description: Turbo Boost Your Apple!
+ Turbo Boost Your Apple!
+ Support iOS12~14.
+Name: Apple Turbo Boost
+Author: Halo_Michael <yc992147156@me.com>
+
 Package: com.ndk.13hudvn
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -1143,6 +1182,24 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.presetextension
+Architecture: iphoneos-arm
+Version: 1.0.21~Beta4
+Section: SnowBoard Extensions
+Maintainer: KhanhNDK
+Installed-Size: 792
+Depends: mobilesubstrate, com.ndk.snowboard (>> 1.2.22)
+Filename: ./debs/com.ndk.presetextension_1.0.21~Beta4_iphoneos-arm.deb
+Size: 174618
+MD5sum: 6f0996f725d07a4df700081efb9a8fc6
+SHA1: bf5a5c904574bef1adb6acea901e8400f0322dc8
+SHA256: 5004cf2cd18a1036af9098c40b1719836868f2e85dab131c5f6746054a8dfa8e
+SHA512: c1e79a596585e60fa16a359fc3ea149ec880dbb537b5dcf5d2d8e1713d21338d2927735236cdbf3bffeb847865996f351147a47e55c9d1bd3ed5ec0963efe487
+Description: Phần mở rộng cài đặt trước SnowBoard
+Name: SnowBoard Preset Extension
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Spark
 
 Package: com.ndk.proudlockxrvn
 Architecture: iphoneos-arm
