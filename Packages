@@ -157,17 +157,17 @@ SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/AssistiveTouch2.json
 Package: com.ndk.JanTTP
 Architecture: iphoneos-arm
 Version: 1.0.6
-Section: Wigdets
+Section: Widgets
 Filename: ./debs/com.ndk.JanTTP_1.0.6_iphoneos-arm.deb
-Size: 145276
-MD5sum: 2da56f5df3248475db6fe15e7b611061
-SHA1: 2a90fbcf5f562f4e0a319efc45cefbc2a16b656e
-SHA256: 1d523c7881e5704211d8a6ec5d00f082c41cb28a4a4a0f84b529c945f43ffce3
-SHA512: d8c222a6df22c014522e3141271a984bdc50512099b1b96ef7e3f4e5db1a1e3ecd3f1a52ca265d1b20cbdb07b6d8c39093fdab3e87ced47ec726e49b5779b195
+Size: 145274
+MD5sum: 7673efdc14db62980cbd849874577c0a
+SHA1: d604d247818fb057300e67861b48bc4b50f7443c
+SHA256: 76c450b81d07fef35ce2b3ad65cafa5743b3c712c717b1861ac3b548c5002f6d
+SHA512: 07780ef643ce497bb50098681855eb19f4fe8a11d2a7912d20c6d93a0e1709fca99086a315172ebb1aaa223e3f81ef811e955a35ce1503a5e43ddc56b3630df8
 Description: Widget for Xen HTML
 Name: Jan TTP
 Author: TTP + CodeOne88
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 
 Package: com.ndk.Legizmo
 Architecture: iphoneos-arm
@@ -191,32 +191,51 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Package: com.ndk.TTP1508
 Architecture: iphoneos-arm
 Version: 1.0.2.3
-Section: Wigdets
+Section: Widgets
 Filename: ./debs/com.ndk.TTP1508_1.0.2.3_iphoneos-arm.deb
-Size: 1470290
-MD5sum: bce17c7444f0c264a2e7a592964728c1
-SHA1: 6a1e9b362f131389435c0d3d2515309f9aa65437
-SHA256: d3295e0f8b0be6d4c6960cf402a366d1a2e558453ab7822d53f06964e90c82cc
-SHA512: 3080be3919d4ada842dfa87b4fec5d0b60455d7b81e7a05c83e051779f255388024d00e1cccb8e5786af8cbce5b79db0384cbf1a077bab2a6d90495864a35826
+Size: 1470278
+MD5sum: c25aa42d1cb5a4144097ead899f9eaf4
+SHA1: bf3a93bb5818dcaa06ab0e9ced135ae5309fb01e
+SHA256: 10163af297eb67b1cdf501374c98099e74b517c529ea3fbbc393e10df02c9f66
+SHA512: 76c83d4eac42318d5f870d5e6a11ed5709b45532aeb5ae9e5dad8cd1ea776eaa73c13daade260c40a6abfadbbe237a030c207946de4a2ee4fb41c1abe12ce501
 Description: Widget cho Xen HTML
 Name: TTP 1508
 Author: Trương Tam Phong
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 
 Package: com.ndk.aerelys
 Architecture: iphoneos-arm
 Version: 1.1.8
-Section: Wigdets
+Section: Widgets
 Filename: ./debs/com.ndk.aerelys_1.1.8_iphoneos-arm.deb
-Size: 1167434
-MD5sum: 11a2b61554f540a909cf2cb6d339fdca
-SHA1: fcac114bb4f83a2d4b8bac6fa8f4e43702a60636
-SHA256: 034777e8e61349d0037e48bb219a9532265b23fa91574eabda36c1158b90d2bf
-SHA512: 481c62ccfec119f7a67f01cb0074b856506e9e8d40b3ad40a54f7b4cef01d2a196ec80a84f1f89f04c0f73458cd9a1bf0d53c67a3ca006aa61b854dd20f4d7d7
+Size: 1167430
+MD5sum: 1659a8750d2f45573384d29bacfd20b5
+SHA1: b03134c4ead9b5b393678f4d41f1a9359de6f512
+SHA256: 8fd74318db5f776f890efc0af2264388eb4c0295ef36e138c1df03216167fa19
+SHA512: ef48f6fc60b44852ef1897190cc01b0a0eded122701c9d9659294b8ca0090cf38b039b26e3d9a04338bdc0fe67a2ed5f7aa31203d61fe843af9e83ae24de460c
 Description: Widget cho Xen HTML
 Name: Aerelys Việt Nam
 Author: TTP + CodeOne88
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
+
+Package: com.ndk.air
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.air_1.5_iphoneos-arm.deb
+Size: 3773932
+MD5sum: 2f08b6d4b62240a4895e99a66970f633
+SHA1: 3ce4aabe543a0ea96bae22fb3f446641d7177f7f
+SHA256: 1a425247789377680e0a64a3a80191f6c9d87ceeb83f8d89c2278ace129e03dd
+SHA512: 7565dd1bbcfc9af34ada88906f93b16c4f5d4833204dfc3d3dcf9038268d7c78d38eb96640fff83588aa163549bca0ba3d4c14aa7c7a49f025bef706a9de88ec
+Homepage: https://ndk-jailbreak.github.io/info/Air/?p=info
+Description: Theme AIR
+Name: AIR
+Author: Blue
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+Depiction: https://ndk-jailbreak.github.io/info/Air/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Air.json
 
 Package: com.ndk.airportvn
 Architecture: iphoneos-arm
@@ -240,24 +259,6 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depiction: https://ndk-jailbreak.github.io/info/Airport/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Airport.json
 
-Package: com.ndk.amime
-Architecture: iphoneos-arm
-Version: 1.0.92
-Section: Wigdets
-Filename: ./debs/com.ndk.amime_1.0.92_iphoneos-arm.deb
-Size: 48857330
-MD5sum: 68508ba3a6724809265437f031c96d2e
-SHA1: 98a27588ddad0d3ae8f9dc062c1f9055a7c244ad
-SHA256: 49efcb61351d6c0cc9c58468258388785d3129b3eee8628f240c6a3e8f3fc88a
-SHA512: cf2b5c30ba34db5b1ea612303c5f2f8faae5194519beb579d8432f6da61c4e49810d493c061cfae0499ba92eaf002ad624c304a0c74f4fb7d495d98c6a0a0163
-Homepage: https://ndk-jailbreak.github.io/info/Anime/?p=info
-Description: Widget cho Xen HTML
-Name: Anime
-Author: Trương Tam Phong
-Depiction: https://ndk-jailbreak.github.io/info/Anime/?p=info
-SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Anime.json
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
-
 Package: com.ndk.amonglock
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -278,6 +279,24 @@ Author: Litten <hiya@litten.love>
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depiction: https://ndk-jailbreak.github.io/info/amonglock/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/amonglock.json
+
+Package: com.ndk.anime
+Architecture: iphoneos-arm
+Version: 1.0.92
+Section: Widgets
+Filename: ./debs/com.ndk.anime_1.0.92_iphoneos-arm.deb
+Size: 48857326
+MD5sum: 284d740a61836f08a18a4cca5870e595
+SHA1: 07c09ba222532a7cf15cfd228bb6c52aedee96f1
+SHA256: 0dbb0c73506549ac7df7dde61d71c7d53e29adcbf43a8cb86a1a8b2231c354ae
+SHA512: 881719d6c6ac872a2979602bcd6165c8e6f9f170dd5a32604ee21f490a2f29b3fe112cb73e92ef0345067084380fc55612d175bb081f01035d3c517ab0f352db
+Homepage: https://ndk-jailbreak.github.io/info/Anime/?p=info
+Description: Widget cho Xen HTML
+Name: Anime
+Author: Trương Tam Phong
+Depiction: https://ndk-jailbreak.github.io/info/Anime/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Anime.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 
 Package: com.ndk.appcdupd
 Architecture: iphoneos-arm
@@ -421,18 +440,18 @@ Version: 1.0
 Section: Widgets
 Maintainer: KhanhNDK
 Filename: ./debs/com.ndk.beenet_1.0_iphoneos-arm.deb
-Size: 5879682
-MD5sum: 63bf3f4a868bb8b2d0d8c7d4512f230d
-SHA1: fb8dfa51c3c8a534aa92f78a0d98f37b47bf64a5
-SHA256: cea2a9a8384d80903dcb60c637054025fbfc31c3f2d3656f7e8d4e2c7b230eb6
-SHA512: 1ba551e110065665aa686a24ce09ef5aed783ac7fc986c30c554a48a0744d38da92202cfd298839a4eccff2d32c03dfa847477fb3f42559f24836c5c6104103a
+Size: 5879676
+MD5sum: 6970b5d27852db008fe170b2f4dad6f6
+SHA1: 99d6db1103ff5bfb339119d25f6347874a662c8f
+SHA256: 3752ba2a5ef21af00670b1910965809e257a46842953faccc162b9023e4f2b5e
+SHA512: 6f2f6bf0d9f35a4c35ab6c9c0a4f1256c67788f3596eed0c0ae86db47501fbe03f7d7c2d4730b27e3b41e1611c30625a7060112f499ccffa7117076ab761192c
 Homepage: https://ndk-jailbreak.github.io/info/Beenet/?p=info
 Description: LS cho XenHTML
 Name: BeeNet VN
 Author: @ongcenh
 Depiction: https://ndk-jailbreak.github.io/info/Beenet/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Beenet.json
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 
 Package: com.ndk.begreen12
 Architecture: iphoneos-arm
@@ -751,36 +770,36 @@ Version: 1.0
 Section: Widgets
 Maintainer: NDK
 Filename: ./debs/com.ndk.clockvietnam_1.0_iphoneos-arm.deb
-Size: 17032640
-MD5sum: 174221fe6fe328000ff396e82bcdf684
-SHA1: 13af96e4f83c727cbfa44749c28dee888db004ca
-SHA256: 6aece8d8aa6c6ed9054d90eafdc693c92f7f12e12e775e10a041e084bf1003af
-SHA512: d02fd27ab7ff1902876eb0c9389919ebfa0bd75c73a9f8a9af98cf759fb228bd7d9da478c19b8a8d42e945cf623b4215de8e850e916d8812ea368cd1aface804
+Size: 17032634
+MD5sum: 3db18b8df7723a7e3d593d092fd9964c
+SHA1: 6df80b9489e3e8e7613145b9c9f7b85a789eb804
+SHA256: 96028b388e25b65cf611f6977265f286bd323f5d3189943d911e67c99e3baae2
+SHA512: f003bec4c8a4110ddd4baaeea1a916999dea8762c9f46168185f7489cb00717390de686c13d0710ed312ebfb9142047a3093bc47949979998e6780c5a431abeb
 Homepage: https://ndk-jailbreak.github.io/info/ClockVN/?p=info
 Description: Wigdet cho XenHTML
 Name: Clock Việt Nam !
 Author: @ongcenh <anhminh311105@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 Depiction: https://ndk-jailbreak.github.io/info/ClockVN/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ClockVN.json
 
 Package: com.ndk.cover
 Architecture: iphoneos-arm
 Version: 1.6.7
-Section: Wigdets
+Section: Widgets
 Filename: ./debs/com.ndk.cover_1.6.7_iphoneos-arm.deb
-Size: 45692636
-MD5sum: cfaa71e07abc8b9c1684a35740750bff
-SHA1: 3cbf3f626f2991e5f1b3e25094556eae947803c5
-SHA256: d820ccfbb2f9f7d3b67e78faf18fd7db6214f298c83cdbe113d2f511402515c0
-SHA512: fc1af1b473dc5a26866e269e22eae1e999be7e3c71498ac5c1b157c42224fb7dcdb47933ceaa1c6246f70e5b6b57a249bcd38601762ac79150ae8cee1855bcbc
+Size: 45692640
+MD5sum: e1e072ee23e922428b9be529e62f7bb7
+SHA1: 606c5001df87c5a8578a493d7f9a8489085a2f9f
+SHA256: 729c4f9372a117009f7cfd6de033e0e72d904110ec793c9c5012e2e539f6eb87
+SHA512: 3233cea709fa7c26d7fe5c3fe2354e0251f647dce5d8a8df0965cf1097939d2aa9cbde751c3e2a5332d00b884b421a4f2547758a6c001b2652915a7a55faee3f
 Homepage: https://ndk-jailbreak.github.io/info/Cover/?p=info
 Description: Widget cho Xen HTML
 Name: Cover
 Author: Trương Tam Phong
 Depiction: https://ndk-jailbreak.github.io/info/Cover/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Cover.json
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 
 Package: com.ndk.cydownvn
 Architecture: iphoneos-arm
@@ -990,20 +1009,20 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Package: com.ndk.fridayttp
 Architecture: iphoneos-arm
 Version: 1.3.3
-Section: Wigdets
+Section: Widgets
 Filename: ./debs/com.ndk.fridayttp_1.3.3_iphoneos-arm.deb
-Size: 36251958
-MD5sum: 132d0d719a486e5618bb31e4e4f4d54d
-SHA1: e7576b22e48ccb4382c871572c52dc80b772c70d
-SHA256: b4135b0b27ecb2aabef030f777d2da0800c7ad8597d7847f6673eddbf7fb7a03
-SHA512: 4b60069977b5875bd0e65ad1a24984681a3ddbfb94b5a7c9dec2dde1aa93385bd831ad0614acb02d15efbbfa90ba9010e809060a8e9c33cf74136d4e7e156c99
+Size: 36251954
+MD5sum: b9358c2c14fa13a5aca6a8ebe33a8632
+SHA1: 6dfa2631cda9decf2d433b6d6598946f830c86ef
+SHA256: 6092c9ef2d15b0a3ce731a21df5d6b3c2cfcd65d53ffa89318c8101d426860cc
+SHA512: 12cfbb24d710cb6dd3696fe5c1346bb571ae941ef8963c440f83ecc1669baf98db296eaaf8abd5a223b5dcbf51c717ee6a0fff5736733f86291d66d31d081fd7
 Homepage: https://ndk-jailbreak.github.io/info/FridayTTP/?p=info
 Description: Widget cho Xen HTML
 Name: Friday TTP
 Author: Trương Tam Phong
 Depiction: https://ndk-jailbreak.github.io/info/FridayTTP/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/FridayTTP.json
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 
 Package: com.ndk.gineso
 Architecture: iphoneos-arm
@@ -1166,11 +1185,11 @@ Essential: yes
 Section: System
 Maintainer: KhanhNDK
 Filename: ./debs/com.ndk.iconrepo_1.1_iphoneos-arm.deb
-Size: 311646
-MD5sum: d86b36ec4021c9f8e23c969799ca6661
-SHA1: 3dcdfa8e64fbfc2c07e97d1625c806a8e767088e
-SHA256: b88ae8f4fca211b4292bc50f00f6708018fbc2f71a63729c8d4bfb9e519ac102
-SHA512: 88c1364d673133d92ff572b2134db10a9368a928d69578cea26bbf3713645076bec8fe705ea1fbf1b11fca99e2ca489b8c0717a00736ebf624055154bafb90cd
+Size: 362972
+MD5sum: f081ed94663e5f4bc5a052632061d540
+SHA1: d2406db5321abe9067957a507a7256d572cfc352
+SHA256: 613df70b722bc689431f9ccd5530d0b631266f3a21cc7bf3d27875484c396971
+SHA512: 5cfe678cfa679dc68cb9ed6a0c71d2ef16084da77925b086406328f9bf005f6ded78d96dbcfbed837f435a1d614e52baa49170fbc9fc2fc82ccb12ea77de4877
 Description: Biểu tượng Cydia cho kho lưu trữ NDK
 Name: Icon Repo
 Author: @ongcenh
@@ -1256,18 +1275,18 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 Package: com.ndk.ios14wg
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Wigdets
+Section: Widgets
 Maintainer: NDK
 Filename: ./debs/com.ndk.ios14wg_1.0_iphoneos-arm.deb
-Size: 9429486
-MD5sum: 33340fafc6ea01d0d79d3123c434b7ae
-SHA1: 69ab2969161be986489fcd3356fadcf443802015
-SHA256: 18db95be3d47aa7f4dbe593e3438a647a5a56bcdfc7a15e21adad974b1163b92
-SHA512: d61dc97d2e69b32d1444155ed53aef13c1ca839f542b9eee3c258b7338c95719bbfbef3683073bb35d14c054bc3f6704042bc527a8b6caaaad0a0c6bc9cab625
-Description: Wigdets iOS 14
-Name: iOS 14 Wigdets
+Size: 9429484
+MD5sum: b0b22d8494ae6b6f250eab90242ae235
+SHA1: 3b65768cd57094783887f6cfce30013f2025a410
+SHA256: cc642feabcd6050f2b0d94f7d4c9614e1a1c1b8709092f87e371dc1514d6bbed
+SHA512: a67c080e801814bf97a61b26657c926d26ac8c6b86e05bc7f80c3862e9e108e7f50485d142ebe1744c957ec1b6d67e693aca2f5336c78a2cf6ed38e50bc31026
+Description: Widgets iOS 14
+Name: iOS 14 Widgets
 Author: NDK
-Icon: file:///Applications/Cydia.app/Sections/NDK-Wigdet.png
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 
 Package: com.ndk.ipadstatusbarvn
 Architecture: iphoneos-arm

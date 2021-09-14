@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Wigdet cho XenHTML </p>\n<p style=\"font-size:10pt;\"> Yêy cầu có XenHTML để kích hoạt.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Widget cho XenHTML </p>\n<p style=\"font-size:10pt;\"> Yêu cầu có XenHTML để kích hoạt.</p>",
           "useRawFormat": true
         },
         {
