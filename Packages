@@ -1388,6 +1388,22 @@ Name: KeyboardX
 Author: clarityzzz
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.libzstd1
+Architecture: iphoneos-arm
+Version: 1.5.0
+Section: Systems
+Maintainer: KhanhNDK
+Installed-Size: 1192
+Depends: lz4, lzma
+Filename: ./debs/com.ndk.libzstd1_1.5.0_iphoneos-arm.deb
+Size: 443734
+MD5sum: ad78ef647d559f0f1feb69ee1bb8db96
+SHA1: 06532c7244c03ea805ef80cda5c8a3042abb27f7
+SHA256: 975074165a54a035de6a5ef4a66464a0bb8c4990a3170f1dc7e9c6eddc9d7951
+SHA512: d3927d246cb6c29025362138d5df505ec11bab3e8efc8f2271195e3f5b7a74901906031e031990ed1fa3b969375e32e5fc041d773664b9c87a182a534bf9aee5
+Description: Gói phụ trợ Sileo
+Icon: file:///Applications/Cydia.app/Sections/NDK-Systems.png
+
 Package: com.ndk.little11
 Architecture: iphoneos-arm
 Version: 3.4.5
@@ -1805,6 +1821,23 @@ Author: NDK
 Depiction: https://ndk-jailbreak.github.io/info/SFCompactRounded/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/SFCompactRounded.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Font.png
+
+Package: com.ndk.sileo
+Architecture: iphoneos-arm
+Version: 2.2.4-1
+Section: Packaging
+Maintainer: KhanhNDK
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), com.ndk.libzstd1
+Filename: ./debs/com.ndk.sileo_2.2.4-1_iphoneos-arm.deb
+Size: 2602624
+MD5sum: 17b528382e5e715c9581d6e82d0b97de
+SHA1: 8621818230b669aee6bc0a50061f8010419571bc
+SHA256: 0bc070c6b400a34c2287a174b02080fe8ffdc6ff2c16f1da135d05ee2476b2e6
+SHA512: 9aa661f106bffc4cf4bc1fd0cf4e9c21b3d6cce7c4cdafa4fc7311f9ce301b83655b42f7e821b939ffd5b0363dfd86402c741982a11cf33ae3400724c6fbbb98
+Description: Kho lưu trữ Sileo
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Packaging.png
 
 Package: com.ndk.snowboard.dock
 Architecture: iphoneos-arm
