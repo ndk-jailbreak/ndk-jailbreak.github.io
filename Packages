@@ -1839,6 +1839,23 @@ Name: Sileo
 Author: Sileo Team <getsileoapp@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/NDK-Packaging.png
 
+Package: com.ndk.sileo
+Architecture: iphoneos-arm
+Version: 2.2.5
+Section: Packaging
+Maintainer: KhanhNDK
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), com.ndk.libzstd1
+Filename: ./debs/com.ndk.sileo_2.2.5_iphoneos-arm.deb
+Size: 2611228
+MD5sum: 71a09887815971a36cc8ea7f68429b13
+SHA1: f03a4240d58ee09f34f012d844575ff6fe1a8bf5
+SHA256: 8bd634006d1f3a1c48bfc2b299fdacb267d9745b876fc193538aa2cdef45c776
+SHA512: e181357c4484d079aea6cc486fa535692fb55bffdbd8e016cadf40de35fee9408efddb7046b3a6266a7cd226ea0432cbe4ca8cf70292771f16c0c3573bdd5e9c
+Description: Kho lưu trữ Sileo
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Packaging.png
+
 Package: com.ndk.snowboard.dock
 Architecture: iphoneos-arm
 Version: 1.1.0~Beta4
