@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Mang cử chỉ iPhone X lên các dòng iPhone cũ. </p>\n<p style=\"font-size:10pt;\"> Đã được Việt Hoá cho anh em dễ sử dụng.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Widget cho XenHTML </p>\n<p style=\"font-size:10pt;\"> Yêy cầu có XenHTML để kích hoạt.</p>",
           "useRawFormat": true
         },
         {
@@ -36,7 +36,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://ndk-jailbreak.github.io/info/LittleXS/Screenshots/1.jpg"
+              "url": "https://ndk-jailbreak.github.io/info/Beenet/Screenshots/1.jpg"
             }
           ]
         },
@@ -63,17 +63,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "binksalex & Ryan Nair",
+          "text": "alimaulama, @ongcenh",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.4.4",
+          "text": "1.1",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "12.0 - 12.5.4",
+          "text": "10.0 - 14.7",
           "title": "Hỗ trợ"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "35 KB",
+          "text": "1,9 MB",
           "title": "Dung lượng"
         },
         {
@@ -118,7 +118,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "2.4.4",
+          "title": "1.0",
           "useBoldText": true,
           "useBottomMargin": false
         },

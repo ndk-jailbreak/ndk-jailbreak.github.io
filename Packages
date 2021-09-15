@@ -334,6 +334,25 @@ Name: AppStore+++
 Author: CokePokes
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.askewvn
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Widgets
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.askewvn_1.1_iphoneos-arm.deb
+Size: 1888090
+MD5sum: eb3a35fba709202554f7f7ae7c64ae0e
+SHA1: bbc689ce36a6dd702fb85279c78ab5873d2a140e
+SHA256: 33200eaca7a9a657ddc6c79179d28a2cbd6e9c1cd76289d7d81416f9b539f6de
+SHA512: 0da8d5bb062f58bb8c4dd03e5b7fbd240ddad0d5762fddc2cf1dc65f6e690292ebcfc333ea090f45a0752fc747638ca77d35a1ffadcaf2b03be98449f7ce6336
+Homepage: https://ndk-jailbreak.github.io/info/Askew/?p=info
+Description: Widget cho XenHTML
+Name: Askew VN
+Author: alimaulana, @ongcenh
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
+Depiction: https://ndk-jailbreak.github.io/info/Askew/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Askew.json
+
 Package: com.ndk.autofishing
 Architecture: iphoneos-arm
 Version: 1.0
