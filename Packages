@@ -188,6 +188,25 @@ Author: lunotech11
 Support: https://www.facebook.com/ndkjailbreak
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.MadoVN
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Widgets
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.MadoVN_2.0_iphoneos-arm.deb
+Size: 1835558
+MD5sum: 1743018f72aa8ae35a4c8c4bea114d05
+SHA1: 2a19bf560db6e3f85ae37b4570ccbd0ae484cb52
+SHA256: b421ead5d9d364968e24c1f736c808f88bf9bf949b25b3393c9fc2ee7088c6af
+SHA512: 0a8669655fc541dfe09ea191527b73045226fe93749767bfda4b8a6d00288cece7389f0b9b3380278fda4c858ea63d40161dda54fca55137cd080472d6eb9873
+Homepage: https://ndk-jailbreak.github.io/info/Mado/?p=info
+Description: LS Cho XenHTML
+Name: Mado VN
+Author: Andrew69 <burduja.andrei@yahoo.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
+Depiction: https://ndk-jailbreak.github.io/info/Mado/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Mado.json
+
 Package: com.ndk.TTP1508
 Architecture: iphoneos-arm
 Version: 1.0.2.3
@@ -1396,12 +1415,13 @@ Maintainer: KhanhNDK
 Installed-Size: 1192
 Depends: lz4, lzma
 Filename: ./debs/com.ndk.libzstd1_1.5.0_iphoneos-arm.deb
-Size: 443734
-MD5sum: ad78ef647d559f0f1feb69ee1bb8db96
-SHA1: 06532c7244c03ea805ef80cda5c8a3042abb27f7
-SHA256: 975074165a54a035de6a5ef4a66464a0bb8c4990a3170f1dc7e9c6eddc9d7951
-SHA512: d3927d246cb6c29025362138d5df505ec11bab3e8efc8f2271195e3f5b7a74901906031e031990ed1fa3b969375e32e5fc041d773664b9c87a182a534bf9aee5
+Size: 443742
+MD5sum: acda680793339f53c2c2d206cf8dd8c6
+SHA1: a71dc4c66bcb6c170a32294f43b2be94bbbfbea5
+SHA256: c3b615a1019ab87cd5920b606aa6d0b72e2043a538b17b60941457ec341ac7d6
+SHA512: 75aa2514bc30eb8275067c6ab49deedf11ba4fd55e0a8d6309483e89c02e5ff4dec808233fc9bda460aa46e28b2213e9e23a5971057e0a702f335703fc70ec1d
 Description: Gói phụ trợ Sileo
+Name: Libzstd1
 Icon: file:///Applications/Cydia.app/Sections/NDK-Systems.png
 
 Package: com.ndk.little11
