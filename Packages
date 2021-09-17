@@ -194,15 +194,15 @@ Version: 2.0
 Section: Widgets
 Maintainer: KhanhNDK
 Filename: ./debs/com.ndk.MadoVN_2.0_iphoneos-arm.deb
-Size: 1835558
-MD5sum: 1743018f72aa8ae35a4c8c4bea114d05
-SHA1: 2a19bf560db6e3f85ae37b4570ccbd0ae484cb52
-SHA256: b421ead5d9d364968e24c1f736c808f88bf9bf949b25b3393c9fc2ee7088c6af
-SHA512: 0a8669655fc541dfe09ea191527b73045226fe93749767bfda4b8a6d00288cece7389f0b9b3380278fda4c858ea63d40161dda54fca55137cd080472d6eb9873
+Size: 1835540
+MD5sum: b8a0b53bd8f158f548c84483750575f1
+SHA1: 797adcd7605e4ab69c78a70dcc4851a269c75dc0
+SHA256: 01ffd85a50f05e22d9fd6fc1f7ac37d040dee34c708f4b636c395af1b05bcb40
+SHA512: b826048eb9d1c8c3d51b1372742511814ba76b3a7e1fd829524cfd6e9bae3f9e28a57faa5bb7d663f77c54a2e22f6df81e4dede11bbe66f0fb1fe82b91212760
 Homepage: https://ndk-jailbreak.github.io/info/Mado/?p=info
 Description: LS Cho XenHTML
 Name: Mado VN
-Author: Andrew69 <burduja.andrei@yahoo.com>
+Author: Andrew69, KhanhNDK
 Icon: file:///Applications/Cydia.app/Sections/NDK-Widgets.png
 Depiction: https://ndk-jailbreak.github.io/info/Mado/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Mado.json
@@ -723,6 +723,28 @@ Description: Fully-featured youtube downloader!
 Name: Cercube for iOS 7/8/9
 Author: Majd Alfhaily
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.cercubeyt
+Architecture: iphoneos-arm
+Version: 5.3.3
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 16732
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: net.kenhtao.adblockplus, me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/com.ndk.cercubeyt_5.3.3_iphoneos-arm.deb
+Size: 5940574
+MD5sum: 064c4ce224a963768339f5727565e5e1
+SHA1: a1a4ada8355d31ebaa43c5028c075eee3436c063
+SHA256: 753f6f37caaa6b3cb65317ca72d465adfadb5f2c2d83e9c5044064a459cb93ca
+SHA512: 9dcda991a76ad8b7b18dd7cc4b00b41a06b8358fcb4b920ab3d62eefb086de7b7fb561e131ff52525d77aef3730f82bd1f90cd8e84732c0ed2241c7d1de72106
+Homepage: https://ndk-jailbreak.github.io/info/Cercube/?p=info
+Description: Bổ sung cho Youtube
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Name: Cercube For YouTube VN
+Author: Majd Alfhaily
+Sileodepiction: https://ndk-jailbreak.github.io/Sileoinfo/Cercube.json
+Depiction: https://ndk-jailbreak.github.io/info/Cercube/?p=info
 
 Package: com.ndk.chatbubbleslite
 Architecture: iphoneos-arm
