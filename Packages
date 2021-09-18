@@ -1883,16 +1883,16 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Packaging.png
 
 Package: com.ndk.sileomod
 Architecture: iphoneos-arm
-Version: 2.2.5-mod1
+Version: 2.2.5-mod2
 Section: Packaging
 Maintainer: KhanhNDK
 Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), com.ndk.libzstd1
-Filename: ./debs/com.ndk.sileomod_2.2.5-mod1_iphoneos-arm.deb
-Size: 2628028
-MD5sum: 72eaa389ff0df8431660efb138c66c9e
-SHA1: b3fb4cd01065cc073e10f775d7d62a95393329e1
-SHA256: b13a4e910dc30668675096dcad81aa75850e08a4a219dfd4459a5662a7312d42
-SHA512: 19b08f2597e5c36a8892c442e217d2d1a661ab550e627e53d66b0d631688aedf6cd417ab572363048c9321041e01da7dc56d447d301bb0496e76793c0cce1855
+Filename: ./debs/com.ndk.sileomod_2.2.5-mod2_iphoneos-arm.deb
+Size: 2628056
+MD5sum: c984bae2dd6965789e82199192970ff9
+SHA1: 1d3bdfa274ed394cb275641beec9044d88825855
+SHA256: 6e30245ddb20555b52ef2e061bde2e50c33f1cb9448c8834e8079603879ea186
+SHA512: beba0851c2f9b0edf498cf9f7afa10a4ede60c5e7712d29ed49565e422f9a9ab034bd0238f5fea5ccc93dd36a2da8d964b24d234b82c415796ec913fe4c5fb32
 Description: Kho lưu trữ Sileo
 Name: Sileo Mod
 Author: Sileo Team <getsileoapp@gmail.com>
