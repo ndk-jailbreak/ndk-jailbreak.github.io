@@ -1828,6 +1828,23 @@ SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/RGBoard.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Author: MiRO <tweaks_support@miro92.com>
 
+Package: com.ndk.saily
+Architecture: iphoneos-arm
+Version: 0.6
+Section: Packaging
+Maintainer: KhanhNDK
+Depends: firmware (>= 10.0), firmware (>= 10.0) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), com.ndk.libzstd1
+Filename: ./debs/com.ndk.saily_0.6_iphoneos-arm.deb
+Size: 38414402
+MD5sum: 913c6463ac75854ec0fd1e795f69bf6b
+SHA1: 0b3ad4f7464dfeecc452e5e8e680c86ccfc771f9
+SHA256: 2a4479dc3f9c8ecd842f641c666ff7cdbe7067968a0c5c87114326b45fc32068
+SHA512: 41d048a1ea4adcf967cc3e542cf5bd39a2526fa33e27f9f948f0d428234ef861f2ebc0410428d277af939f7aaee246dcc7dc2abdc87369a5c5f23f8ddf33f6f1
+Description: Kho lưu trữ Saily
+Name: Saily
+Author: Saily Team
+Icon: file:///Applications/Cydia.app/Sections/NDK-Packaging.png
+
 Package: com.ndk.savegtasa
 Architecture: iphoneos-arm
 Version: 1.0
