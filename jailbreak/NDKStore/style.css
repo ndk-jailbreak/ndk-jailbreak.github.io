@@ -2,7 +2,7 @@ body {
     margin:0px;
     padding:0;
     color: #FFFFFF;
-    font-family:tqm;
+    font-family:ndk;
     overflow-x: hidden;
     background-color: #FFFFFF;
    -webkit-touch-callout: none;
@@ -14,8 +14,8 @@ body {
 }
 
 @font-face {
-	font-family: tqm;
-	src: url(js/tqm.otf);
+	font-family: ndk;
+	src: url(js/ndk.ttf);
 }
 img {
 pointer-events: none;
@@ -62,7 +62,7 @@ color: #1A1A1A;
     float:right;
     color:#F2F7FF;
     margin-right:0px;
-    font-family: Framework7 Icons;
+    font-family: ndk;
     font-size: 40px;
     -webkit-appearance: none;
 }
