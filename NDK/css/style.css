@@ -2,7 +2,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
 s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
 figure, header, nav, section, article, aside, footer, figcaption {
-  margin: 0;
+  margin: 0; percent 
   padding: 0;
   border: 0;
   outline: 0;
@@ -417,7 +417,49 @@ a.text-button-icon {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
-
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+.switch input {
+  display: none;
+}
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #ccc;
+  border-radius: 34px;
+  transition: .4s;
+}
+.slider:before {
+  content: "";
+  position: absolute;
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background: #fff;
+  border-radius: 50%;
+  transition: .4s;
+}
+input:checked + .slider {
+  background: #b892ff;
+}
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+.dark-mode {
+  background: #0b0a14;
+}
+.dark-mode h1 {
+  color: #f7f0e9;
+}
 a.text-button-icon i {
   margin-left: 5px;
   -webkit-transition: all 0.3s ease-in-out 0s;
@@ -1571,9 +1613,10 @@ portfolio
   background-color: #3C5EF9;
   max-width: 250px;
 }
-.btn: hover{
-  padding-left: 35px;
-  padding-right: 35px;
+.btn:hover{
+  padding-left: 11px;
+  padding-right: 11px;
+  opacity: 0.8;
 }
 .btn2{
   float: left;
@@ -1599,32 +1642,3 @@ a.dis: hover{
   color: #fff;
   background-color: #5fb759;
 }
-
-.credit {
-  width:400px;
-  height:50px;
-  padding: auto;
-  text-align: center;
-  align-content: center;
-}
-
-.stbox {
-  float:left;
-  width:100px;
-  height:100px;
-}
-
-.ndbox {
-  display: inline-block;
-  width:100px;
-  height:100px;
-  margin-left:5px;
-}
-
-.rdbox {
-  float:right;
-  width:100px;
-  height:100px;
-  margin-left: 5px;
-}
-
