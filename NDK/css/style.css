@@ -2,7 +2,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
 s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
 figure, header, nav, section, article, aside, footer, figcaption {
-  margin: 0; percent 
+  margin: 0;
   padding: 0;
   border: 0;
   outline: 0;
@@ -44,7 +44,7 @@ header, nav, section, article, aside, footer, hgroup {
 }
 
 html, body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-weight: 400;
   background-color: #fff;
   font-size: 16px;
@@ -256,8 +256,9 @@ global styles
 */
 html,
 body {
-  background: #fff;
-  font-family: 'Raleway', sans-serif;
+  background: #121212;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 ::selection {
@@ -417,49 +418,7 @@ a.text-button-icon {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
-.switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
-}
-.switch input {
-  display: none;
-}
-.slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: #ccc;
-  border-radius: 34px;
-  transition: .4s;
-}
-.slider:before {
-  content: "";
-  position: absolute;
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background: #fff;
-  border-radius: 50%;
-  transition: .4s;
-}
-input:checked + .slider {
-  background: #b892ff;
-}
-input:checked + .slider:before {
-  transform: translateX(26px);
-}
-.dark-mode {
-  background: #0b0a14;
-}
-.dark-mode h1 {
-  color: #f7f0e9;
-}
+
 a.text-button-icon i {
   margin-left: 5px;
   -webkit-transition: all 0.3s ease-in-out 0s;
@@ -502,7 +461,7 @@ header
 */
 
 .background-header {
-  background-color: #fff;
+  background-color: #121212;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -513,15 +472,15 @@ header
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: white!important;
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #5fb759!important;
+  color: white!important;
 }
 
 .background-header .nav li a.active {
-  color: #5fb759!important;
+  color: white!important;
 }
 
 .header-area {
@@ -975,10 +934,11 @@ about
   padding: 20px 0px 0px 0px;
   position: relative;
   z-index: 9;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 #about .container {
-  border-bottom: 5px solid #f7f7f7;
+  border-bottom: 5px solid #121212;
   padding-bottom: 80px;
 }
 
@@ -988,6 +948,7 @@ about
 
 #about .section-heading h6 {
   color: #5fb759;
+
 }
 
 #about .service-item {
@@ -1349,6 +1310,7 @@ footer {
   padding: 80px 0px;
   background: rgb(51,155,158);
   background: linear-gradient(145deg, rgba(51,155,158,1) 0%, rgba(104,204,152,1) 100%);
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 footer .left-text-content p {
