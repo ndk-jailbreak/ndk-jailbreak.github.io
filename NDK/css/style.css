@@ -46,7 +46,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
-  background-color: ;
+  background-color: #fff;
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
