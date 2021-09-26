@@ -44,7 +44,7 @@ header, nav, section, article, aside, footer, hgroup {
 }
 
 html, body {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   background-color: #fff;
   font-size: 16px;
@@ -256,9 +256,8 @@ global styles
 */
 html,
 body {
-  background: #121212;
-  color: white;
-  font-family: 'Roboto Condensed', sans-serif;
+  background: #fff;
+  font-family: 'Raleway', sans-serif;
 }
 
 ::selection {
@@ -461,7 +460,7 @@ header
 */
 
 .background-header {
-  background-color: #121212;
+  background-color: #fff;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -472,15 +471,15 @@ header
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: white!important;
+  color: #1e1e1e!important;
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: white!important;
+  color: #5fb759!important;
 }
 
 .background-header .nav li a.active {
-  color: white!important;
+  color: #5fb759!important;
 }
 
 .header-area {
@@ -934,11 +933,10 @@ about
   padding: 20px 0px 0px 0px;
   position: relative;
   z-index: 9;
-  font-family: 'Roboto Condensed', sans-serif;
 }
 
 #about .container {
-  border-bottom: 5px solid #121212;
+  border-bottom: 5px solid #f7f7f7;
   padding-bottom: 80px;
 }
 
@@ -948,7 +946,6 @@ about
 
 #about .section-heading h6 {
   color: #5fb759;
-
 }
 
 #about .service-item {
@@ -1310,7 +1307,6 @@ footer {
   padding: 80px 0px;
   background: rgb(51,155,158);
   background: linear-gradient(145deg, rgba(51,155,158,1) 0%, rgba(104,204,152,1) 100%);
-  font-family: 'Roboto Condensed', sans-serif;
 }
 
 footer .left-text-content p {
@@ -1575,10 +1571,9 @@ portfolio
   background-color: #3C5EF9;
   max-width: 250px;
 }
-.btn:hover{
-  padding-left: 11px;
-  padding-right: 11px;
-  opacity: 0.8;
+.btn: hover{
+  padding-left: 35px;
+  padding-right: 35px;
 }
 .btn2{
   float: left;
@@ -1604,3 +1599,32 @@ a.dis: hover{
   color: #fff;
   background-color: #5fb759;
 }
+
+.credit {
+  width:400px;
+  height:50px;
+  padding: auto;
+  text-align: center;
+  align-content: center;
+}
+
+.stbox {
+  float:left;
+  width:100px;
+  height:100px;
+}
+
+.ndbox {
+  display: inline-block;
+  width:100px;
+  height:100px;
+  margin-left:5px;
+}
+
+.rdbox {
+  float:right;
+  width:100px;
+  height:100px;
+  margin-left: 5px;
+}
+
