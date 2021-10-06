@@ -16,7 +16,7 @@
 .pacman1 {
   position: absolute;
   border-radius: 50px;
-  border: 50px solid darkcyan;
+  border: 50px solid purple;
   border-right: 50px solid transparent;
   animation: eat1 0.8s ease infinite;
 }
@@ -24,7 +24,7 @@
 .pacman2 {
   position: absolute;
   border-radius: 50px;
-  border: 50px solid darkcyan;
+  border: 50px solid purple;
   border-right: 50px solid transparent;
   animation: eat2 0.8s ease infinite;
 }
@@ -36,7 +36,7 @@
   width: 10px;
   height: 10px;
   border-radius: 5px;
-  background-color: darkcyan;
+  background-color: purple;
   animation: hide 10s ease-in infinite;
 }
  
