@@ -96,12 +96,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.0.1",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 14.8",
+          "text": "12.0 - 14.8",
           "title": "Hỗ trợ"
         },
         {
@@ -152,7 +152,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Phát hành lần đầu.</li>\n</ul>",
+          "markdown": "<ul>\n<li>Fix lỗi bị mất chữ cho máy màn hình nhỏ.</li><li>Thêm chức năng rung khi người nghe ở bên kia bắt máy (chỉ có tác dụng với cuộc gọi đi).</li>\n</ul>",
           "useRawFormat": true
         }
       ]
