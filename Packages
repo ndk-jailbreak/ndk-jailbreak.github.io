@@ -2455,10 +2455,32 @@ MD5sum: 4e4ced8a6fc66bf17987ef49078b78bd
 SHA1: 2f71f6fc7d43998422e082a7199650cea69660e8
 SHA256: c9589686160a60ec47d360886d919d52ab8a8e383df90e9fb2c521a3be7672cd
 SHA512: b1a2a3c744eaab54c34f938741a8ed2628e0bc05cced0f10710efc0140d8f8c3dc66afab86c2afae0839967b1fde99cc8cb4c0aea9e0c00bf692ac2f78d3270a
-Description: Rung điện thoại khi người trả lời.
+Description: Rung điện thoại khi người gọi trả lời.
 Name: CallConnected
 Author: nqt1195
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.callassistbar
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: nqt1195
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>=12.0)
+Filename: ./debs/com.ndk.callassistbar_1.0.1_iphoneos-arm.deb
+Size: 42580
+MD5sum: 6fc4f99b270cac9c5e1ce26787dc3168
+SHA1: 25064488efe4bb8f3ce3196a9c41c0b9ad8e8918
+SHA256: 2cf796cfdc14ac13da6e2e8f7d336edaaf3cc73d209312a180e30524a81a06ca
+SHA512: 4ad4e55fdb5be66c7359b648d6e4756b4ddd0ae167878a0e58da158526f08722298b1b83d5cfc925e6d9a9a1a7e824e4702a478ea9b704614f70f647f697cfc1
+Homepage: https://ndk-jailbreak.github.io/info/callassistbar/?p=info
+Description: MiniBar For InComingCall & Vibrate When Your Call Connected!
+Name: CallAssistBar
+Author: nqt1195
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/callassistbar/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/callassistbar.json
+
 
 
 
