@@ -154,6 +154,17 @@
           "class": "DepictionMarkdownView",
           "markdown": "<ul>\n<li>Fix lỗi bị mất chữ cho máy màn hình nhỏ.</li><li>Thêm chức năng rung khi người nghe ở bên kia bắt máy (chỉ có tác dụng với cuộc gọi đi).</li>\n</ul>",
           "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Phát hành lần đầu.</li>\n</ul>",
+          "useRawFormat": true
         }
       ]
     }
