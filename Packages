@@ -2417,3 +2417,28 @@ SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Nereid.json
 
 
 
+
+
+Package: con.ndk.ventanavn
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: KhanhNDK
+Provides: org.coolstar.ventana
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
+Conflicts: org.coolstar.ventana, com.hackyouriphone.ventana, jaja.kiiimo
+Replaces: org.coolstar.ventana
+Filename: ./debs/con.ndk.ventanavn_1.4_iphoneos-arm.deb
+Size: 1356614
+MD5sum: 6a974e4a7b70b46b38b88d6945715e83
+SHA1: 58cde01b51161c039e93fa5815592dd4f2ff6ffa
+SHA256: bb4452c8cfcac85597f486afe9b0939078284daeb46a133977b36270006f4908
+SHA512: 327130127a26011cde92727fee4d00f12a10ed7989e33f1234ec5adfaf927394e7ba697ca0d77ca17f1d2a3035dba81e71f9bf4d1cda291012bfef7eea9326fc
+Homepage: https://ndk-jailbreak.github.io/info/Ventana/?p=info
+Description: Màn hình khoá kiểu Windows 10
+Name: Ventana VN (Unc0ver, checkra1n)
+Author: CoolStar & Jeremy Goulet
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/Ventana/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/info/Ventana.json
+
