@@ -2442,3 +2442,23 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depiction: https://ndk-jailbreak.github.io/info/Ventana/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/info/Ventana.json
 
+Package: com.ndk.callconnected
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 104
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/com.ndk.callconnected_1.0_iphoneos-arm.deb
+Size: 5432
+MD5sum: 4e4ced8a6fc66bf17987ef49078b78bd
+SHA1: 2f71f6fc7d43998422e082a7199650cea69660e8
+SHA256: c9589686160a60ec47d360886d919d52ab8a8e383df90e9fb2c521a3be7672cd
+SHA512: b1a2a3c744eaab54c34f938741a8ed2628e0bc05cced0f10710efc0140d8f8c3dc66afab86c2afae0839967b1fde99cc8cb4c0aea9e0c00bf692ac2f78d3270a
+Description: Rung điện thoại khi người trả lời.
+Name: CallConnected
+Author: nqt1195
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+
+
