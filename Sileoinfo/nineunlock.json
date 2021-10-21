@@ -17,9 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Tinh chỉnh này chỉ đơn giản là đưa cử chỉ trượt để mở khóa trên màn hình khóa của iOS 9 trở lại iOS 13. </p>\n<p style=\"font-size:10pt;\">Làm thế nào nó hoạt động?
-
--NineUnlock sử dụng cử chỉ để truy cập Chế độ xem hôm nay trong Màn hình khóa iOS, đây là cử chỉ vuốt sang phải và thay Chế độ xem hôm nay bằng Màn hình mật mã. Do đó, tinh chỉnh này sẽ không hoạt động bình thường nếu bạn đã cài đặt một tinh chỉnh để tắt Chế độ xem hôm nay!</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Tinh chỉnh này chỉ đơn giản là đưa cử chỉ trượt để mở khóa trên màn hình khóa của iOS 9 trở lại iOS 13. </p>\n<p style=\"font-size:10pt;\">Làm thế nào nó hoạt động?</p><p style=\"font-size:10pt;\">NineUnlock sử dụng cử chỉ để truy cập Chế độ xem hôm nay trong Màn hình khóa iOS, đây là cử chỉ vuốt sang phải và thay Chế độ xem hôm nay bằng Màn hình mật mã. Do đó, tinh chỉnh này sẽ không hoạt động bình thường nếu bạn đã cài đặt một tinh chỉnh để tắt Chế độ xem hôm nay!</p>",
           "useRawFormat": true
         },
         {
