@@ -124,7 +124,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li> Cải tiến, sửa lỗi/li>\n</ul>",
+          "markdown": "<ul>\n<li> Cải tiến, sửa lỗi</li>\n</ul>",
           "useRawFormat": true
         }
       ]
