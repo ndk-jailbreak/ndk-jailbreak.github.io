@@ -18,6 +18,73 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.ninels
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 5708
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, firmware (>= 13.0)
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, me.minhton.nineunlock, me.minhton.ninemusic
+Filename: ./debs/com.ndk.ninels_1.0.1_iphoneos-arm.deb
+Size: 5229526
+MD5sum: f26552bec9befca1ada27b7894f4d01d
+SHA1: 58d74f69b52f29cbdb5cfc02339706fd18b51f2d
+SHA256: ad0f42d3dfae1bb98de87944c9d4505efa957817cd0e3556aa11d9adc21ffa7b
+SHA512: 558bdf693c46a6c69f713f8c50b4da898244ba6726eeed2d456c4bd4c59c032c0ffe9a4c6a6800f85c82fd307951bbfb43d056c9681385fc9b52da8c63676bb4
+Homepage: https://ndk-jailbreak.github.io/info/ninels/?p=info
+Description: Bring back the iOS 9 Lock Screen!
+Name: NineLS
+Author: MinhTon <ford.tonthat@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/ninels/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ninels.json
+
+Package: com.ndk.ninemusic
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, com.golddavid.colorflow5
+Filename: ./debs/com.ndk.ninemusic_1.0.0_iphoneos-arm.deb
+Size: 413702
+MD5sum: a6b83f92bd69538eac3f17476cab631b
+SHA1: c099157db49ef97bb33201d11d068cdac7080185
+SHA256: faf0646c9595b854913916be9bafc836832268ffa1e053c7cb0b36d581b393f4
+SHA512: c2941b843dbf15d498c8678444a9c82cd5d108374bd3a6b47b64101cf9cf6ffa6ed0f58d9cf035a433a2d4acc228562d340c9b3989b17116e9fb2b4aec13f696
+Homepage: https://ndk-jailbreak.github.io/info/ninemusic/?p=info
+Description: iOS 9 Lockscreen Music Player!
+Name: NineMusic
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://ndk-jailbreak.github.io/info/ninemusic/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ninemusic.json
+
+Package: com.ndk.nineunlock
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker
+Filename: ./debs/com.ndk.nineunlock_1.0.3_iphoneos-arm.deb
+Size: 524326
+MD5sum: c84e2c2613d95bc73eef613bb2d8ea74
+SHA1: 526f2f492ef33a85da51616be8a84dec2dec85aa
+SHA256: f8404a6e821bbc319392d458322adf460bc3997ec9d1a8252c26a3cc2a20fdc8
+SHA512: 3948dd9839e8426c21479b4a1bb380abaedea7ce75424fdb71625a5f403c886a52f6ee4e4d6aaaa5b3820f1098b91b61dc021589f7b298be0192792e95dd2561
+Homepage: https://ndk-jailbreak.github.io/info/nineunlock/?p=info
+Description: Bring back the iOS 9 style "Slide To Unlock" to iOS 13!
+Name: NineUnlock
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://ndk-jailbreak.github.io/info/nineunlock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/nineunlock.json
+
+
+
 Package: com.michael.appleilluminator
 Architecture: iphoneos-arm
 Version: 0.7.0
