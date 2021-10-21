@@ -18,6 +18,57 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.semirestore
+Architecture: iphoneos-arm
+Version: 1.1.6
+Section: Utilities
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.semirestore_1.1.6_iphoneos-arm.deb
+Size: 54912
+MD5sum: fca8d4e47082f3dcd41809be02e81d59
+SHA1: 25527af4cfaaf5b57b692dd829c36aefc052a918
+SHA256: 2719434ab8bb74fafcb4f5d388eadfa622e800bfe6a4ae93c6af3ff89a7f10f1
+SHA512: 5bcfe2d79d9e4b088257a156bfe5c17e5d74e169cdc6670ede6bde172c51badfd0126a265b2a04428696d2c6070acdc28de0616c5580e686cec99b2cd77cdf9c
+Homepage: http://ndk-jailbreak.github.io/info/SemiRestore/?p=info
+Description: Công cụ gỡ jailbreak sạch 100%
+ - Hỗ trợ tất cả các thiết bị từ iOS 11.3 tới iOS 14.7
+ - Chạy ứng dụng này sẽ xoá sạch 100% tất cả dữ liệu và khôi phục lại máy về như lúc xuất xưởng
+ - Yêu cầu sao lưu lại tài liệu trong máy trước khi chạy
+ - Ứng dụng khá đơn giản. Chỉ có một nút nhấn Unjailbreak. Nó sẽ bắt đầu chạy khi bạn xác nhận
+ - Thiết bị sẽ khởi động với một thanh tiến trình gỡ dữ liệu và khôi phục lại toàn bộ hệ thống. Bạn chỉ việc chờ cho đến khi xong
+ - Nếu bị treo Táo trên 5 phút, vui lòng nhấn tổ hợp phím cứng để cho quá trình khôi phục được tiếp tục
+ - Lưu ý! Tắt công Tắc bên dưới là bảo vệ thông tin. Bật công Tắc là để xóa tất cả các thông tin của bạn
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SemiRestore 11-14
+Author: Pwn20wnd
+Depiction: http://ndk-jailbreak.github.io/info/SemiRestore/?p=info
+SileoDepiction: http://ndk-jailbreak.github.io/Sileoinfo/SemiRestore.json
+Icon: file:///Applications/Rollectra.app/AppIcon20x20@3x.png
+
+Package: com.ndk.successionrestore
+Architecture: iphoneos-arm
+Version: 1.4.15
+Priority: optional
+Section: Utilities
+Maintainer: KhanhNDK
+Installed-Size: 2522
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.ndk.successionrestore_1.4.15_iphoneos-arm.deb
+Size: 1171124
+MD5sum: 095792a2060e8ac163342f46fdacf785
+SHA1: 4198251e3486ebc95071723cf70c52cc547966c9
+SHA256: 63e00af493de24892749dd56782e1f487317027a9782cfa04d08632c6f2a572a
+SHA512: 252edce19df74b20205c80ae1c497fc69cd35572b6ada8cdd786bd93b04ef9b348b744780882436c05312d4ec4479d81a9b208147d4b2e663f96b7227e4c1e1c
+Description: Xoá tất cả dữ liệu mà không cần cập nhật iOS
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: Succession
+Author: Samg_is_a_Ninja <samgisaninja@unc0ver.dev>
+dev: stgardner4
+Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
+
+
+
 Package: com.ndk.13hudvn
 Architecture: iphoneos-arm
 Version: 1.0.1-1
