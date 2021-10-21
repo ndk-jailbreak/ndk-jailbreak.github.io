@@ -57,6 +57,30 @@ Description: Turbo Boost Your Apple!
 Name: Apple Turbo Boost
 Author: Halo_Michael <yc992147156@me.com>
 
+Package: com.ndk.dockls
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 577
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ndk.dockls_1.0.3_iphoneos-arm.deb
+Size: 181308
+MD5sum: b96d3c0fb424bbc76fcac658119dcd17
+SHA1: 4f5f7fb0d127ee553ef63d9e5d37168605a607e9
+SHA256: 93c660624d925c51c4d0882d2cdcaee06e3a13064f51459ae37ade49ee7af306
+SHA512: f1f2454a777b9fdf35bc9dce13500fb9398ec64b96ca5d6f5a38fd3c06cbc9a051a73feab7933b8483d5fd95474f11049f530e9b79731d4a585a19edffba3088
+Homepage: https://ndk-jailbreak.github.io/Debinfo/dockls/?p=info
+Description: Gắn Dock vào màn hình khóa của bạn!
+Name: DockLS
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Website: https://ndk-jailbreal.github.io/info/dockls/?p=info
+Depiction: https://ndk-jailbreak.github.io/info/dockls/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/dockls.json
+
+
+
 Package: com.ndk.callassistbar
 Architecture: iphoneos-arm
 Version: 1.0
