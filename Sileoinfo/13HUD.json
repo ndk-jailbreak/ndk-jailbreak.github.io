@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Tự động ẩn thanh home iPhone X. </p>\n<p style=\"font-size:10pt;\"> Đã được Việt Hoá cho anh em dễ sử dụng.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Mang thanh điều chỉnh âm lượng của iOS 13, 14. </p>\n<p style=\"font-size:10pt;\"> Đã được Việt Hoá cho anh em dễ sử dụng.</p>",
           "useRawFormat": true
         },
         {
@@ -116,6 +116,17 @@
       "tabname": "Lịch sử",
       "tintColor": "#1182c4",
       "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.1-1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li> Thêm Icon cho Tweak trong Cài Đặt</li>\n</ul>",
+          "useRawFormat": true
+        },
         {
           "class": "DepictionSubheaderView",
           "title": "1.0.1",
