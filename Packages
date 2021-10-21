@@ -18,6 +18,30 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.13hudvn
+Architecture: iphoneos-arm
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Conflicts: applebetas.ios.tweak.willow, es.ubikstyl.sonus12, org.fwdr.sonus, com.midkin.byebyehud, me.nepeta.flashyhud, com.lnx.aerify, com.ruler225.videohud, me.nepeta.brokenhud, com.ikilledappl3.switchhud, com.yakir.volhud
+Filename: ./debs/com.ndk.13hudvn_1.0.1-1_iphoneos-arm.deb
+Size: 55750
+MD5sum: 878d2c7f2e68e6d3903142bf1d310ac1
+SHA1: 14735a1312241ac4521c50079dcc1ba1a89b940d
+SHA256: 6118c8b174faa0411d37eca0a80274e7753039dc2dcee1f9b64c569ec83c425b
+SHA512: abdcfba8bdf661f55d4ddc50b980b978dc4c359c5e1b8d5c05e7587d3dbbcaaad420b66095ad9eb0540f41cd7e929a9e5e027959583972c41cac666e925928bc
+Homepage: https://ndk-jailbreak.github.io/info/13HUD/?p=info
+Description: Thanh điều chỉnh âm lượng của iOS 13 cho iOS 11, 12
+Name: 13HUD VN
+Author: Muirey03
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/13HUD/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/13HUD.json
+
+
+
 Package: com.ndk.ninels
 Architecture: iphoneos-arm
 Version: 1.0.1
