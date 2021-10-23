@@ -18,6 +18,29 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.doublerecents
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 168
+Depends: firmware (>=13.0), mobilesubstrate
+Conflicts: com.miro.doublerecents
+Filename: ./debs/com.ndk.doublerecents_1.0.2_iphoneos-arm.deb
+Size: 8630
+MD5sum: eeaee7f9456ad0246dbb4bb7fd8e959a
+SHA1: fe015bcec8c415cffc072b64948e4d0b4ecfa51e
+SHA256: e1bcceb17375a16e63825ab2d45c4b9216a1b827360c671de4a2b6e893236279
+SHA512: 672f2b10b0bdfb1dd6d169b4c50525b4250f5be22a17b962e05bdec2650216023144a1069ea6bfe85bbb0b5238a53c4290dafcedebeb4836e89fac812131357c
+Homepage: https://ndk-jailbreak.github.io/info/doublerecents/?p=info
+Description: Hiển thị thêm 100 - 200 liên hệ ở nhật ký của điện thoại.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: DoubleRecents
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://ndk-jailbreak.github.io/info/doublerecents/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/doublerecents.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
 Package: com.ndk.semirestore
 Architecture: iphoneos-arm
 Version: 1.1.6
