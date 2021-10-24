@@ -18,6 +18,50 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.pockettranslator
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 616
+Depends: mobilesubstrate (>= 0.9.5000), com.muirey03.libmryipc, preferenceloader
+Filename: ./debs/com.ndk.pockettranslator_1.0_iphoneos-arm.deb
+Size: 181714
+MD5sum: 69d0312c332556663c7b9c3772180d7c
+SHA1: 31c330f8a907d502664ef3a37f670a759279bccb
+SHA256: f27d734c79a8c686addd9732c5c7f410d37fce839e9924f1daf0af9da13f707f
+SHA512: 077fdb70224a23d614c562b13c14f1dd77cca02e9a3aa69181fbf2691b5b96800fa68f7b519b0f081fde840fc5afcddbd8ee62466f1ccbacabfee33b0af9934a
+Homepage: https://ndk-jailbreak.github.io/info/pockettranslator/?p=info
+Description: Dịch văn bản nhẹ trên iOS
+Name: Pocket Translator
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/pockettranslator/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/pockettranslator.json
+
+Package: com.ndk.pockettranslator
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 1012
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.ndk.pockettranslator_1.1_iphoneos-arm.deb
+Size: 243434
+MD5sum: 02bca89ec524004b0e53aaa9f8f3805b
+SHA1: c724e2601a7bcefe140a31999c35c517d10c8d6e
+SHA256: 293ab8f426511976bfc361e91b7556f69ed405edda89a6d5f16e469c2a6c0e68
+SHA512: fe6afe70e6336950206c8f73a4820fcc06ae50954624cd79a8b1142c039d93cc836d16b786042765ff4996f3321423bf8a272ff4fdfb1e8fc90c3077295fc183
+Homepage: https://ndk-jailbreak.github.io/info/pockettranslator/?p=info
+Description: Dịch văn bản nhẹ trên iOS
+Name: Pocket Translator
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/pockettranslator/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/pockettranslator.json
+
+
+
 Package: com.ndk.doublerecents
 Architecture: iphoneos-arm
 Version: 1.0.2
