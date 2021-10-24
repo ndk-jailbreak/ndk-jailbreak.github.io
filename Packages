@@ -18,6 +18,31 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.SmartDND
+Architecture: iphoneos-arm
+Version: 1.1
+Priority: optional
+Section: Tweaks
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, com.opa334.ccsupport
+Conflicts: com.eliassfeir.SmartDND
+Filename: ./debs/com.ndk.SmartDND_1.1_iphoneos-arm.deb
+Size: 2516338
+MD5sum: 8909e80152290704998d8e88f6bc6dcb
+SHA1: 14c27598289c3525d702c44bcaa902103e2e6297
+SHA256: 7724e34850f8f9f0a622578f6ad004ff3e1cf1ce57c681d1830f4a86571c22d3
+SHA512: 45445f26c6714c38dd033f128083cddce65bae7c139cbc64bcd44fa3e50565bf0f13624bc24cf74ca45d1d0b47051fb066f6ee780bdf4d0b57c891ba9609081e
+Homepage: https://ndk-jailbreak.github.io/info/SmartDND/?p=info
+Description: Chế độ không làm phiền của iOS 15 và hơn nữa.​
+Name: SmartDND
+Author: Elias Sfeir
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Website: https://ndk-jailbreak.github.io/info/SmartDND/?p=info
+Depiction: https://ndk-jailbreak.github.io/info/SmartDND/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/SmartDND.json
+
+
+
 Package: com.ndk.pockettranslator
 Architecture: iphoneos-arm
 Version: 1.0
