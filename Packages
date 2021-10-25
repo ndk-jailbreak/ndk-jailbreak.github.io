@@ -41,7 +41,26 @@ Website: https://ndk-jailbreak.github.io/info/SmartDND/?p=info
 Depiction: https://ndk-jailbreak.github.io/info/SmartDND/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/SmartDND.json
 
-
+Package: com.ndk.pockettranslator
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 1016
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.ndk.pockettranslator_1.2_iphoneos-arm.deb
+Size: 249496
+MD5sum: 528616c952568ca3d2b48969d61df254
+SHA1: 009bd250012ae818f63f8ea7dbf2dcf3106c785f
+SHA256: 13ee58625576c5353379dc5ab1e14b96a6d047d4e2308e08c009a76b5df357fc
+SHA512: 769c6c2a21212e4c40232a9b02f7c3b20c7fa3fa3d16aa8a189b4e2f790d9cceea35e6513b0f10461aaecab2acf89a38295a4443d40734732f3521c33d9dcf1f
+Homepage: https://ndk-jailbreak.github.io/info/pockettranslator/?p=info
+Description: Trình dịch văn bản nhẹ trên iOS
+Name: Pocket Translator
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/pockettranslator/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/pockettranslator.json
 
 Package: com.ndk.pockettranslator
 Architecture: iphoneos-arm
