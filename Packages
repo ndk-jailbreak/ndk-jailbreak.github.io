@@ -18,6 +18,523 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.haoict.camerashuttersounddisabler
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Hao Nguyen
+Installed-Size: 0
+Depends: mobilesubstrate
+Filename: ./debs/com.haoict.camerashuttersounddisabler_0.1.0_iphoneos-arm.deb
+Size: 1154
+MD5sum: 1187cb442ca3f53595b8f22dc4cbc2b2
+SHA1: 7b74e7d9bde28c7371c9a97adda78ca25c782588
+SHA256: c94104a64a3ef4b6f0a4d3fcadc41b57a410c3e13a9da73cc1b91678dad70fb3
+SHA512: a7a51c60b67d2c799205833885081f38d00a66f0b00bae03988897c34d70439cbc62029ac873178346b95f988476b0a8e8b6794b698c0c89106e4bcc0f612b2c
+Description: Camera Shutter Sound Disabler
+ Camera Shutter Sound Disabler
+ Support iOS 12 - 14
+ Change log:
+ - v0.1.0: Use bash, add disable camera_shutter_burst
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Camera Shutter Sound Disabler
+Author: Hao Nguyen
+
+Package: com.ndk.dictationkeyhook
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 348
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.5.0), firmware (>= 10)
+Filename: ./debs/com.ndk.dictationkeyhook_1.0.0_iphoneos-arm.deb
+Size: 61126
+MD5sum: 78098b1eaa1949110e59a81ccb5bce37
+SHA1: ab76c47ed3aef5d8f0cfb773ecf24a5f048005a7
+SHA256: 492fb25c3e4a9558bad50226f0e2a939d5a54d326c2b685ec92ad84b907b18e3
+SHA512: 70c5e661234f7c2ccb5c0b76567fc0bf0c335b65c7db7ec7e3132d4671a7095e5a3370492ebf6d1d89169e392e5b6b4fd3f06adde8a5f21d3f8fcc572baa2f3f
+Description: Show Emoji key in keyboard for iphone 5, 6, 7, 8
+ Show Emoji key in keyboard for iphone 5, 6, 7, 8
+ Support iOS 12 - 13 
+ Preview: https://haoict.github.io/cydia/images/emojikeyppbanner.jpg
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: EmojiKey++
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.facebooknoads
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debs/com.ndk.facebooknoads_1.4.1_iphoneos-arm.deb
+Size: 270814
+MD5sum: 3e5ed57eb47f4a4ffd4713f8ed2090f7
+SHA1: 6966c0cc031d1c5610d1f98d1987ef56fb7fa9dd
+SHA256: 27eefb29077baf07c98014746f21af3322a91d792a8549a201e607e22fe205f8
+SHA512: e57e621af716399bf9d30b7235da4cbcf380d88a81b59ae9c0f8a42aad36817fc2a81dd938ffbf4cea4546f7e63af4ac5d546dd1ff473b955f65320a4449c07f
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Can Download Story
+ - Can Only Me Profile Picture
+ - Disable Story Seen (See friends's story without letting them know)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 12-14
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 307.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Facebook No Ads
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.gmailnoads
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 452
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debs/com.ndk.gmailnoads_1.1.0_iphoneos-arm.deb
+Size: 144268
+MD5sum: d47dd48f2e1e9331c21d1bbc767ec63e
+SHA1: 83c9e3b22d5d78fe71ffb86e3a5a4dbca0a22e46
+SHA256: 32476e9fce474991fb07255032af010dfa852f8d99c0ed729a6610dd446149df
+SHA512: 624c60a8eecc0ff52706ad3a5ac1e819d0a11795090e3e1836191a1e7534610c1679cd1ede9a8724cfcf0e0e3498b53097349b1ca7acff91745422108b1fb5ec
+Description: Free & Open Source Tweak for Gmail
+ Free & Open Source Tweak for Gmail
+ Change log: https://github.com/haoict/gmail-no-ads/releases
+ . 
+ Features:
+ - Remove Ads (in inbox list)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Gmail version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Gmail No Ads
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.iconcert14
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 13)
+Filename: ./debs/com.ndk.iconcert14_1.1.0_iphoneos-arm.deb
+Size: 33538
+MD5sum: bee3c4b2bf39292737d72b14c3067ecd
+SHA1: 82ec51a84463ac63982c8f9fa3b3c3df64510392
+SHA256: bef71c1f93530068a8f36d250bbca197ce4324f46318525df263bb20241dfeec
+SHA512: 2cc3ff384f18844e399dcad2cc91b3417fc001fdb6bf82526265012109e00cb7bd0ad59b1231c53bbafa7c779a0126471dc01544fc40c1d830eb6077ffc13c08
+Description: Show remaining certificate time on app icon
+ Show remaining certificate time on app icon
+ Change log: https://github.com/haoict/iconcert/releases
+ . 
+ Features:
+ - Show remaining certificate time on app icon
+ - Custom styles (opacity, animation, time format)
+ - Support iOS 13 - 14
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: IconCert 14
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.instanoads
+Architecture: iphoneos-arm
+Version: 2.10.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 724
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12), firmware(>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ./debs/com.ndk.instanoads_2.10.0_iphoneos-arm.deb
+Size: 383296
+MD5sum: a0f7262f6a7723ca3ed0d3da90b58b5a
+SHA1: a10ce56d4212af003e914970fb4f41272e0577c9
+SHA256: e7ea4407e0f411913f40da3e646a69606e4cc0c95484473f7e0c3bb1c68ec2d8
+SHA512: 1d62a474357168d9e5b9703459facf7ada0a4aa37d48036ff4a461665ef5b76be11896a2fca04c2f36b1103c87ea0a98bbc057e29b08cb17abe87316dc37c4e1
+Description: Free & Open Source Tweak for Instagram
+ Free & Open Source Tweak for Instagram
+ Change log: https://github.com/haoict/instagram-no-ads/releases
+ .
+ Features:
+ - Remove Ads (New Feeds, Stories & Reels)
+ - Can save media (Photos, Videos, IGTV, Stories, Reels, press and hold to show download option)
+ - Can Save HD Profile Picture (Press and hold to show download option)
+ - Show like count
+ - Determine if user is following you
+ - Disable DM seen and Story seen receipt
+ - Unlimited Replay Direct Messages
+ - Like confirmation
+ - Add App lock (use faceid/touchid to unlock)
+ - Support iOS 12 - 14 & latest Instagram version (>= 178.0)
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Name: Instagram No Ads
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.killallapps
+Architecture: iphoneos-arm
+Version: 3.2.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, applist, com.haoict.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./debs/com.ndk.killallapps_3.2.0_iphoneos-arm.deb
+Size: 65068
+MD5sum: 7328df6b0da2582daf4252115720affb
+SHA1: 7669b4edbbe36d5dd6e59e1ec6394c067bf96983
+SHA256: b76f572936a0a4e00bc545e91d8416a6380ae409252ead72d3421fa453ee6f9f
+SHA512: d4d987e6deee059ec3e933a157444bb932379962374b369bb052ad3de61987be081424de3fc95e5787e2c1c73e6fc60f19ab26b1fd1995414574b323186cbe95
+Description: Swipe down in app switcher to kill all background apps
+ Swipe down in app switcher to kill all background apps
+ . 
+ Features:
+ - Custom UI Effect/Haptic Feedback when killed all apps
+ - Option to add Clear Button and its style
+ - Option to kill all apps but keep current app alive
+ - Option to kill all apps and restart current app
+ - Option to not kill Now Playing or Navigation Apps or Swiped Down App and Except Apps
+ - Custom swipe down offset
+ - iPad switcher style
+ - Support iOS 12 - 14
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Kill All Apps
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.lockscreenwithoutbutton
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.lockscreenwithoutbutton_0.0.1_iphoneos-arm.deb
+Size: 4616
+MD5sum: 0da5f0593b85259e443e4d65afb42b18
+SHA1: 304cd8fde9a27eb6b99a4a14f09be89c737d96d6
+SHA256: a203ba14cb1697d8214a764a58cfdeb61be0d6bd723297e14938488c117f8a82
+SHA512: 077f197ba74f363b373584a83706829c8ccf386179ff87027f2355c5c0a4d3dfad6939724b38d086b2ad172df0b218d3860cfde75301ca56249df35a6d215163
+Description: Lock Screen without button, just double tap from Home
+Name: Lock Screen Without Button
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.messengernoads
+Architecture: iphoneos-arm
+Version: 3.10.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 972
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debs/com.ndk.messengernoads_3.10.0_iphoneos-arm.deb
+Size: 586216
+MD5sum: cf2847b2e93c51d10b6df6fcd8641b3c
+SHA1: e23886926e52438edf981ed62e65848465e84eff
+SHA256: b0ec3d630ca0c06b19e169e7da643adab9a40fa675fe724222b6e032043a2d52
+SHA512: 892c0ffee4708aaf344b06f93568b738feb053c2dc699a287d6624ff3f9fd9ac091bc4b10bd38726a25c7412ce9ce804fe687087ee6c8ac53028f119ae0d955c
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ Change log: https://github.com/haoict/messenger-no-ads/releases
+ . 
+ Features:
+ - Hide Ads on Messenger app
+ - Disable Read Receipt
+ - Disable Typing Indicator
+ - Disable Story Seen Receipt
+ - Can Save Friend's Story
+ - Hide Search Bar, Stories row, People tab
+ - Hide Suggested Contact in Search
+ - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
+ - Support iOS 12 - iOS 14
+ - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Messenger No Ads
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.microsoftdetectionbypass
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/com.ndk.microsoftdetectionbypass_1.2.0_iphoneos-arm.deb
+Size: 19534
+MD5sum: 82545873a8178341567cf46b9231df93
+SHA1: ff8ab8daa59742eb36ddae3d5076e8f8ece03704
+SHA256: b9e8a83567beaf78671cffc2a2b7e566a5d8589d50e900a471e99475cf3a84d9
+SHA512: 60943b9abd91154b1438bb6442b728e6a1e2acad03e99dd577379b6f2efdc91dc28d57dfad187f5d6bec4336b87354718639bd8dd21fc620126ec0813c61b1b6
+Description: Free Tweak for Microsoft Apps Detection Bypass
+ Free Microsoft Apps Detection Bypass
+ README: Recently, Microsoft apps are changing class name every version, so please avoid updating their apps from App store until I figure out a solution to make the tweak works in a long term.
+ Change log: https://github.com/haoict/microsoft-detection-bypass/releases
+ . 
+ Features:
+ - Bypass Jailbreak Detection for Microsoft Enterprise Apps:
+  + Outlook
+  + Teams
+  + Word
+  + Excel
+  + PowerPoint
+  + Office 365
+  + OneNote
+  + Power Apps
+  + OneDrive
+  + OneNote
+  + Skype for Business
+  + Edge
+  + SharePoint
+  + To Do
+  + Company Portal
+  + Yammer
+  + Power BI
+ - Support iOS 12-14
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Microsoft Detection Bypass
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.redditnoads
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 508
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/com.ndk.redditnoads_1.4.0_iphoneos-arm.deb
+Size: 224344
+MD5sum: 610ea82900e3ed77860199a6576b5f7c
+SHA1: 3b18f45d09f940508433c0be168e6fa732d213a8
+SHA256: 2db464fd4863be622a90a0320ebf1afff538b98eb91c8bd3b56ba76d11aac844
+SHA512: 48ee7ce19aafd97c789879a958d5f183cf45b574116dd5f9d5ccfb91464c72afd97b0481a2e7bafd20c89188411a846f0fe4754b3839361aa0f4c180805578da
+Description: Free & Open Source Tweak for Reddit
+ Free & Open Source Tweak for Reddit
+ Change log: https://github.com/haoict/redditnoads/releases
+ . 
+ Features:
+ - Remove Ads (posts and comments)
+ - Lightweight
+ - Support iOS 12 - 14 & latest Reddit version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Reddit No Ads
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.theshy
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 14)
+Filename: ./debs/com.ndk.theshy_1.1.2_iphoneos-arm.deb
+Size: 87326
+MD5sum: d009950b7b060cd25109e7ed2350fc91
+SHA1: bb9445747d5c563cc37cccf797a7f5d487ff33ce
+SHA256: cf2743f6f9f3b851aaee170b34d068e436635fc58053a01db4dd75f4ae61fce4
+SHA512: f11d4260588cb74a16cf42376cde3441ee78dbc76afe9093348fd1b95848e195903d352f3b030d62e5a17edc7b1846896cb1cae83ac94bedc76755788ddd0aba
+Description: Dim icons or labels after inactivity
+ Dim icons or labels after inactivity
+ Change log: https://github.com/haoict/the-shy/releases
+ . 
+ Features:
+ - Dim icons or labels after inactivity
+ - Custom delay time
+ - Custom icons or labels opacity
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: The shy
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.tiktokgod
+Architecture: iphoneos-arm
+Version: 2.1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.1), firmware (>= 12)
+Filename: ./debs/com.ndk.tiktokgod_2.1.0_iphoneos-arm.deb
+Size: 62012
+MD5sum: 575f266fa330485699c0c5166ffdbfb1
+SHA1: 0007d200c923e21cd891a6fb96096db521cf17cc
+SHA256: 554da6b0500452b0780b43da23b7c427fa8765c56b5df765db3efa5343c640cd
+SHA512: 30842e500bc556615d288fa467afcb632b9ee96ec3b84ecbbcb910041a6217efeb979cc1a12608b89ca0218ac8c50f2917ead11fe207927ddf49a7a75c3aa77a
+Description: The best tweak for TikTok app.
+ The best tweak for TikTok app.
+ Change log: https://github.com/haoict/tiktok-god/releases
+ . 
+ Features:
+ - Remove Ads
+ - Download without watermark
+ - Auto scroll to next video
+ - Change Region (may not work for iPad and some devices)
+ - Show progress bar (for fast forward or rewind video)
+ - Can hide UI (view video in full screen)
+ - Support iOS 12 - 14 & latest TikTok version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: TikTok God
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.twitchnoads
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debs/com.ndk.twitchnoads_2.0.0_iphoneos-arm.deb
+Size: 328770
+MD5sum: 3cffe001c23717c3b2f633f9d704e83a
+SHA1: 5fa3df6f8a773100caf874596d683db350c515e7
+SHA256: 93574427ad3d6d67eef94ef1164648631ab03e03dbcf5b708aeb6180bbe7c1fd
+SHA512: 6f96833051f683601d82a6435ade83be944976719a0826cd8b8f3512c34fc6c4dde6a80dc0c337188ae37d39830f93208dd40bb12e5e456441b6ce97629d97d0
+Description: Free & Open Source Tweak for Twitch
+ Free & Open Source Tweak for Twitch
+ Change log:  
+ - v2.0.0: Better block ads
+ . 
+ Features:
+ - Remove Ads
+ - Can save clip (live/stream video is currently not supported, press and hold on clip video to show download option)
+ - Support iOS 12 - 14 & latest Twitch version
+ . 
+ I collect uuid for better support and statistic purpose
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Twitch No Ads
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.twitternoads
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 404
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./debs/com.ndk.twitternoads_1.4.0_iphoneos-arm.deb
+Size: 118314
+MD5sum: 93bfe8005546bee7d275ebd17166f6d5
+SHA1: e2b98e50556c8936a00c730eb8972e001b5fe405
+SHA256: 52d115764d4af689af96d54671fe816a113d41fbdc05e57d02cec0cfcbafe173
+SHA512: 391ed2e4ee3acedfe02f09d6be44dd3cbf098402428bf24258d6ea7f1887d748fbb66a9f09d7c0eb7311691dc67027bcfede00ea3683f18fa7a7c588705249e9
+Description: Free & Open Source Tweak for Twitter
+ Free & Open Source Tweak for Twitter
+ Change log: https://github.com/haoict/twitter-no-ads/releases
+ . 
+ Features:
+ - Remove Ads
+ - Remove Fleets
+ - Hide News and Trending posts in search tab
+ - Hide who to follow section
+ - Can Save Video (long press on video to save)
+ - Skip analytic URL when open a link
+ - Lightweight
+ - Support iOS 12 - 14 & latest Twitter app
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Twitter No Ads
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+Package: com.ndk.weatherplus
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.2.0), firmware (>= 10)
+Filename: ./debs/com.ndk.weatherplus_1.1.0_iphoneos-arm.deb
+Size: 225432
+MD5sum: fa1cc98ce469cf87ce645070b6415331
+SHA1: 90c1535ec5a9daf736227657ff1b09a7a3dc6220
+SHA256: 76ecffc18f04164808b68e82faa1cb4e8d585f38028039fe6908757ccdcab25a
+SHA512: 3be1a860b4da8a7341db9a4f1cef3899d2f72fcb466f2864bcf7a2e431ac0bcf195fd5d83b908990ed9f04793a99dcb1069dbd6da1926849dd5e9f05be7c2b99
+Description: Free & Open Source Tweak for Weather App
+ Free & Open Source Tweak for Weather App
+ Change log: https://github.com/haoict/weather-plus/releases
+ . 
+ Features:
+ - Add the date next to each day
+ - Custom format (dd/MM, MM/dd, etc,...)
+ - Support iOS 10-13 & latest Weather app version
+ . 
+ I collect uuid for better support and statistic purpose
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Name: Weather Plus
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Hao Nguyen
+
+
+
 Package: com.ndk.SmartDND
 Architecture: iphoneos-arm
 Version: 1.1
