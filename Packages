@@ -18,6 +18,29 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.safarinoappbanner
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ndk.safarinoappbanner_1.0.0_iphoneos-arm.deb
+Size: 5142
+MD5sum: 96617cda5f7b709df336ef042589a3f6
+SHA1: d1ae820dc0aa325209a8bae59e9d2a5a34e895f2
+SHA256: 49bbeb76b06eedc78f34cec91759779c65b067c2588e3a7afe5bbbf8ff505680
+SHA512: 4e8a18d623ea1616ea0ea10c842007aec3d600553a60e74b417988cf27b9aaba180885d3036bf3beea5c2b91b54b83e1ecc840da60a4c7db0bc8b2e5210bbe7d
+Homepage: http://ndk-jailbreak.github.io/info/safarinoappbanner/?p=info
+Description: Loại bỏ các biểu ngữ ứng dụng trong Safari.
+Name: SafariNoAppBanner VN
+Author: Ginsu
+Depiction: http://ndk-jailbreak.github.io/info/safarinoappbanner/?p=info
+SileoDepiction: http://ndk-jailbreak.github.io/Sileoinfo/safarinoappbanner.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+
+
 Package: com.ndk.iconcert
 Architecture: iphoneos-arm
 Version: 1.4-1
