@@ -28,19 +28,20 @@ Installed-Size: 246
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Filename: ./debs/com.ndk.iconcert_1.4-1_iphoneos-arm.deb
 Size: 32102
-MD5sum: 10b32ff8eada00395253d2fc6de06abd
-SHA1: 956179b46601d399e1e6c5f7a49b1e647e612ca1
-SHA256: 50ef4b0c58be5f2bbd2194fa557f50b99be574bd19af4f458f0a7d66b6566711
-SHA512: 1130573bf3cf329d642bf131c0790dce74b31d599cf76edc1a8fa3decee517c7d018e84a81b7b7cb2c3f1e96be1b5f377d67317553ed86bc97fed11e8f27d4f1
-Homepage: https://ndk-jailbreak.github.io/Debinfo/iconcert/?p=info
+MD5sum: 72245b6432a9caeafcd9660deb811ee2
+SHA1: 93438f9f5c90ea9460d454b6518b9c4dd73ab766
+SHA256: 0c82a0c8b2829ff9645ffd5aef55a7ccdbfb1854fe3bb53e7f4908820535e6d7
+SHA512: 4000e1e4ecc403625afc390972c9917e765d0259f5e85bf69706e1b73f2e62fc266d686e45164efb82f273daee88d886aa4a46754bcc43fe769c7db25616b08c
+Homepage: https://ndk-jailbreak.github.io/info/iconcert/?p=info
 Description: Hiện ngày hết hạn trong ứng dụng JB
 Tag: purpose::extension, compatible::ios10
 Name: IconCert
 Author: faz <fazilnc8@gmail.com>
 dev: fazilnc8
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
-Depiction: https://ndk-jailbreak.github.io/Debinfo/iconcert/?p=info
+Depiction: https://ndk-jailbreak.github.io/info/iconcert/?p=info
 SileoDepiction: https://ongcenh.github.io/Sileoinfo/iconcert.json
+
 
 
 
