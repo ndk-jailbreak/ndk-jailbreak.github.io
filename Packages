@@ -18,6 +18,30 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.9~1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 1572
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.ndk.carbridge13_2.0.9~1_iphoneos-arm.deb
+Size: 410166
+MD5sum: ba3df9a094fc774f277ca852546b3236
+SHA1: 52c4ff23e288653a6f48d65c2af368f28564e577
+SHA256: 63e9a23b547ba5dc90dea2047b6b4f655dcf0a34702993939bfd569a41d229cc
+SHA512: ceccbb23c730a1da185563a2887760c34afe102ceaf633b8da727fca1dfe28ee1689fa82988d19800d846d0dc65755189506296e678a3f98d36a05356109bd70
+Homepage: http://ndk-jailbreak.github.io/info/CarBridge/?p=info
+Description: Mở bất kỳ ứng dụng nào trong CarPlay!
+Name: CarBridge VN
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Depiction: http://ndk-jailbreak.github.io/info/CarBridge/?p=info
+SileoDepiction: http://ndk-jailbreak.github.io/Sileoinfo/CarBridge.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+
+
 Package: com.ndk.tranzlo
 Architecture: iphoneos-arm
 Version: 3.0.3
