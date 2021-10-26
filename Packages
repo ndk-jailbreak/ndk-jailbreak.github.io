@@ -20,6 +20,52 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
 Package: com.ndk.tranzlo
 Architecture: iphoneos-arm
+Version: 3.0.3
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 5340
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.ndk.tranzlo_3.0.3_iphoneos-arm.deb
+Size: 2554672
+MD5sum: 89b890479f7b016823d8f17096cd93a1
+SHA1: aac42fe9c63aedf868b943178f7c437efe5e698c
+SHA256: 01345fb83b99ca23df979fe04bf9c9067a1dee714a0c7d26d1313fca9cfeffbb
+SHA512: 5c23d0931e201d9f9d3f89db9d3960631022ea44bd369b9ea8e0ca64280f624f0065c02701601fe54aaa1974a01980b4e6de648b1f7891c9e96ec541d4a5ebd1
+Homepage: https://ndk-jailbreak.github.io/info/tranzlo/?p=info
+Description: Một tinh chỉnh dịch thuật cứu tinh cuộc sống.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/tranzlo/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/tranzlo.json
+
+Package: com.ndk.tranzlo
+Architecture: iphoneos-arm
+Version: 3.0.5
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 5340
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.18), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.ndk.tranzlo_3.0.5_iphoneos-arm.deb
+Size: 2864730
+MD5sum: f80cfcfcf9c519fdcd8afa3f5f07ac5c
+SHA1: 7252d162ecc2ba02a03e448a87ea729f9cc91430
+SHA256: ab8d5f885a9053de87753bf51f5524b62c92847a872d8be4c2ba563c87334d68
+SHA512: 11ce072654a661b1489cb4ed7c791ce199a7471542c9556a990371aa53c6609b8268e770112aed6ce4a97592aa84d1d1afdb2b0989aed81bcbe306a65347795b
+Homepage: https://ndk-jailbreak.github.io/info/tranzlo/?p=info
+Description: Một tinh chỉnh dịch thuật cứu tinh cuộc sống.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/tranzlo/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/tranzlo.json
+
+
+
+Package: com.ndk.tranzlo
+Architecture: iphoneos-arm
 Version: 3.0.1
 Section: Tweaks
 Maintainer: KhanhNDK
