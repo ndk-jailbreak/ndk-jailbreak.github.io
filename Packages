@@ -18,6 +18,50 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.dr4w
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 1704
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>=14.0), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.ndk.dr4w_0.0.1_iphoneos-arm.deb
+Size: 1050940
+MD5sum: cfeb4901556784d003787633b25f62f0
+SHA1: 06ccace6897ef5c80fb983558b9d5c080b3188ff
+SHA256: 8c95f52e47787feda094b8626df83b98612bed44be0c7b9180edc3325bcd9d8c
+SHA512: 531f22578b99079e9578123d5dd3086de93bd47370de590504d6389e72446328837c60b053cb6b4021c256416a1c0498d11677d2c75599aab3caadfde968fa77
+Homepage: https://ndk-jailbreak.github.io/info/dr4w/?p=info
+Description: Bạn có thể vẽ và chụp ảnh màn hình ở mọi nơi.
+Name: Dr4w VN
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/dr4w/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/dr4w.json
+Author: sugiuta
+
+Package: com.ndk.routeconfigurator
+Architecture: iphoneos-arm
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.ndk.routeconfigurator_1.0.1-1_iphoneos-arm.deb
+Size: 184390
+MD5sum: ab75bd7ad039b778aafcae808f2b8a06
+SHA1: a23ea97466e3544d33144aba69c612257e023ed4
+SHA256: b68271bcb0a39fca8441bd208d4dfd2c090dc9751deb84f412b1a0415140fa6d
+SHA512: ede8245d85dee43383d2457af03c7356261480464b613239dc919cd3914c3a2e1679de6ccc36894a1763b31817ce7ae9c26f34881d999113234f3c318ff9b0d5
+Homepage: https://ndk-jailbreak.github.io/info/routeconfigurator/?p=info
+Description: Tuỳ chỉnh thiết bị âm thanh trong mỗi ứng dụng.
+Name: RouteConfigurator VN
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/routeconfigurator/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/routexonfigurator.json
+
+
+
 Package: com.ndk.translation
 Architecture: iphoneos-arm
 Version: 1.5.0
