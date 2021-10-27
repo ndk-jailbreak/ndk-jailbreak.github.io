@@ -18,6 +18,50 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.tinybanners2
+Architecture: iphoneos-arm
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 457
+Depends: mobilesubstrate,preferenceloader,applist,net.limneos.libbulletin
+Filename: ./debs/com.ndk.tinybanners2_1.0.4-3_iphoneos-arm.deb
+Size: 128834
+MD5sum: 0e154fa1377c9e95ec4df81c73e2c3b8
+SHA1: 0e6023e3e66f7eea4fee3d1aa7b4b90bdf8563ee
+SHA256: 956e88ae49a7a054d4333f12c6b2b574e353bbc62bdcbb54e447e30b39b7b663
+SHA512: 22cd1376ee093bada9f521bb53adb329590dd62e59384f0b294da17ee3d58fd0c050b7afa8ced1f347e2a1bb5fcb7ffc218de148290b291d0f747b0f8f9137a6
+Homepage: https://ndk-jailbreak.github.io/info/tinybanners2/?p=info
+Description: Thông báo tối giảm
+Name: TinyBanners 2
+Author: Don
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/tinybanners2/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/tinybanners2.json
+
+Package: com.ndk.tinybanners
+Architecture: iphoneos-arm
+Version: 0.5.3
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 470
+Depends: mobilesubstrate,preferenceloader,applist
+Filename: ./debs/com.ndk.tinybanners_0.5.3_iphoneos-arm.deb
+Size: 130864
+MD5sum: c0eff928fa1ec6e894553c6e348286d4
+SHA1: 694ad5aa6962aa34c8f8339b3b4346fe2c6c0725
+SHA256: 923e1ee5a50cf761d336c1028747a137a896da4c646db2b0ea7b063bc51c53ef
+SHA512: e3f134b9cfa2bc631baf48c5f3c1e07c387dfdfe2d830d34cf68cb1985de9352b60fe239303652a96556c26aa9d8969a0e949638c2844d5599301e42430e3f61
+Homepage: https://ndk-jailbreak.github.io/info/tinybanners/?p=info
+Description: Thông báo tối giản
+Name: TinyBanners
+Author: Don
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/tinybanners/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/tinybanners.json
+
+
+
 Package: com.ndk.dr4w
 Architecture: iphoneos-arm
 Version: 0.0.1
