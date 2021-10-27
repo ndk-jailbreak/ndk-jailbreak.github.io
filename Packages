@@ -18,6 +18,30 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.translation
+Architecture: iphoneos-arm
+Version: 1.5.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.ndk.translation_1.5.0_iphoneos-arm.deb
+Size: 174700
+MD5sum: 8ce9874970bd078b88ea853390189c61
+SHA1: d04d2d29c8c20ded34a37b35c5e501dead2592d1
+SHA256: a2909408ebf4405d601a0e35b68a44e4206ed2a69d3b343be8231de887147648
+SHA512: 598afa887b5fbc85173c2dede593df3c7df9f89c30d14a16d430c1a67266bd5d9f3ea8b77343420deeb810e379fcf9ff18e66b8efe80b03e3bd8af757ea2bce7
+Homepage: https://ndk-jailbreak.github.io/info/translation/?p=info
+Description: Dịch văn bản được bôi đen nhanh hơn.
+Tag: purpose::extension
+Name: Translation
+Author: Sky - Pain <2398453359@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/translation/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/translation.json
+
+
+
 Package: com.ndk.twig
 Architecture: iphoneos-arm
 Version: 1.0.1
