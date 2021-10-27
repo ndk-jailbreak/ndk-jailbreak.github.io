@@ -26,17 +26,17 @@ Maintainer: KhanhNDK
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.ndk.twig_1.0.1_iphoneos-arm.deb
-Size: 10410
-MD5sum: 2f397e87267af530c68cb43cfaf8001d
-SHA1: 13ba1765507548515851f7ab70ccde85243e0013
-SHA256: 8ac03848686513d0bd31ea7bbdaded3e3b2433971c2ce421a83445140072c1a0
-SHA512: a585fe7f079ffd9e50308cefd1368302604a552966d6bd7a1bd683701fa2a2291daf1234a4af1e65eefa97339226f1a05862b90e3f7d95f4c20a6870e21b9077
+Size: 10406
+MD5sum: 079fec18da927b04a63c59cc02882431
+SHA1: 4e1b097720e439680e06eb1a9789004ad216983d
+SHA256: de07eb8666dfc7e7b30d04b602c2355d9f20709f911d5e53668b241402000910
+SHA512: a85f018b93800abffcfc613aa1cc503d3309d89cebedf6165b82a8c674c244cbbf620d39d1987fb9169153ae80d1790259f3ab9a0960f4febafa26ad368570b3
 Homepage: https://ndk-jailbreak.github.io/info/twig/?p=info
 Description: Thêm một số Thời tiết vào Màn hình khóa iPhone hoặc iPod Touch iOS 10 của bạn
 Name: Twig
 Author: iOS Creatix
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
-Depiction: https://ndk-jailbreal.github.io/info/twig/?p=info
+Depiction: https://ndk-jailbreak.github.io/info/twig/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/twig.json
 
 
