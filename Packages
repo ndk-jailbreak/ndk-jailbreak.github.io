@@ -18,6 +18,72 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.topstt3xs
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.topstt3xs_2.0_iphoneos-arm.deb
+Size: 14938
+MD5sum: f56df696ba5f034edb3d99a49d3c8506
+SHA1: c2cae8e33008eb28552ee84bfbb397f38fd95870
+SHA256: 952632bd5fa910caa7ad76cd990e4ab493ad7b2df6111124db39a7fcf2ac81f2
+SHA512: a390cad3090f6e8ba4bda6bd030d15ceef6ce7f55de7006d860cd9e738f3cc5d13990970754cd20875ea0e91e50be48d8e9a27558490b0ff54b45835a4972065
+Homepage: https://ndk-jailbreak.github.io/info/topstt3xs/?p=info
+Description: Di chuyển thanh trạng thái giả X nên cao !
+Name: Top StatusbarXS
+Author: fahlnbg
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/topstt3xs/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/topstt3xs.json
+
+Package: com.ndk.touchbar
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.twickd.ethan-whited.touchbar
+Filename: ./debs/com.ndk.touchbar_1.0_iphoneos-arm.deb
+Size: 228902
+MD5sum: cc2ad57208259950850e9decf219b2e6
+SHA1: 035f74454804d0482264abd605e4c4a8b7cc5bc4
+SHA256: d71f235f107cd17011a612e525fb6f2499ff8c496ad1a556b61c2cb34022f59c
+SHA512: dc6f4bee11418be7242c03192d857a01a445097f9917319482802ea176dd42a055257543540e3a58dd2ed326dbe79b90c25fcab8f02dd009ebe5d544b4028c71
+Homepage: https://ndk-jailbreak.github.io/info/touchbar/?p=info
+Description: Thanh TouchBar như trên MacOS cho iOS!
+Name: TouchBar
+Author: Ethan Whited
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/touchbar/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/touchbar.json
+
+Package: com.ndk.touchflow
+Architecture: iphoneos-arm
+Version: 1.0.6
+Priority: optional
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 820
+Pre-Depends: firmware (>= 11.0), mobilesubstrate | com.ex.libsubstitute
+Depends: com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.ndk.touchflow_1.0.6_iphoneos-arm.deb
+Size: 211030
+MD5sum: b40580c5739f88eed39dc8929686dffb
+SHA1: a9aef5b343325e74af3a87e959639edf4d483f25
+SHA256: e28f17d568b59d538f95446576437cc57479663cdf9a4a20038793c2043721db
+SHA512: bdedb390ac4da1e31e2773722c8490aab39ff50c1c8b495b0a94da694ae45c63c7049c793c27cc47489e31ac0bf332bf2ecc345ad89c91303b5f92bd936d7364
+Homepage: https://ndk-jailbreak.github.io/info/touchflow/?p=info
+Description: Hiển thị chạm khi chạm vào màn hình.
+Tag: purpose::extension, compatible_min::iosiOS11
+Name: TouchFlow
+Author: CreatureSurvive <support@creaturecoding.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/touchflow/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/touchflow.json
+
 Package: com.ndk.tinybanners2
 Architecture: iphoneos-arm
 Version: 1.0.4-3
