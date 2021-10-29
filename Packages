@@ -18,6 +18,198 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.ElagenBpms2725
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.ElagenBpms2725_1.0_iphoneos-arm.deb
+Size: 6795104
+MD5sum: 786f21074df7c4e84dd51f295650a314
+SHA1: 53eb1c175e7a7c2ebaaf2e3e442b16b5d9df4ab3
+SHA256: 46a3ce67123a6a53907f25eaade6041420706a775452fe14b025610295975b67
+SHA512: 4e108f82530906aa03e4117a11fa70e0251eda73d8baaeab8d639771b57138e989b9260d86a175c636a8201f9ff0cd4b09657ffd57f6206a59aff4b0a6fa2287
+Homepage: https://ndk-jailbreak.github.io/info/ElagenBpms2725/?p=info
+Description: Chủ đề Elagen
+Name: Elagen Bpms2725
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenBpms2725/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenBpms2725.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.ElagenGFS
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.ElagenGFS_1.0_iphoneos-arm.deb
+Size: 6413146
+MD5sum: 5094b3d6c25c0d5fb0f855abd7278524
+SHA1: a5f660a84e867574b0c41208535ad38b2ff8bbb7
+SHA256: 026b3f15544e013f964dc9ccdda3fabfa0c28bc0a2dd337091c1cf1cfa95a1fe
+SHA512: 9bdbc9a5539d748c04aab6bd40ada1149b2660cfd6f562e2ba92ecc4f3a45b376010358970798247ca6df45d81d4b832be8d10a9af62e9f914d9a733f27b1b9a
+Homepage: https://ndk-jailbreak.github.io/info/ElagenGFS/?p=info
+Description: Chủ đề Elagen
+Name: Elagen GFS
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenGFS/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenGFS.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.ElagenPurple
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.ElagenPurple_1.0_iphoneos-arm.deb
+Size: 7384354
+MD5sum: 6bdf52643b48b68ba018883fa48dd600
+SHA1: 76cc1cc48d522e4a82059aeb20211894674bae95
+SHA256: 88bda96259e009aca8422f8a30fddd6a4be92bfa1967354e5e75b566579e9273
+SHA512: 16948f3cd03d220ac83d06f8c9f8d5972cec986e0733612e70d2b368998d200c3fbdd688784646aadb2b1c83156c29dd9cdb8abfb88cfb0d661695ab5469547b
+Homepage: https://ndk-jailbreak.github.io/info/ElagenPurple/?p=info
+Description: Chủ đề Elagen
+Name: Elagen Purple
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenPurple/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenPurple.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.ElagenRGP
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.ElagenRGP_1.0_iphoneos-arm.deb
+Size: 6732334
+MD5sum: fdf5b648e7857d53b7144bbacec72e74
+SHA1: 26568dac8ead39b1778285193f70232ce93fb9d4
+SHA256: 2000bd5826694dec23d872e190ce37ae8e136af2973e6a127bf2b0599dda4b88
+SHA512: dc899661ba25e2d63638a8bb500d9d7dc4901c3f2837e7c5bea01d7d56a52b3b9e2e8bd55870abb2044dca05cfa784bd1f0f720fd3593e57dd0aba6e8390f77d
+Homepage: https://ndk-jailbreak.github.io/info/ElagenRGP/?p=info
+Description: Chủ đề Elagen
+Name: Elagen RGP
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenRGP/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenRGP.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.Elagen
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.Elagen_1.1_iphoneos-arm.deb
+Size: 22312996
+MD5sum: bf7d975078bca52a41a4fe58ac4c5a46
+SHA1: b5a8d2da266ae5ab844ba56fff89ed5e0ac1a5dd
+SHA256: 1c8f23eaf44a30df37c9faa9798b4a64fe42fd0ab7a3daaf1bdd8bb7c6108454
+SHA512: 4bea909f32c4e989be7cb452a0fd53985c34df01dacb4b9645b574571bcad3d30c64f4e6271ac626fbb06cb1a76efe3b49afb66803b19a826981eeaa36d50fe9
+Homepage: https://ndk-jailbreak.github.io/info/ElagenGMG/?p=info
+Description: Chủ đề Elagen
+Name: Elagen
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenGMG/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenGMG.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.Elagencyan
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.Elagencyan_1.0_iphoneos-arm.deb
+Size: 22345320
+MD5sum: 2b00a5957a786eb2dbb1894cef5c4fbc
+SHA1: 1c311dbbf223ec5df18e8198d9726c36c6546021
+SHA256: b730c1512199bf7aaf0723a8b2070db6ce9ed90eca7f76ff674f385efa81131a
+SHA512: 041b3f7bf7b8b595ace18147914e204098d9eef000dcae821c186cb868a86dc8b5c0cff7a7077d0c5783dfd09751706fcb572745fbc7afef1e073d0619c34f0c
+Homepage: https://ndk-jailbreak.github.io/info/ElagenCyan/?p=info
+Description: Chủ đề Elagen
+Name: Elagen Cyan
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenCyan/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenCyan.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.Elagendark
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.Elagendark_1.0_iphoneos-arm.deb
+Size: 4708340
+MD5sum: 381c7f04e2868d1c4225ab85cdae9ca2
+SHA1: 83721f34613a3c131a86873496f353af5d3065af
+SHA256: 7b67e99e4a2677c01250391bde13a40066a7d0eab257254ac2e48ecbac07b14f
+SHA512: 5f3fa28421473666ae35f4844250426b2228356938d18dc781b9dd29171c03d9c560c82d15a05e3d587a65e7994c747aa05177b9288626980a32324bf1e622c9
+Homepage: https://ndk-jailbreak.github.io/info/ElagenDark/?p=info
+Description: Chủ đề Elagen
+Name: Elagen Dark
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenDark/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenDark.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.Elagenlyo
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.Elagenlyo_1.0_iphoneos-arm.deb
+Size: 7299620
+MD5sum: 7cb216535d22d301de437e1188533184
+SHA1: c907f7414565eb9ff4f5eae5e35225de9eec6d4c
+SHA256: 5d15f5f895e865004a4a30ca15a964b41e64a71a628b34447ada1b8db5c596be
+SHA512: 7e653d7dec3d718fac5dd887394a95cf1ad179f77ba9cfa4467a4bf70f2c8abc2e6a6b1526dc676b9718fd5d43c7516f85bd3256bb179dfcdc10bb2c93a51fe6
+Homepage: https://ndk-jailbreak.github.io/info/ElagenLYO/?p=info
+Description: Chủ đề Elagen
+Name: Elagen LYO
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenLYO/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenLYO.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.Elagenmbg
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.Elagenmbg_1.0_iphoneos-arm.deb
+Size: 7483768
+MD5sum: ff212edc2a13ca95e7721b741bde1430
+SHA1: 50487d5c302a3065415e4837100115ea9868a569
+SHA256: b3a9dc6f8835d7e1ee2fffac05d9332941d12565166fab50e532eaf4e86cb5e0
+SHA512: 548f4ee3d95ea9abb48af9b06910a01cc6f68e21d737ef5ef42209d0c5cfe47d71d241f0ada4f04a52cf93a1a78756ec11a4a951d650435d3f85842a2c76e8ed
+Homepage: https://ndk-jailbreak.github.io/info/ElagenMBG/?p=info
+Description: Chủ đề Elagen
+Name: Elagen MBG
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenMBG/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenMBG.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+Package: com.ndk.elagengmg
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: NDK
+Filename: ./debs/com.ndk.elagengmg_1.0_iphoneos-arm.deb
+Size: 7272704
+MD5sum: f47f742e1dae4c3088b14025ba85ba22
+SHA1: 7097c9209e80e8c3144dff7eb041c018b519afe8
+SHA256: 168d01957424f156c32acb47ed6959583404f87845068a1aa8bb11359d6eeb73
+SHA512: 0b5ac7beae17834f2bbfc968f07bfd810d8e8b65cb0c62c74c262660c4187cc9ae407a9ab088d2a6e3f660ec8dc8b1125de857991287ca8d1b62d27d1b1c1359
+Homepage: https://ndk-jailbreak.github.io/info/ElagenGMG/?p=info
+Description: Elagen GMG theme
+Name: Elagen GMG
+Author: @hatiato
+Depiction: https://ndk-jailbreak.github.io/info/ElagenGMG/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ElagenGMG.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
+
+
 Package: com.ndk.bigsurwallpaper
 Architecture: iphoneos-arm
 Version: 1.0
@@ -2317,22 +2509,6 @@ Author: Nepeta <ominousness@protonmail.com>
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depiction: https://ndk-jailbreak.github.io/info/Docky/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Docky.json
-
-Package: com.ndk.elagengmg
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Themes
-Maintainer: NDK
-Filename: ./debs/com.ndk.elagengmg_1.0_iphoneos-arm.deb
-Size: 7272650
-MD5sum: 325403ca5faff9bc8ebea372b3e582c9
-SHA1: 79161f7e40c0ce4d50a3be74552a7842d91a8152
-SHA256: d52c7b8ed691f9fc9cc9bc21b1829b3477181b4a50a21b69c087e5786e034e84
-SHA512: f72d7c756fb3c80dca463c0460bf5aa1f847f01e3ab69350a6b73a7e2f90c615b8dd317ac9239518fe31c2a91f73cf7524e3302674062845a2199ca4bff139a4
-Description: Elagen GMG theme
-Name: Elagen GMG
-Author: @hatiato
-Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
 
 Package: com.ndk.eqesuperbass
 Architecture: iphoneos-arm
