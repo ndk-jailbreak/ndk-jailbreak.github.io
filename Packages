@@ -18,6 +18,133 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.bigsurwallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, com.ndk.wallpaperloader
+Filename: ./debs/com.ndk.bigsurwallpaper_1.0_iphoneos-arm.deb
+Size: 9990918
+MD5sum: 08a2d43949376ad055f630406986cecb
+SHA1: ac903002a7d29ccecf32fbd4ce4fca4a4424d1d6
+SHA256: be873d07dba74cc4bf3c42372941c34bd8d5d7b4087069115c1ee4f2aa724810
+SHA512: 74b49b7263b6d8827e884effa653def54094bcceb9f94200dc82641cfcc0f6cd8161a8b4c0660f1b9324d1d45869097677e31ebe9fa753b0196d7563032eda7a
+Description: Hình nền MacOS BigSur sáng/tối.
+Name: Big Sur Wallpaper
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wallpapers.png
+Author: Huy Hue
+
+Package: com.ndk.forestwallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, com.ndk.wallpaperloader
+Filename: ./debs/com.ndk.forestwallpaper_1.0_iphoneos-arm.deb
+Size: 2473858
+MD5sum: 7552f9fa02c60f85a6752220eef09d04
+SHA1: a44df48811b7913bc83c5eca3186c2a9db8d0936
+SHA256: 2b24a2035e4bd32f32b7f9dbf8ae05705c8445c344d12aaa4a984dfc6f41e293
+SHA512: bfbb288b7d2c1c8d105211ab91f1d8cb7562df818e5357bd9c5415ffbcdbc65e0fd882315ef1c15c718f6b588f1aea8f9114db8fc216a51f1ebe4185145edcbb
+Description: Hình nền Forest sáng/tối.
+Name: Forest Wallpaper
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wallpapers.png
+Author: Huy Hue
+
+Package: com.ndk.iconrepo
+Architecture: iphoneos-arm
+Version: 2.0
+Essential: yes
+Section: System
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.iconrepo_2.0_iphoneos-arm.deb
+Size: 387018
+MD5sum: b5c570065edf96b73bd757d37e8dd8c1
+SHA1: 7caecb29481ada394cae7d54b77bec91390de3b7
+SHA256: f1401bd6485436d82cdaba09cb3b218492c57ec1fc9da6200facea73d9523884
+SHA512: 84dc952a9f5c7d49ce5b64d2128e5e19ea7cc1e573570c61e075da364a08f1f66418465a36cbaaf151f421b37ac61549152c3d2a3f5960ea26a5dae623410a9a
+Description: Biểu tượng Cydia cho kho lưu trữ NDK
+Name: Icon Repo
+Author: @ongcenh
+Icon: file:///Applications/Cydia.app/Sections/NDK-Systems.png
+Depiction: https://ndk-jailbreak.github.io/info/Iconrepo
+SileoDepiction: https://ndk-jailbreak.github.io/info/Iconrepo
+
+Package: com.ndk.ip13
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, com.ndk.wallpaperloader
+Filename: ./debs/com.ndk.ip13_1.0_iphoneos-arm.deb
+Size: 23171064
+MD5sum: 76c1aa991f78f788f12383716bf5cc3c
+SHA1: 6c37dff8c84428856f311410b0a013cd95c7e36f
+SHA256: fbd0dc55f6f7e2f42de669f22dca3b962da0d986e165b8ffd66fa6415c93449d
+SHA512: 6531e02983d43244721fbeea93f4e9c9e4186c7fadaa745068cc70eb77c30ceea207a7b4fa803ad943404b802b88b278843b31b7fdc3ac89b2a53b2619ce6f48
+Description: Hình nền iPhone 13 sáng/tối.
+Name: iPhone 13 Wallpaper
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wallpapers.png
+Author: Huy Hue
+
+Package: com.ndk.montereywallpaper
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, com.ndk.wallpaperloader
+Filename: ./debs/com.ndk.montereywallpaper_1.0_iphoneos-arm.deb
+Size: 8748020
+MD5sum: 88bcb4238bf48b5fdda8a95b107ec83f
+SHA1: e12b672c6a3244895930d34ec0933c95c6fe853f
+SHA256: 036c0a079f008621978524ed065280cd5ab5371045ca9debb3834024d335f763
+SHA512: bb59dad0d945a72568323799f3f3f997c495b822343048ec7c07080f8d2cd826df56d549e4b6c4075bc5fa4c322a8c2298331a51f674128ac650e877e45b0bf9
+Description: Hình nền MacOS Monterey sáng/tối.
+Name: Monterey Wallpaper
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wallpapers.png
+Author: Huy Hue
+
+Package: com.ndk.wallpaperloader
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.ndk.wallpaperloader_1.1.1_iphoneos-arm.deb
+Size: 19862
+MD5sum: af1b53e6bbda9e606fc623d6b939aed3
+SHA1: 4a0b1059e970ff1a63a8898113f16191e3573f89
+SHA256: 378d95bf649e4a7f7c4a6011bc0e3c494581f636f4de2ce7824674d46139e646
+SHA512: 885c6ebe18f34b9ba3667663d858fb70bd279c3ff403b0e76ea54994f1ee66ab499487aa4aad407cbb2f531458b8cf5835eb902e9781ccde558eb23c8dee0950
+Homepage: https://ndk-jailbreak.github.io/info/wallpaperloader/?p=info
+Description: Thêm nhiều hình nền mặc định hơn!
+Name: WallpaperLoader
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/wallpaperloader/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/wallpaperloader.json
+Author: Skitty
+
+Package: com.ndk.win11wp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: KhanhNDK
+Depends: mobilesubstrate, com.ndk.wallpaperloader
+Filename: ./debs/com.ndk.win11wp_1.0_iphoneos-arm.deb
+Size: 1488440
+MD5sum: 2ccddd64d088e71c419d39602d3132f6
+SHA1: 608c9fcda8322183c017726fad9a73e8eacb1c0b
+SHA256: ad98c96db561092701de68e9f4c498a6aa7a4cca57765c1fa58c20d75e500b8e
+SHA512: ab5c4302cad9936fcb3d3b2085215df063531decf57a7e63822fce9f279cf7ef53994f426870af6507a5bd0a44ff27530ae48686c43570c43645dae9bac73677
+Description: Hình nền Windows 11 sáng/tối.
+Name: Windows 11 Wallpaper
+Icon: file:///Applications/Cydia.app/Sections/NDK-Wallpapers.png
+Author: Huy Hue
+
+
+
 Package: com.ndk.topstt3xs
 Architecture: iphoneos-arm
 Version: 2.0
