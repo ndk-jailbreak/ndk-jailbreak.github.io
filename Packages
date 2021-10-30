@@ -18,6 +18,29 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.icarus
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Depends: firmware (>=14.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common
+Conflicts: com.mtac.icarus
+Filename: ./debs/com.ndk.icarus_1.0.1_iphoneos-arm.deb
+Size: 2358030
+MD5sum: 0008d2135b5bb77624c1b9cd03114731
+SHA1: 41092985916ba47d2cb10c739d8bac651c4e7e18
+SHA256: 2b2c1c443bc9af16fc2c2864f8c164844954a68ec019ffa2d24cc1ffc8f76557
+SHA512: e1e391488a2c4dd445198c406de569a5c337210b74825d2670b723cef55c950e2205ee7949dfa7e404c47787086f328d432a6ebd6dca1437f5e10bee2b2fdbd4
+Homepage: https://ndk-jailbreak.github.io/info/icarus/?p=info
+Description: Hoạt hình cho đa nhiệm của bạn.
+Name: Icarus
+Author: MTAC
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/icarus/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/icarus.json
+
+
+
 Package: com.ndk.ElagenBpms2725
 Architecture: iphoneos-arm
 Version: 1.0
