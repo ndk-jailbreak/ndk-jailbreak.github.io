@@ -3412,14 +3412,18 @@ Maintainer: KhanhNDK
 Installed-Size: 3232
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Filename: ./debs/com.ndk.prysm_1.9.1_iphoneos-arm.deb
-Size: 1072622
-MD5sum: 0490622476fae0f611b72b87f79a9a2f
-SHA1: dd626875195016538fe2335983b3f60146c5e9e2
-SHA256: b18b15673e572a8dd3b51eba1bf74df795a9ff8d608bfb14662e505cc64cc183
-SHA512: 447580a77684c1e26046195e4b90ac5830892972ff3f81b8815515cde800db4fb948ddff1011b661857dfb49a8f6c0fb1a42acca77b6a6d42c0e6287b7bb5d8f
+Size: 1072724
+MD5sum: 597a0045fc66a1196af51a4e23cb2ec4
+SHA1: 51513e7a3238d312c0d061a30ec56a82998ca719
+SHA256: b6b596b0075507862b4eedc1ffce8adbb0d7e9ae28cd2af773595912abfa5e67
+SHA512: c132d301310e4980b7f4619887e5853369e6150f2edb8ab3d9241ca7e0d8b7e29f154766d5909591a625cda97faf1412859fb1cd317bd2c84893d38dc6a951e0
+Homepage: https://ndk-jailbreak.github.io/info/prysm/?p=info
 Description: Trung tâm điều khiển hoàn toàn mới.
 Name: Prysm
 Author: LaughingQuoll
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/prysm/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/prysm.json
 
 Package: com.ndk.rgboardvn
 Architecture: iphoneos-arm
