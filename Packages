@@ -3404,27 +3404,6 @@ Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depiction: https://ndk-jailbreak.github.io/info/ProudlockXr/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/ProudlockXr.json
 
-Package: com.ndk.prysm
-Architecture: iphoneos-arm
-Version: 1.9.1
-Section: Tweaks
-Maintainer: KhanhNDK
-Installed-Size: 3232
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: ./debs/com.ndk.prysm_1.9.1_iphoneos-arm.deb
-Size: 1072724
-MD5sum: 597a0045fc66a1196af51a4e23cb2ec4
-SHA1: 51513e7a3238d312c0d061a30ec56a82998ca719
-SHA256: b6b596b0075507862b4eedc1ffce8adbb0d7e9ae28cd2af773595912abfa5e67
-SHA512: c132d301310e4980b7f4619887e5853369e6150f2edb8ab3d9241ca7e0d8b7e29f154766d5909591a625cda97faf1412859fb1cd317bd2c84893d38dc6a951e0
-Homepage: https://ndk-jailbreak.github.io/info/prysm/?p=info
-Description: Trung tâm điều khiển hoàn toàn mới.
-Name: Prysm
-Author: LaughingQuoll
-Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
-Depiction: https://ndk-jailbreak.github.io/info/prysm/?p=info
-SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/prysm.json
-
 Package: com.ndk.rgboardvn
 Architecture: iphoneos-arm
 Version: 1.0.5
@@ -3446,6 +3425,27 @@ Depiction: https://ndk-jailbreak.github.io/info/RGBoard/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/RGBoard.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.ndk.prysm
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 3232
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./debs/com.ndk.prysm_1.9.1_iphoneos-arm.deb
+Size: 1072724
+MD5sum: 597a0045fc66a1196af51a4e23cb2ec4
+SHA1: 51513e7a3238d312c0d061a30ec56a82998ca719
+SHA256: b6b596b0075507862b4eedc1ffce8adbb0d7e9ae28cd2af773595912abfa5e67
+SHA512: c132d301310e4980b7f4619887e5853369e6150f2edb8ab3d9241ca7e0d8b7e29f154766d5909591a625cda97faf1412859fb1cd317bd2c84893d38dc6a951e0
+Homepage: https://ndk-jailbreak.github.io/info/prysm/?p=info
+Description: Trung tâm điều khiển hoàn toàn mới.
+Name: Prysm
+Author: LaughingQuoll
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/prysm/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/prysm.json
 
 Package: com.ndk.saily
 Architecture: iphoneos-arm

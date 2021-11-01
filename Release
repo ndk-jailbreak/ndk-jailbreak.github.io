@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Kho Lưu Trữ Các Tinh Chỉnh Cho iOS
 MD5Sum:
- d52909bdc98c8fb579a72b745da0bb31 178132 Packages
- b920d0edd4bdf43ca7fa4db5267cf832 45640 Packages.bz2
+ 3c15809c80a80d75063b7cadb0a99b20 178132 Packages
+ ec9b905e4cc7a234f9b07950bdb3e1c5 45485 Packages.bz2
