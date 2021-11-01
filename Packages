@@ -24,20 +24,18 @@ Version: 1.0
 Section: Themes
 Maintainer: KhanhNDK
 Filename: ./debs/com.ndk.de5green_1.0_iphoneos-arm.deb
-Size: 10904146
-MD5sum: d1c7cf259391fee6f7f47b00dba368e6
-SHA1: c996f30ef3650ec45852cd41b17ca04233cd3d50
-SHA256: f674560cd68b8d6c14b41424d7c0caab2c271aa32c5a50dd0d14149d0fc7538f
-SHA512: a93f469a14042ed91696c94d6c7a130d0889f7d7b2cbc86fff84a79e31941b1d5c86c1206f7b9d6ef8dffc60e42f589f53d602b94476e58cca282659c359a6dc
+Size: 10904160
+MD5sum: d92ad9230d11e0a8dab2f762c0959335
+SHA1: 799b160e744c4af6182df92870798468f2326fa2
+SHA256: 9b2413845e0293791e0f87ecaa7e227ddd9f45505941b5a6c11673c0ac1262b9
+SHA512: 49671e2637710c8ba0953e55b448cc9b8151df8b2a89e965266c35dd5ce26ee2276b8739fe77b9db8bf98457889540f70cb30bbe564e7b684bec5574eb15a0ca
 Homepage: http://ndk-jailbreak.github.io/info/De5Green/?p=info
 Description: Chủ đề De5 Green
 Name: De5 Green
 Author: The Giver
 Depiction: http://ndk-jailbreak.github.io/info/De5Green/?p=info
-SileoDepiction: http://ndk-jailbreak.github.io/info/De5Green.json
+SileoDepiction: http://ndk-jailbreak.github.io/Sileoinfo/De5Green.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
-
-
 
 Package: com.ndk.icarus
 Architecture: iphoneos-arm
