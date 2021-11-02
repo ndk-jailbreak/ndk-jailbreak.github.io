@@ -18,6 +18,25 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.whitecolorful
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.whitecolorful_1.0_iphoneos-arm.deb
+Size: 5605046
+MD5sum: b61074fc9e05d23455f174790a13da67
+SHA1: 624c2c1bbf61d77f2af6d2a115c1d6c064322564
+SHA256: 3ce8f74d5bfb02d27e537eca6b2b38c1e61f68df2f34e03933b0043411ff5e03
+SHA512: a604cb0c67346b48b0764046071e39c5b14f596e694b802e192534ce65f19ec775a5709e0e03fb7c5a24dc182247dbf2822a989035160ff1de8539c3508271f4
+Homepage: http://ndk-jailbreak.github.io/info/WhiteColorful/?p=info
+Description: Chủ đề đầy màu sắc.
+Name: White Colorful
+Author: The Giver
+Depiction: http://ndk-jailbreak.github.io/info/WhiteColorful/?p=info
+SileoDepiction: http://ndk-jailbreak.github.io/info/WhiteColorful.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Themes.png
+
 Package: com.ndk.de5green
 Architecture: iphoneos-arm
 Version: 1.0
