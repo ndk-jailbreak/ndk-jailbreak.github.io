@@ -18,6 +18,23 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.cydownvn
+Architecture: iphoneos-arm
+Version: 7.1.2
+Section: Tweaks
+Maintainer: KhanhNDK
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/com.ndk.cydownvn_7.1.2_iphoneos-arm.deb
+Size: 4361106
+MD5sum: cdf6e8696cc1a5248a8129ea47cdafc2
+SHA1: 208fec999e94d28f0475d814d67cdd46dec772e8
+SHA256: 1db1841f238ca4f453a699a367ec40fd41410773a783d7bb91c4f6712b8a18fe
+SHA512: e4bb6a601a62b47527c26cd1ce07c3b1bf71ab2529e20db0d930eb3c0ff8a349f5f0f11883043cc78c81efbd04fa25e9784f495ccb5404742a14c620811a1972
+Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
 Package: com.ndk.signaldots
 Architecture: iphoneos-arm
 Version: 1.0
