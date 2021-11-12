@@ -18,6 +18,44 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.Lightroompre
+Architecture: iphoneos-arm
+Version: v7
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 8576
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.Lightroompre_v7_iphoneos-arm.deb
+Size: 2418164
+MD5sum: 56848e480c176eee8d27d92b15c20f27
+SHA1: aa0f5c8ea5a29dec4bedf81147df01177daf4e4f
+SHA256: b29d27fa6d89163b52d670112b149fde79226d22e18815e79a997e52e17f72ba
+SHA512: ad32b8828a8dfc52e0ea68513f0759dcacc72fb5cd363c54dc311f2f41b5e635a7e7e45ff0c89efeb97183b72fea6bf2590faafd5532deb7afee6cf637bba396
+Description: Lightroom Cao cấp hỗ trợ phiên bản Mới nhất!
+Name: Lightroom Premium
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: Laxus
+
+Package: com.ndk.noscreenshotview
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.noscreenshotview_1.0.1_iphoneos-arm.deb
+Size: 7234
+MD5sum: c0dd9d048a71bb16273af3d6d5021425
+SHA1: c377dabfcfd48b5abd10890706dff8a6b0696df2
+SHA256: 28ae5e81a230db795a9e29219aeafa723c7c9bfa25ae552a5f493f102a9ac4a3
+SHA512: 5ecba5dc1e8b0fc5586f7bfa63dcc9c34d012e919f93fbfaa87203a42b83758a156127cd5a0cc5d7a0dd42a816341f9a8b3128263e503cec51aeba940de4fbfb
+Homepage: http://ndk-jailbreak.github.io/info/noscreenshotview/?p=info
+Description: Tắt xem trước ảnh chụp màn hình
+Name: No ScreenShots view
+Author: iBreak
+Depiction: http://ndk-jailbreak.github.io/info/noscreenshotview/?p=info
+SileoDepiction: http://ndk-jailbreak.github.io/Sileoinfo/noscreenshotview.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
 Package: com.ndk.cydownvn
 Architecture: iphoneos-arm
 Version: 7.1.2
