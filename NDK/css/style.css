@@ -46,7 +46,6 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 400;
-  background-color: #fff;
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
