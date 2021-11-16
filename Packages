@@ -18,6 +18,70 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.generatorautosetter
+Architecture: iphoneos-arm
+Version: 0.5.11
+Section: Tweaks
+Maintainer: KhanhNDK
+Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.7), preferenceloader
+Filename: ./debs/com.ndk.generatorautosetter_0.5.11_iphoneos-arm.deb
+Size: 17820
+MD5sum: 8573155e5c0f2c293b3583560aca5fd9
+SHA1: 3b526af354337c6d949dd56f595095aa0f9f77b6
+SHA256: 0497c8c7ef3eb0c9b4b78ed1826fc807338efb136693e305ccabd703dd3a731d
+SHA512: 5c8d2f78a71c5d9a41798cffe9656d4f1b3a4064f580be09a41ab6201cfa6bbf79f9c1e42c041d8763b22141796d2e00b8047f2d2db2f9f73f6a02ddbd41abf2
+Homepage: https://ndk-jailbreak.github.io/info/generatorautosetter/?p=info
+Description: Tự động setnonce khi JB để hạ cấp iOS!
+Name: Generator Auto Setter
+Author: Halo Michael <yc992147156@me.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/generatorautosetter/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/generatorautosetter.json
+
+Package: com.ndk.lunartimetweak
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.lunartimetweak_1.0_iphoneos-arm.deb
+Size: 12338
+MD5sum: b6a36bba2d4195108e6eb476df094496
+SHA1: d58d24dabeaaa0e0eb3539918cf31c04ff8ac3b7
+SHA256: e60dd45ed243f23243241be91c4173ef5960af085d8415dd226c34fa7c9e0966
+SHA512: 524bf697773eaa700bec91c0d94604e0241a4bd0e3268dc6989adaf31666328b035b3fecadbd758b3f5229e88e3dfef2a769139225a2640a1c9cd65ffbc49408
+Homepage: https://ndk-jailbreak.github.io/info/lunartimetweak/?p=info
+Description: Show LunarCalendar On Default StatusBar!
+Name: LunarTime
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/lunartimetweak/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/lunartimetweak.json
+Author: nqt1195
+
+Package: com.ndk.weathercarrier
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.weathercarrier_1.0_iphoneos-arm.deb
+Size: 10026
+MD5sum: ada64403575a08e8ef5b73c9df6f9b04
+SHA1: 8de2c67901ed68333e9463930916fcaf5264098d
+SHA256: 50f24f3c935b7bcb2987840bf4d07d48649593773ed5d4e571b7381f9ccac960
+SHA512: 40eee4a40e49e047dec1ec6dfa9f75f20e468b5969311f16760c088ae53908f54869aadd1f00f99286c937973328dfdcbad032218e1717175b59cefe582556fd
+Homepage: https://ndk-jailbreak.github.io/info/weathercarrier/?p=info
+Description: Replace Your Carrier With An Emoji Which Represents The Current Weather Condition!
+Name: WeatherCarrier
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Depiction: https://ndk-jailbreak.github.io/info/weathercarrier/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/weathercarrier.json
+Author: nqt1195
+
+
+
 Package: com.ndk.Lightroompre
 Architecture: iphoneos-arm
 Version: v7
