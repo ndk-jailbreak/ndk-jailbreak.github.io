@@ -18,6 +18,441 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.chilaxan.cuboid
+Architecture: iphoneos-arm
+Version: 2.0.0-1
+Section: Tweaks (Nepeta)
+Maintainer: chilaxan & Nepeta
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debs/com.chilaxan.cuboid_2.0.0-1_iphoneos-arm.deb
+Size: 108894
+MD5sum: 204ec216d8f17f4f87f5cb1e23d4953a
+SHA1: 3cf29724e86f2ab33b79f7a9c809c2ab3febaaa7
+SHA256: 116e39ec2dfeb0656a2dfc0229e448f92bb2beda59135c332f15660e23f1ffd9
+SHA512: 797bc92fe380a96f5c7bf050bcd640d464535d4e26b675d47730e1ae3179c0290e9e3fd3f3765157fa198e803c67f0441b1f2c1b3fe47b1debe2f10f20351feb
+Description: Lightweight home screen layout manager.
+Name: Cuboid
+Author: chilaxan & Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.chilaxan.cuboid
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks (Nepeta)
+Maintainer: chilaxan & Nepeta
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debs/com.chilaxan.cuboid_2.0.0_iphoneos-arm.deb
+Size: 108312
+MD5sum: 34eccd4898c15ad94694cc67d13c3fd6
+SHA1: 1d7f98ef3da8bb3335d2f0d1a28a00c1d876c220
+SHA256: 0155e0b4454deed9ca59fa4ce36631fe5dea576b1760cf51725d79f5b9658e6b
+SHA512: 61c31d06b395364a396998f36c5eb772bf2d712af8671e8d63a6908c3cb4c67bed867e85e87ea99f0674aa1d65c2bc1cee786848ff3accc3283bed231bf39a8b
+Description: Lightweight home screen layout manager.
+Name: Cuboid
+Author: chilaxan & Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.chilaxan.cuboid
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks (Nepeta)
+Maintainer: chilaxan & Nepeta
+Installed-Size: 380
+Depends: mobilesubstrate
+Filename: ./debs/com.chilaxan.cuboid_2.0.1_iphoneos-arm.deb
+Size: 111978
+MD5sum: 8b8b2f0fc4376718af4a24b1ab212821
+SHA1: e4c616435eb4cfa1c08a0d065ea272d05fdf0fae
+SHA256: 393e611834ebee27daad7a546cde2d4aabe8957358cfe115be2ec256f92a59ce
+SHA512: d9f56d83cc57c8e077b0ce8525c4326c2c9a280e702ce7a37fd87a6d5c0e43978c0ad1c7d6fcc7a5f306dd9ecd6d4bbc2a00bb29791290088cff8d8e448af509
+Description: Lightweight home screen layout manager.
+Name: Cuboid
+Author: chilaxan & Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.easy-z.ezbatteries
+Architecture: iphoneos-arm
+Version: 2.1.2
+Section: Tweaks (Nepeta)
+Maintainer: Easy-Z & Karimo299
+Installed-Size: 448
+Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
+Filename: ./debs/com.easy-z.ezbatteries_2.1.2_iphoneos-arm.deb
+Size: 216470
+MD5sum: 8d1ecf4489b153197035dcce6cc03109
+SHA1: b014034ae34b26b5e8c42f8bc3483811fcd13b66
+SHA256: ba48bd327b4b19b1127f214afa21276a0efbdfb575093bd2657d3a95cb9e40c2
+SHA512: f9c2270b32f554b97e6981137fab1dae2973ff9fdcce2834bfd603f7825b5a636914a7c8944dccb34cc8198d1f4b2dee04959b2de913b1bfb83c81cec02e0044
+Description: EZBatteries displays your iPhone battery percentage and the battery percentage of any device that you have connected through Bluetooth, by double tapping the status bar. Ex: Air Pods, Apple Watch etc…
+Name: EZBatteries
+Author: Easy-Z & Karimo299
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.easy-z.ezbatteries
+Architecture: iphoneos-arm
+Version: 2.2.0
+Section: Tweaks (Nepeta)
+Maintainer: Easy-Z & Karimo299
+Installed-Size: 440
+Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
+Filename: ./debs/com.easy-z.ezbatteries_2.2.0_iphoneos-arm.deb
+Size: 208956
+MD5sum: 649d57ff73ee440a90e10cee0ccdd716
+SHA1: 29836736c23a5d2e149f3f65ae2264de1a326b0a
+SHA256: c9ca0bcdac5ec9d316358986463ec7aca0ae1f6aea747a6680671973055b04f1
+SHA512: dcb4c781887ba30ae0d6d95718229e76407391601210d7271201d43725f9f17af49c7d48d2a16868b560e05982b35857cdbeff20726206ce42e68a9649872dc7
+Description: EZBatteries displays your iPhone battery percentage and the battery percentage of any device that you have connected through Bluetooth, by double tapping the status bar. Ex: Air Pods, Apple Watch etc…
+Name: EZBatteries
+Author: Easy-Z & Karimo299
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.easy-z.ezbatteries
+Architecture: iphoneos-arm
+Version: 2.2.1
+Section: Tweaks (Nepeta)
+Maintainer: Easy-Z & Karimo299
+Installed-Size: 468
+Depends: mobilesubstrate, net.limneos.libbulletin, preferenceloader, ws.hbang.common
+Filename: ./debs/com.easy-z.ezbatteries_2.2.1_iphoneos-arm.deb
+Size: 206570
+MD5sum: 190d8f63076d08e31ea06118815bd43a
+SHA1: 6f511b705818c11947540f3a73d839c921a9f6ae
+SHA256: 1b0eb7a2d448e7487c7e61887f53f28919b91f2e94a3966118d11e2b840cc794
+SHA512: f8fadec02cb14dffe525e3a170ff36624bcfe3c7a33076689d4689f815d2ab96bf9bee8aa97eb02e8e428990257d9f699dfd0c59646a1e075d6f4c11a505b6e6
+Description: EZBatteries displays your iPhone battery percentage and the battery percentage of any device that you have connected through Bluetooth, by double tapping the status bar. Ex: Air Pods, Apple Watch etc…
+Name: EZBatteries
+Author: Easy-Z & Karimo299
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.ndk.iconrepo
+Architecture: iphoneos-arm
+Version: 2.1
+Essential: yes
+Section: System
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.iconrepo_2.1_iphoneos-arm.deb
+Size: 389236
+MD5sum: 0abf1e1cf1f4b3ec4819648485235a71
+SHA1: 38946b89b8a355fe68f52255b94412ec019da2c1
+SHA256: aaaa34fe59b83fa05c52397cbb73d80b3e4bcd84a985dfa38bd4c19d3e32080f
+SHA512: 52bfd91aef1f70aef6f99e10b9dd25d960287ef096d7b71955a06488a938bad9cefd8a78baa44ba5447bb5b7395424f279800a5d50dc6481a3040e3da3f7f361
+Description: Biểu tượng Cydia cho kho lưu trữ NDK
+Name: Icon Repo
+Author: @ongcenh
+Icon: file:///Applications/Cydia.app/Sections/NDK-Systems.png
+Depiction: https://ndk-jailbreak.github.io/info/Iconrepo
+SileoDepiction: https://ndk-jailbreak.github.io/info/Iconrepo
+
+Package: com.peterdev.betalert
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 12.2)
+Filename: ./debs/com.peterdev.betalert_1.0.1_iphoneos-arm.deb
+Size: 12570
+MD5sum: 91f66b264bc56075cf738ee1885d97aa
+SHA1: 90fa794600ccb3f746bf68a916374a73ca436c4e
+SHA256: 2fdc944c55638fa8b3414f005462b6527456a51e218b705d771d2fcf77a2b89f
+SHA512: ec7e15a85fc8013063338aa7b2c82790e7f582d81f82d5c0051ba60726cf525e1ff3cb924723a95b5aa23f35bd63ab9323b70776cfb84fc5e57f945189fdc9e7
+Description: Have you ever felt pains of iOS beta alert?
+Name: BetAlert
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.peterdev.betalert
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 104
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 12.2)
+Filename: ./debs/com.peterdev.betalert_1.0_iphoneos-arm.deb
+Size: 6990
+MD5sum: 55d1dad053da05536e1f51725d16e55f
+SHA1: e9d9e86b565be4f412ad5f67edf0aa0760f008a4
+SHA256: c524da153d7f77c8849a5283982914c771d8e5453a9bc429e614c561e731947d
+SHA512: 900a84703e550645f9ff13ef46d5280a3311567b2ffd9483dca1c400c624f49906daf828974bb8143078a1172759dd78a2b979e7c7f5d90f857ddc1c8054f379
+Description: Have you ever felt pains of iOS beta alert?
+Name: BetAlert
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.peterdev.musiclocker
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 104
+Depends: mobilesubstrate, me.nepeta.libnepeta
+Filename: ./debs/com.peterdev.musiclocker_1.0_iphoneos-arm.deb
+Size: 6598
+MD5sum: 1d5c094fc6b1731356808e8400061ca8
+SHA1: 2439ad2b2b93b573461a0e14f7bfdbd9cf08046b
+SHA256: d9475db802faa81008c601e7b41c91cbc92c90fc0a2bd7b548c559b3bfaeeaca
+SHA512: 72c8816c4da20c1aa65d2da2f43d732d9d988640fb082e509488a6cce29d50658b4ccc0bfb8875d5f9f3a8582515186f1b48d4dd5d3c6cdb41a286cf1b57dd3f
+Description: Don't disturb me while listening to music.
+Name: MusicLocker
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.peterdev.notchcontrol
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 476
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
+Filename: ./debs/com.peterdev.notchcontrol_1.0.1_iphoneos-arm.deb
+Size: 116604
+MD5sum: 2332e777feadcd5d4e07f6c8ad0acf8f
+SHA1: fdf606dc3288a985196fd1218deee2d4aa8f233e
+SHA256: 76b2b02ef149b1ef7d4ea5ec3630d684a9e2c800d0e4294b569583ad2832c075
+SHA512: f924bcafb68d3fc6a05f756c57e101b8093de15f9b141d266c62d5dfdd67994e172175dc0dbb0c46ce0b68b7cbd977090d825b29c30fab2593556389128e766e
+Description: Control with your Notch!
+Name: NotchControl
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.peterdev.notchcontrol
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 428
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64
+Filename: ./debs/com.peterdev.notchcontrol_1.0_iphoneos-arm.deb
+Size: 98464
+MD5sum: 9392cfd812145085a957ea171c8bdeb6
+SHA1: a9eab9b69bf3a7464304fd241e55e0747ac8404b
+SHA256: 8f95203c98e64273fe9f9f9e5ce612994886fc8a2420895413f74651af0721ae
+SHA512: 45ec88a67d96251d596a730b8406dd4c5db3d88d1ac785b348b8c3f9bf2538c0abbaace4d558d05f4351a1721dfabd9bff860e3de04a14742190b2bbf1fbfd9f
+Description: Expand your Notch!
+Name: NotchControl
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.peterdev.whatabouthis
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 248
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Filename: ./debs/com.peterdev.whatabouthis_1.1.1_iphoneos-arm.deb
+Size: 18586
+MD5sum: 00722e1b4188d73a59cb88a693043492
+SHA1: 84d7a391f1fe6d5fb11f576104e275bcc7e8eacf
+SHA256: 3d703af7a5deb5b075ea38f28b57b1afff6ffb48f69fed43df75d40d158b756e
+SHA512: d544b5a843a2a3638e66601c47ca863e192acdfdc363b3adb46751fe7f3a2e1356b3ac0f9746f2c548af8a1f98ed615bca25b5e2e4c16947833c5d00d34d5ae2
+Description: Brings an iOS 12.2-style About page in the Settings app to older versions.
+Name: WhatAboutThis
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.peterdev.whatabouthis
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Filename: ./debs/com.peterdev.whatabouthis_1.1_iphoneos-arm.deb
+Size: 10692
+MD5sum: 7d14effec82b6f1ee76e13cab2d46fbd
+SHA1: 580f4b3f29b135c9e082de2c47145e64695ed784
+SHA256: ef7630e4d75e7694f475a688974552b16fe1009a8317182aba0e5a4cca77a8cb
+SHA512: 6149a64aedf0b2cb5c511ac8f9a33ad14f09b42c1eec1f7137548f51618fc44918aeea7dfd6d7a3d3cda89c83482993a8d11109a98cc98f42aec288dd83a3165
+Description: Brings iOS 12.2 style About page in the Settings app to older versions.
+Name: WhatAboutThis
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.peterdev.whatabouthis
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 160
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Filename: ./debs/com.peterdev.whatabouthis_1.2.1_iphoneos-arm.deb
+Size: 10038
+MD5sum: b9c282030dda9c26ae8d93de1c1d34f2
+SHA1: 8b80eecb367bcfc937a962034d89a5c5272342a7
+SHA256: add98812d28171f1c386ba6d1e599c2c7ac3055506db7d687a0879719e3df447
+SHA512: 8bf7283c839c68ab0aaa9523bd244e8a54c8ef2ba1223f25b40f16303d5079b55d9c4720ea59c09dd2cd28c91ed4f1685a1d09e83af76b36a45b00c1de6bd92d
+Description: Brings an iOS 12.2-style About page in the Settings app to older versions.
+Name: WhatAboutThis
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: com.peterdev.whatabouthis
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks (Nepeta)
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 112
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Filename: ./debs/com.peterdev.whatabouthis_1.2_iphoneos-arm.deb
+Size: 6136
+MD5sum: 931da621cf05c778e8df884e2300feb3
+SHA1: 1916eb6974207d80b6c9b7a9f0e03b68ea2bbf18
+SHA256: d0e80e6f26dd2d4d06c3f4c466be538d83e62a6e29d60420ab1bb5a3dcf51b1d
+SHA512: 65365990bdacb5db81e822752c0e436c2722be9c0b3368afd46f368e92f41e209274232619f44cafc564c3bb68455f0fc4bb1d1b3dee37af6541e405570be1d5
+Description: Brings an iOS 12.2-style About page in the Settings app to older versions.
+Name: WhatAboutThis
+Author: PeterDev <djperter@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: io.ominousness.ass
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 152
+Filename: ./debs/io.ominousness.ass_1.0.0_iphoneos-arm.deb
+Size: 8984
+MD5sum: f388005482593a16460969f117b8d381
+SHA1: cffcbb29893ff30b881e3469d4d280bd0fcacd73
+SHA256: 2d821f3b24c8986bfdebe72384f577d699b25b10ee58eda4c80507c37309be1b
+SHA512: 1e1899e4f570d2e271fe7a332d67a15842e5c04a5f199402867ec907c524dd8350a72866d994ab3a586e930bab1f4f04e484512725da7bf5ae7c958a68ba9404
+Description: iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Name: AudioSnapshotServer
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: io.ominousness.ass
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 152
+Filename: ./debs/io.ominousness.ass_1.0.1_iphoneos-arm.deb
+Size: 9616
+MD5sum: d7cd45106795c4d6d2fa23efcb9b39ff
+SHA1: 5cff7c15e34c3f7d54b15247660e40259ad804b1
+SHA256: b249ce7e00907ff34303708692667b595a627b7fdb62d7a45e06ea4b0e3b70d4
+SHA512: 005585d405d135dfc603b50a15ec150fa066ba3c39d38d0c7b67d21a0718f126008545cc14e69bbaee898ad9575f78ab7e0f9a162583ae1f9b201ed767e91dc6
+Description: iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Name: AudioSnapshotServer
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: io.ominousness.mitsuhaxi
+Architecture: iphoneos-arm
+Version: 0.5.5
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 644
+Depends: org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta
+Filename: ./debs/io.ominousness.mitsuhaxi_0.5.5_iphoneos-arm.deb
+Size: 119368
+MD5sum: c623886134a2dbbc646ca27cf990ac47
+SHA1: 28a2740b538088163da2e206ece8402fcbadc61c
+SHA256: e9ccae11303e1a829b6d3d1fa11570036194aa0ce1e9dee6a50c98a4f989eb9c
+SHA512: 1f5a9131f095e627f51e3f24bfa52007d12f6ed5d9799358305d5ddd3a758de43e9f3e129e85d03d0b3b8a2b2bf054578b8e39f5d44ea75b8611f99c3fcee99a
+Description: Universal iOS 11 audio visualizer
+Name: MitsuhaXI
+Author: c0ldra1n & Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: io.ominousness.stackxi
+Architecture: iphoneos-arm
+Version: 0.5.5
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 488
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 11.4.1), cy+cpu.arm64
+Conflicts: com.ioscreatix.intelix, com.ioscreatix.intelixbeta
+Filename: ./debs/io.ominousness.stackxi_0.5.5_iphoneos-arm.deb
+Size: 78972
+MD5sum: 9f6dbce492acd7875c06cc0e8ada7572
+SHA1: 3f80099d7764d0c568185c98c209973d0433d8b0
+SHA256: 777c88d74a38392b773c365fa5bd4b984f3ed7fd038015a71e765325135b308f
+SHA512: b037cbfed30d66799084146430d63a565e9ca27fde27d545a241bc39a9958edfb346f5e99b13a2a27cbda8259f63c58989ca2a925b74d1a6c8c6954093ecbc42
+Description: Grouped notifications, iOS 12 style.
+Name: StackXI
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.aesthyrica.twttr
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks (Nepeta)
+Maintainer: Aesthyrica
+Installed-Size: 1212
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Filename: ./debs/me.aesthyrica.twttr_1.0.0_iphoneos-arm.deb
+Size: 287390
+MD5sum: a08f28be70bade58e5ad5370222ad29a
+SHA1: 5c2e559701877fddc98346547cd2f2013da05d69
+SHA256: cf7630b44b331675e879d8f9b2a1aae5faca4a242427df916ab756315ce39361
+SHA512: 3adf124a178cd02f2a7513668f355381f08513e9c37d2b6ef86279fa0c2a757bfc4caa633f99ab947d48d4e1e4e3a20d193d88e9674e15cb158cc332b72481f6
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application
+Name: twttr
+Author: Aesthyrica
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.aesthyrica.twttr
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks (Nepeta)
+Maintainer: Aesthyrica
+Installed-Size: 1388
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Filename: ./debs/me.aesthyrica.twttr_1.0.1_iphoneos-arm.deb
+Size: 330122
+MD5sum: e8e07bb0009c4d1ee23804dcd04186f1
+SHA1: 78f2d893969b17894f9530f55aba226f06678e93
+SHA256: 7c9ed710b4ce9dc3e5a06638fafd18ac2bffb7a412158649395dd87bcdf357aa
+SHA512: 31cae420e22d811ee893f69264456f4e7358be4ec38a24d067e344535d2b58581e158fdac0f29269d9c6a0b7af4b817dc0e0d7a905f39b9c8276baee954fdb61
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application
+Name: twttr
+Author: Aesthyrica
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.aesthyrica.twttr
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks (Nepeta)
+Maintainer: Aesthyrica
+Installed-Size: 1420
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Filename: ./debs/me.aesthyrica.twttr_1.0.2_iphoneos-arm.deb
+Size: 337652
+MD5sum: 715599c3b1a1d239d408ca833ce53ef9
+SHA1: ede11c977c0dee2155ee02414ea0be4b89d176fc
+SHA256: 4e2e189f4dc31e8245f4dc2c995bec311a462dbaf645abe4e9f2b32867296ac7
+SHA512: 5245d1315c40c98852b2824cad4e024cf05c873c4923c7afc053e3610e15f1b1c46f4c7cb348569be3a32756770ed27d5b03acafa77de81609d0a9fdbdc3a8fd
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application
+Name: twttr
+Author: Aesthyrica
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.aesthyrica.twttr
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks (Nepeta)
+Maintainer: Aesthyrica
+Installed-Size: 1468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker, com.creaturecoding.libcspreferences, firmware (>= 11.0)
+Filename: ./debs/me.aesthyrica.twttr_1.0.3_iphoneos-arm.deb
+Size: 347812
+MD5sum: a8361975e420d9eb5d17bb5f3d0fba06
+SHA1: aa41be6b4ce028af7f43c66e7943d435a7c0f007
+SHA256: 802e5d02730f1d57ca92bb5e30428eea99868e8cfc5be69f0026de0b1553248d
+SHA512: b5c997d15306dcea3d2c78a371f87de22c3ae4301490c96725e236d03d680bdc6751968ec351a6d43da3ca22ef823c24e9fc92d3f21cce3b5474796d6be75fa4
+Description: Introducing The Most Advanced Colour Tweak For The Twitter Application
+Name: twttr
+Author: Aesthyrica
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+
+
 Package: com.ndk.generatorautosetter
 Architecture: iphoneos-arm
 Version: 0.5.11
