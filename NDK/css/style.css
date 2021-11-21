@@ -49,10 +49,10 @@ html, body {
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
-  background: linear-gradient(-45deg, #ffffff, #111111);
+  background: linear-gradient(240deg, #1b1b1b, #000000, #1a1a1a, #000000, #1f1f1f, #2a2b2a, #000000, #1a1a1a, #000000, #1f1f1f, #1b1b1b, #000000, #2a2b2a);
   background-size: 400% 400%;
-  animation: gradient 10s ease infinite;
-  height: 100vh;
+  -webkit-animation: gradient 15s ease infinite;
+  animation: gradient 15s ease infinite;
 }
 
 @keyframes gradient {
