@@ -18,6 +18,809 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: me.nepeta.2dock
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/me.nepeta.2dock_0.1.0_iphoneos-arm.deb
+Size: 4926
+MD5sum: a3808b04425efd0394b46367300a6dcb
+SHA1: 3565ca7ddd33654c8bd74a815f205c58efbb08c2
+SHA256: d565bb297f8727a2da5948466dd4fa77d7d5ea202f3f3b1a13827512a27cf4ec
+SHA512: 69c92e2408a86d8c4b1543abc1f4075b2d3af07c53bf904eb4afa700c9dc5c4e8ae17a53ecadb77f12e13410094f2e655e0684b934ae60fa72a7d0c63820bbd2
+Description: For when 1 dock row is not enough...
+Name: 2dock
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.2x2
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/me.nepeta.2x2_0.1.0_iphoneos-arm.deb
+Size: 5322
+MD5sum: bf8647501bf95f38c3e93f9cafaaf3da
+SHA1: 84dbe7a2672aa2ea8d6e99d383f5f5f4d8d2178b
+SHA256: cc11544f5721d835d5c9b814adc1f39e5ea884d3d956651c8fa1280cb35d1ffa
+SHA512: 7bf5762cb17e0c959792d984d2b95c6ae1b08d57ccb2ca61fadda726a900954ec327069417cd8281cb626f5f27cda79f97cf640488d1d34d3b62f1a3c2b5806c
+Description: 2x2 folderss
+Name: 2x2
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.2x2
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/me.nepeta.2x2_0.1.1_iphoneos-arm.deb
+Size: 5324
+MD5sum: d2ecf30dbcf0ff8051ffca05f1bdebc0
+SHA1: 5f5f12416f157c36d59cb8b04229a0947f80ce9d
+SHA256: ed8c0c990445450e9f034aa0d45a222b6c49d51b94e2eb6da77cd0b12e8bd245
+SHA512: 494a4c3388c05b5e7e607fe010716536c595ffba8127f39e0af03937018b5497ab4a3d303a8fcfd515d33b1f217560b3c9a0a5bac55edd391cd738c32c93984c
+Description: 2x2 folders
+Name: 2x2
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.astolfo
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 984
+Depends: mobilesubstrate
+Conflicts: me.nepeta.haisiri
+Filename: ./debs/me.nepeta.astolfo_0.1.0_iphoneos-arm.deb
+Size: 932260
+MD5sum: 00a7db29f94fddd266d539fb25bba694
+SHA1: 44344912970ab210577b47c70175bbb2eda9259b
+SHA256: bbab72e2006f3a2b449efcc17cf69c0a349b47d4e08dced00580a65ff4c327e2
+SHA512: 3b7f9cbf36ba3a5dd46c74f440ac379226c55ecbfb5e9c9fc2358ff2598aa0fdaee0cc03d594b0dfbf5c6aeb3bcec4ff1301c1303caeab16e4f57de34683658a
+Description: Astolfo Siri
+Name: Astolfo
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.astolfo
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 984
+Depends: mobilesubstrate
+Conflicts: me.nepeta.haisiri
+Filename: ./debs/me.nepeta.astolfo_0.1.1_iphoneos-arm.deb
+Size: 932400
+MD5sum: ca2aaf5b7727b67882218fa00a6de38d
+SHA1: 5d0749d987a882bb26b66ff34f7f6054f6d9bfec
+SHA256: 98196549dd15061111ab13d10afe0c2e24628be56c799faacd43a7404bb40e58
+SHA512: e561219c27a6624c1305b51aeab829e46583ee232f10d862530b709031bf730f5fb1761252612a43bfea78f7cbf25080cf2038deccf016d6279d2b24c6cda502
+Description: Astolfo Siri
+Name: Astolfo
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.astolfo
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 1048
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: me.nepeta.haisiri
+Filename: ./debs/me.nepeta.astolfo_0.1.2_iphoneos-arm.deb
+Size: 935216
+MD5sum: 7dcd98ad37eecb4199768056b9cc4a68
+SHA1: b9870453ef0664c059ebf1b3a84e5f5156244a48
+SHA256: 9e8ed3eb2f01bf4401b42951ea30561d8df5d21062b435440f5e1f1cbe8a4e2d
+SHA512: 4fb93469ad419fd2b8ae98ca1c23c67572d824c438dc976ac18af8b7291865ae1e366d32820fe1d4c18f159d59f25d2742fab31b7813774f58151a74050296d0
+Description: Astolfo Siri
+Name: Astolfo
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi
+Filename: ./debs/me.nepeta.axon_0.1.0_iphoneos-arm.deb
+Size: 143466
+MD5sum: 031926747ee504a8a1e2da9212075fd9
+SHA1: 180bd01c90fbddffa38838a0599f2e39f293354c
+SHA256: a5d6b20d87c5688e6bf020abfe18d10ff9688a2517514c1478b2631995580762
+SHA512: 88ed282b5e428a50ca0b2938d501fffdb5c5e5c816856c265c12d8b4abc9fa6de78e1bf0a2eb649d6ffcc6c15d7c81fb235f835a75aa033f49a176ec7d988846
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi
+Filename: ./debs/me.nepeta.axon_0.1.1_iphoneos-arm.deb
+Size: 142278
+MD5sum: 71c2ef550dfbf7ee046be0c1846d9baa
+SHA1: 6ed7ecb1534cbb5c849d16582e1e5c6b7a607eda
+SHA256: 7be94f8a0af0fee4f23ddbb35d4ee8893956574e42aaca3c9e8aac6bdfea6a0d
+SHA512: f1ed3b256c077d2f8f4cf76562dfec37f8304073265a4a3e7d4136f987a53fd387f3ffc3a1abaa6b7bf16c6136f9a769ebde817f6576e0c46fea6662edae7edd
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10
+Filename: ./debs/me.nepeta.axon_0.1.2_iphoneos-arm.deb
+Size: 144008
+MD5sum: 73ab6dbb4f3ae5673e3f0bbab84ca1a3
+SHA1: fbc8e8675922e395e5b95fd78174ed6dbb294ed6
+SHA256: 636e3ca57dbee2d79f4978625db159b5d89cd37f00a9e091908d376e97a55fb7
+SHA512: 0273f6013aef81a697c97fe18259daaf6a943f3b2651aa4f35211faca8db0e234e7260f5c0d1d70fa0f6bd4b4a3e0eef4034adac9623b37d029bcc9f31b6cd39
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
+Filename: ./debs/me.nepeta.axon_0.1.3_iphoneos-arm.deb
+Size: 145096
+MD5sum: 03646393a222116b3bdf5d94f4388892
+SHA1: d0465aa59d966ee263200732c2f098af674de2bc
+SHA256: 12559308486ea40b4cbc07bd6b9659e0ea170386fb5d1305e597a0b86a7db398
+SHA512: e9921503eed7349a08ac45212c3aef446e519493c5cad5811f35b4247b54e7f8ed4a5c656f8875929c793d464e1011e1b009fdea671bd9736fdb34ab6a68cc70
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
+Filename: ./debs/me.nepeta.axon_0.1.4_iphoneos-arm.deb
+Size: 145544
+MD5sum: 7b8c2df60bcaa748a509835bea09e71a
+SHA1: 47412b6785573805c6383a2509f017910b58c96d
+SHA256: e020615b3d837264e91f2ac70d3b211f5b9644735512191af7364c690ddc1bc1
+SHA512: dcc5bc2830c1df9644e8d242e1b80f7007688bdffc7fdb9a778cb8db478836cd0665676815438d65842bf59f7e5c16c24b439f7c4b6402f58412592894594f53
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5-1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
+Filename: ./debs/me.nepeta.axon_0.1.5-1_iphoneos-arm.deb
+Size: 149148
+MD5sum: 22c3f74d7b80bbbb01c47c7c090e9d2a
+SHA1: 2b3d770f816042216569fc5ec365b087c5186234
+SHA256: a446757bcc5f97a939b4bd3f3c4e1d998dd1a66a85bc0736b75635132d89cbd4
+SHA512: 4c64d33d06a2f1b66d5f0eedc5281b42dcd00c96b603da002cad65939c78add50b44600204ee1ec426386ad16cb90878e126620e3805a7e2e0b5aee06ee65cec
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5-2
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.5-2_iphoneos-arm.deb
+Size: 149518
+MD5sum: 709c1efb73e252b888b247780cabba68
+SHA1: 8d1973978e03b13f90fd05350be0b5761918907a
+SHA256: b43cffd6f9113557175e27231e174546d13962f0f7b914870f0328ac4288ee5b
+SHA512: dcd231b88300aa0402ab125a048d91b0858610d810036ad4a5bf72f4247d0f31e1d9eec7decb4bea2c05a416ed7483e7ef22b18f50eb7fb71a0d7bf65284a5d7
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5-3
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.5-3_iphoneos-arm.deb
+Size: 149536
+MD5sum: 11c7c9f2de25fb8d20d83bf691895199
+SHA1: 8840093dfd9d3aa09e814f21614f53145f7b600f
+SHA256: 2b1cbd14eb72429d207ed123f4eefcb700d1762eac436b476aef74e457cd3d61
+SHA512: 8dd7570cc0be7996a099dee0253e5715517595fd800de9d1072fb22abb574ba958be6668990d1d9250ad49acd316864875771525f5d7778267a7d8b3507179e4
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5-4
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.5-4_iphoneos-arm.deb
+Size: 149328
+MD5sum: 88dd50a4cf7f67e418b0d0ceb61ada3d
+SHA1: cfc8ffeee85bb9ae28a28a0927fd3b5c9d2675ce
+SHA256: 2f2d9d41891a934179926225f92b4e7c9574f480d3c75646bc0708c9547d5859
+SHA512: ebd00cb75957cfe5df1a30b0bab734f87ab461ce1f4cd6b95462c3d462024b5eacb3c8f53d667ecbc7702d768d3c098e9d8789c2d556b2a32b832384bb902595
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 468
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: com.spark.hyperion, io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana
+Filename: ./debs/me.nepeta.axon_0.1.5_iphoneos-arm.deb
+Size: 148886
+MD5sum: dd3187af1adc01a592962a48a6d2efc0
+SHA1: 5410508e381a3f5ab8652cf1ee963868c1c06740
+SHA256: 27339c825cf67d530821b50d6079753275ef2e8d17c113935d9a3dacc359c93c
+SHA512: f92c58ed15ba705804de89323ebed976fc283fca6554a2205e3a393396c817f8d50698b50e9da60daebf4bf9b97f4f86ee738ec93192acca0bb44f7e2adf088c
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.6-1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.6-1_iphoneos-arm.deb
+Size: 156064
+MD5sum: 1e5cfbd1ba2e723d8894cd9b3c86787c
+SHA1: e23ffe05b09cb9ed6d4ebcba4c66f09ec9c4058c
+SHA256: 1ee7fdd3b51f4d8a7cb7768f9d2fbdd47c6ddca0bc62f96268b549200ff5871a
+SHA512: e5325b8ad336117b462c1a157f525e984310994eed2c5ed9b4d56bab9407ca6b073ae106015e4eff8e9d2d99865e2432691de9c35ab43dc201ce103483835641
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.6
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ladshyam.dots, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.6_iphoneos-arm.deb
+Size: 156080
+MD5sum: 8586d3605641f0a6681e43df6f4732bb
+SHA1: c9573b0543292aca64530fa94b6dd7e25c74c529
+SHA256: ddf6f1ad5584a6b7721890aeb70419aefc7a92129d7959160cd76a4d855bb2b2
+SHA512: d1ad94202302afeae860324c3c419be2d862d145b4384800afaa992766ae3919a23a9cb1b5116a5a152143e4ca08077e81656c5356023851818715deee2ced14
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.7-1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 504
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.7-1_iphoneos-arm.deb
+Size: 158176
+MD5sum: e1be16f5b58643f60e9754d544f15e51
+SHA1: 99c1794eb1c4fe1964df802b81fb8725d25e233c
+SHA256: fcdd830ecfa1030bfd1489697597c9255a471a8b0b3ddff2676dc6c78b0ebb00
+SHA512: c5517b563115e2af91e591384a730dd8bcd0d549a392e5b3794b31552a4343eafd64e9cb1281ca2b8f0db855e6630e64f310e599fb26793291c3cd05b3952129
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.7-2
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 504
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.7-2_iphoneos-arm.deb
+Size: 159492
+MD5sum: 3fb3f0a9b2e4fb3ccd395c56fbae61a3
+SHA1: 8faa63339d68730b2ffd6112e743c1f64199ad75
+SHA256: 4d6333e0b79999261549b1fa318753d1617f27de4b5701346614e93a12da40a3
+SHA512: eae82f5819c39f2a02800ad1c65abcb63da39c64bed5a770598dde181dacef6ed58b30bb978f28be19db1366f801a67788533645473497cddb41dcc5c235e7f2
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.7
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 504
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.7_iphoneos-arm.deb
+Size: 158196
+MD5sum: 852dbcb91b5b6a21fe3792994df00dc9
+SHA1: f2c472362c2711c3b63a19228bb88b3b5f850add
+SHA256: 179c052e3148bb1a32d9963bd97929acb032474238cef6f83583218bb7a27e78
+SHA512: 725dfaf43e56f5b37d8bd6ffcb7f86a719133b73787eb0300990146eda4ba62b7caaf9a5661085263e9451053b8b24dbeba93d620d41b942c9025334736603da
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.8-1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.8-1_iphoneos-arm.deb
+Size: 164456
+MD5sum: b08bc003ad9f3791c218aa9a5d124584
+SHA1: 862c575743bdf00b654a27741e8280f1011aef6a
+SHA256: 85bea8f98a64f69c7bba87c84e5ea11ba2fe0968073407b31e8759262b7fe201
+SHA512: aee50ecf017f1fde98a530979658e7b33a280f7e54d671b6a4168359c9d0c9f946a2dcc71d5e6978ca8527903d7024f560b00e7b11044da43ab42397d16cb74d
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.8-2
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.8-2_iphoneos-arm.deb
+Size: 164546
+MD5sum: e1b743fa91b7b67771a6a81c21c0a99c
+SHA1: e285181ffa7ba2d453096bcf3c4dfeade168d550
+SHA256: f89bd1602959890c3af6c274970f797f89c69df17aea863c69fc9f76bb6f2989
+SHA512: 0cc6f7a7b914293d53e044cde078c45028abfe1092aca1daecb56dfb044f988108c6485e5c2760d01518cc841a3bcdced0fca0b6f9067c8e7e0d58f0e35ba5ef
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.8
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 500
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.8_iphoneos-arm.deb
+Size: 164440
+MD5sum: 72020481567c01e8eb73ab7a1d6b84d6
+SHA1: 80ba4c1a9160a1b76203df8b8b7f05f50679d4e6
+SHA256: 4543eaadc0b0358193c19bcfd205b96f626742eae4740ebe10cdcd7456d0c26e
+SHA512: 7cb58eacc5ca55a0692eb8d062020b9a1348c6a1d31e7ed5e06c43ea046115c98ce05f3b230e907066f8538fb06a5390fa0428b5215c04e96ff1dcae33427c9f
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.axon
+Architecture: iphoneos-arm
+Version: 0.1.9
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 508
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_0.1.9_iphoneos-arm.deb
+Size: 168726
+MD5sum: c0e4277159abe0bc928e45d67352be4d
+SHA1: 98467bf6ba9c3afc450ecf08571eb51f8e033063
+SHA256: 03946444444331a2c7780a8641afaeac11bf9856b15aa9b10387aef1b69b6eba
+SHA512: e1ac8ecbfde27eba1b8089650e2f3422896bccd32d773ebef9a3935ad6401961b3ce0f0c0789903be6d77c8c52a55148f7296ff37d1b767e4adc062cd9a5bc02
+Description: Priority Hub for iOS 11 and 12
+Name: Axon
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.begonecia-10
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, ws.hbang.common (>= 1.11), firmware (>= 9.0), firmware (<= 10.3.3), applist
+Conflicts: me.nepeta.begonecia-11
+Filename: ./debs/me.nepeta.begonecia-10_0.2.1_iphoneos-arm.deb
+Size: 66054
+MD5sum: f59b5956db7d37a5f2d63cb10380116e
+SHA1: 7b689b268060f9b3ffa2cb06059b537b84a2699b
+SHA256: 73cfb6d7357b26c455ef47e7e8037875738b20483398f51ed071a997b7344d40
+SHA512: 20ba6b3dd70fdb85b3ec4cd1c9d6d092729caa356f739cbb27626c3b3e368d9b39e3d731a37c6576a88860f0b133020d1b72c9352e490eb8073551f228273694
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 10 and 9)
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.begonecia-11
+Architecture: iphoneos-arm
+Version: 0.2.1-1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 604
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debs/me.nepeta.begonecia-11_0.2.1-1_iphoneos-arm.deb
+Size: 82836
+MD5sum: 56eee2e6d87082aab43243881ead96a6
+SHA1: 3047b6b44b1fdf5b82624156d9f36a7b1d31a7d0
+SHA256: c2b980d99301b9561596f9e2408ac820ae098c1eca76af7d7d86d382d035e8f7
+SHA512: a02dab6bf87e60214268a67e8e641d70200b7938695a0a09a6c2dc78a7dc256d36111d8dffff7a0c625c7d2f796bfba289d43fd93da46589873d14b3b89fa082
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 11 and 12)
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.begonecia-11
+Architecture: iphoneos-arm
+Version: 0.2.1-2
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 604
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debs/me.nepeta.begonecia-11_0.2.1-2_iphoneos-arm.deb
+Size: 82634
+MD5sum: 1984300566e978a1d6d8a7ff3bdc337a
+SHA1: 463d34b6027b4899e811f3c0a19de4de9751901c
+SHA256: feec66981a1da3aa8536eb06a6f99688d0633e76451c4c07178fd52dfa4c80d2
+SHA512: 7db8bc3a1d8e5ecd21b9aad6140210362b64d4a164312271df0471982c21872d724777b32060fd191b40082b23a3ae80d53c5fe7e0261cf94138d151d04c119c
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 11 and 12)
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.begonecia-11
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 412
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 12.4.1), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debs/me.nepeta.begonecia-11_0.2.1_iphoneos-arm.deb
+Size: 70934
+MD5sum: 15c24ab9ed5f17ef882725fd4613c66a
+SHA1: ce0810fc85833f5792739d8be5515dda59b5e025
+SHA256: 49057a27173e5f4f159e63ee241bff6ddec37da359129899421487da12fd8f23
+SHA512: de9bd9b3871c8f682b76a96fbc7c4e5d1a6091a8eb77101eee57f64dbbe409c3bb7b1aa2cb26a49f1fec0263dd964d33d252264b6ab4b7b40e00d7765a71e432
+Description: CC toggle to disable microphone, camera and GPS.
+Name: BegoneCIA (iOS 11 and 12)
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.brokenhud
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/me.nepeta.brokenhud_0.1.0_iphoneos-arm.deb
+Size: 5164
+MD5sum: ed0b32316f1866661a3b56898f9ee968
+SHA1: f0049ef8be067bc693b7fef4da0945eedaff0236
+SHA256: 67d869b8e7ca2598e98adc7eb598ed9ce2e8e54b0fda9973e7845d1f664f6ee2
+SHA512: 289429169172caa31b4164fddeec7b55528527f46e41034ea8edb8de9436f66d96df1919607b1cc9081de85cddad4d0dcc5f7756b1dd8ca3c1798f83f8747972
+Description: Makes volume HUD look broken on purpose.
+Name: BrokenHUD
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.brokenhud
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/me.nepeta.brokenhud_0.1.1_iphoneos-arm.deb
+Size: 9274
+MD5sum: 1e0b291bb2702c02dee670a0e0426284
+SHA1: 494fbd406ade0387e263434755c1cec79d6e5f46
+SHA256: 9e11ec45c490cb1da6b78b7b2d6c4f1ab62ecf4fe6971faaa72c76485310a330
+SHA512: 777aef9c53471c2f6adbd19b74588a40cf6d3bcf287e3d90b50a4cf7ed569573e8e5710ca099d7cd945c72810605bb88d66edeb666d2f5cd870227edb008246e
+Description: Makes volume HUD look broken on purpose.
+Name: BrokenHUD
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/me.nepeta.copypasta_0.1.0_iphoneos-arm.deb
+Size: 77956
+MD5sum: 49ef7167202a637284f1017c1b7ed754
+SHA1: ddad96ae83d2ee2495b1093da84cd65b699ecbf4
+SHA256: f12259810043ef800c71d8cce7803b54916f07b13448dbe044ef28692eeeeb2e
+SHA512: 2b40fffd40c96e062f50a624355e678d686430998397bdff21d03a8f3f6e5c6cbe113945ce7884835e8881436a379aac228e968cc8b0f7e052546b46077df6fd
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/me.nepeta.copypasta_0.1.1_iphoneos-arm.deb
+Size: 78058
+MD5sum: 3361a88ebde8adde27e34adc19f457a7
+SHA1: 638b4868427aab1587b23fa1dadb62c790342085
+SHA256: 39eb4f27571915bf1cdd8da68d2a7d775c9007c460ce23bf77b2c1d2b2231756
+SHA512: f8f71026070eb73f60b5fc105d7c288c38396567a5d1c92efaf912dc77c9d4b2f935c081f42d59336de77cc9f011ab1ae9d18f5ec0141204a13b3277d012fa0d
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 380
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/me.nepeta.copypasta_0.1.2_iphoneos-arm.deb
+Size: 79384
+MD5sum: f1f80b021a48e0f3a387a15d3b14572c
+SHA1: 078b37e2e5601b7752d4b0d1bf502bfc3b8b7992
+SHA256: ddc222e8e5005444a72267e0ee8c08670a8eb69eafb9bd034c07d8d7c5b1df4f
+SHA512: 2da7295b5b8ab081ea39d61444a78828e4df6b228200e51635444c880e2b925f816c8bac9502e58dd28aaaae223dbd861bc988be86c064e7a6b0ac6febf3a1bb
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 380
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/me.nepeta.copypasta_0.1.3_iphoneos-arm.deb
+Size: 79438
+MD5sum: d5da92f1d2c6f09589cdb9124ec24b62
+SHA1: 5c75bdb0fb6e4d76a13e6399b4bb322be802d8cb
+SHA256: d42a4e116a436c21a394185274ae9fea9fd6ebe8af0a928997e1948ad13050ef
+SHA512: 5156a0f03e87b8455b1cc9218d83716bf932f3ced75b55f960241528dca13e47214ffac1bee811635dea8df700968b844da5751e56314fe0795ddebe12401449
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.copypasta
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 376
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/me.nepeta.copypasta_0.1.4_iphoneos-arm.deb
+Size: 77346
+MD5sum: b1dbb7eba681d40cdd5dd88411d6f9c9
+SHA1: 3f652f24e878a88cc1690f0b3d0f2eb60c09e479
+SHA256: 85672b2e74dcfe5a082fb9236d0ea3cbfba80c27f0b4d6f5d56be8eedddb5477
+SHA512: 355074c6aab7f1de9e8986ec0b3b98f08590488e8436996de52d5a698b0843316ccf39f8136a3b06099852647198fe36b871c900b9e655d1e548fd6b18ee9613
+Description: Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.docky
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta <ominousness@protonmail.com>
+Installed-Size: 344
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), me.nepeta.iconstate
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./debs/me.nepeta.docky_0.1.0_iphoneos-arm.deb
+Size: 55338
+MD5sum: fe6d9e5ccc367fdcc2c2be8356ebe4e0
+SHA1: cba8feda480a3efd95f4887bdc61a885120cc241
+SHA256: cb17a567b28dfbbb28b269e1d8873c212c3920a49966484d4758587279098590
+SHA512: 9760b11c0e989e1b780de28b241729bf8aab2c3249ff33e36c605b47aa2a62ffa6cfdb4f746868b33ade5cb54721e3169741fb9a59b511afcf4d95d1ab2e36e6
+Description: Dock customizer
+Name: Docky
+Author: Nepeta <ominousness@protonmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/me.nepeta.exo_0.1.0_iphoneos-arm.deb
+Size: 17244
+MD5sum: 93347807ce680f83392f884e97424fc4
+SHA1: 27cf08e142705517070637e7388591762fadf543
+SHA256: 86ed49e364ad1f42d99f9acf4f328df159b5f008700b71d258708b6d411a6bd6
+SHA512: d6a7a6cd2e816448ed7a9dede124982a86f82173ef2a2e80f564fc3472b2df93470f02b9f583b927c45ecbb7af8797d27359292d09439b3ee0b634363add15b1
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 316
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.nepeta.exo_0.1.1_iphoneos-arm.deb
+Size: 37546
+MD5sum: 7bf3b4949a6847d8c71fa161e2243764
+SHA1: d53dbe5278178ac827aff06461bda40a8fad2ba6
+SHA256: 4bd4e8443213752bdecddd71a7b33f2d90074eb6f89a10e42c3d0d3501d6e804
+SHA512: 74cbb291e6b2290fcaab934f89f2e82b41dc3755c0beb5b454295460e4acedddf1863c4ddc249b3b62865d45f78de3b264cc4bb41ed14d254af6fb7d30dd15a5
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.nepeta.exo_0.1.2_iphoneos-arm.deb
+Size: 39172
+MD5sum: 99ff176463664a76ad868c8c26802b24
+SHA1: 2dbdb455f42f86769db8bf0aa18d3452347f6b91
+SHA256: d48282eef2051bccbfdf9da6cd553676e142af98d034f87b0b3db5650e75730a
+SHA512: ebc23a8b27ddf365412f12681a506fc333a09df0d7dcdb15effebdcdc9a59c1f556fb8a3d714b7e527dff676da2ebdef65022cf3d0a802e0c34e6a793354839b
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.nepeta.exo_0.1.3_iphoneos-arm.deb
+Size: 46096
+MD5sum: 133b613231cb9de8245e1776b723be67
+SHA1: 2d37bab376d4fd0c0b9c3105e64933b77aae22a7
+SHA256: de07429a447928b652290e07200c5daf773811d63a887f3d619ab2b4d4e38b7b
+SHA512: 58d50810ea37831c009595fd35e4e4affb562ade4f1b319e22e54345849d0ff5144a00685200eb1885024dbc6d28037d03ecb830792463923a832e51991c1599
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 352
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.nepeta.exo_0.1.4_iphoneos-arm.deb
+Size: 57544
+MD5sum: 120514fff7833ee802bc6fc0b4003445
+SHA1: 38e1c0e982c9e72965b6a97e2482162e97ae2a7c
+SHA256: 6872e95002671a3141d14e856b81bfe3ea32e479f16e8d6b0baa5f96cb2edd4a
+SHA512: 828e004985aa2178d41db63b9cb4216dcde5adced3930dcdf6bdd848a2e311c802b6c8572352d2f663137eedb6405008e1d1d482b4c18332928a45a8b81c898e
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+Package: me.nepeta.exo
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks (Nepeta)
+Maintainer: Nepeta
+Installed-Size: 352
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/me.nepeta.exo_0.1.5_iphoneos-arm.deb
+Size: 57558
+MD5sum: a20ee6a48618cb419b9c4c00b64aa5be
+SHA1: 1a029fc2e0f9d911f331b302fdf8a36e2f4763c2
+SHA256: eff60ceedb757f05a6533f8641e6df310ea9ab152369b0868ac1278eec5c100c
+SHA512: d5271d6dce18dfcd1b7ec60ecd1d53b69b222c1cb8739b164e75b65ab58aabe17ca53e26be540974ab806ab53e56515ff925423aa7dbe680f3240b6425b887ae
+Description: Information provider for WKWebView-based widgets.
+Name: Exo (Beta)
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Nepeta-Tweaks.png
+
+
+
 Package: com.chilaxan.cuboid
 Architecture: iphoneos-arm
 Version: 2.0.0-1
