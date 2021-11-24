@@ -18,6 +18,46 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.futura
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fonts
+Maintainer: KhanhNDK
+Filename: ./debs/com.ndk.futura_1.0_iphoneos-arm.deb
+Size: 8446900
+MD5sum: 3d3036eca20191011ffba0ba0545d1a8
+SHA1: 6e7b3b3d6a90354542b0866f84066c2e13adfb49
+SHA256: bf0bb6ec8cf614926268b283a33cd440f9b296ce092b24ca772d9c35fd0d1c0a
+SHA512: bfc3bc6164f0691474ac11b15efb174c29f19f03184bf5d59ae75a5f4c256a29496d733c7c8684d750687e9f8da3e0db59b52d488238250a7a5ff691b2c98216
+Homepage: https://ndk-jailbreak.github.io/info/Futura/?p=info
+Description: Font Futura
+Name: Futura (iOS 12)
+Author: NDK
+Depiction: https://ndk-jailbreak.github.io/info/Futura/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/Futura.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Font.png
+
+Package: com.ndk.weatherls
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.weatherls_1.0_iphoneos-arm.deb
+Size: 26180
+MD5sum: d11b21a0a0732b3af45152ddf740a98c
+SHA1: a44041db5b899fdd21e214ac714d135024eb9d6e
+SHA256: fa9035fa4603d9da81bf2851be66fdceb59603a637ad87ecbb867820e2204241
+SHA512: 71add76dc978e92a59e6f53036ede67a18571ef18299b1a985fa75006cea0f777ea3c410e43afa8624571b5648a99c064f1c9099a183e9286a379f55a3a37323
+Homepage: https://ndk-jailbreak.github.io/info/weatherls/?p=info
+Description: Add Weather & Lunar Calendar To Your LockScreen!
+Name: WeatherLS
+Depiction: https://ndk-jailbreak.github.io/info/weatherls/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/weatherls.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: nqt1195
+
 Package: me.nepeta.2dock
 Architecture: iphoneos-arm
 Version: 0.1.0
