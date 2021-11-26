@@ -18,6 +18,28 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.sh4dow
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 1356
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.peterdev.libpddokdo, com.opa334.altlist
+Conflicts: com.sugiuta.sh4dow
+Filename: ./debs/com.ndk.sh4dow_1.0.3_iphoneos-arm.deb
+Size: 418774
+MD5sum: 6194efd8b1dff36a12e33b0434afafc3
+SHA1: b84427fcbf1c827b78ce9aec45e3599634ffb6fc
+SHA256: 8901f3f73f93c8bf18d988c7cdd08e004a1b59b2702954e7d46f0ff31d252212
+SHA512: 3bf94dd6d34b84ef1c86bb6055c1c605cf8763c9e6f65d88b5bcf103f4ff5ed1203c983f783f435d8cfee5470e57e90459e075749f0cc92a1bec0602b80f221b
+Homepage: https://ndk-jailbreak.github.io/info/sh4dow/?p=info
+Description: Thiết kế màn hình khoá hiện đại hơn.
+Name: Sh4dow
+Author: sugiuta
+Depiction: https://ndk-jailbreak.github.io/info/sh4dow/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/sh4dow.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
 Package: com.ndk.weatherls
 Architecture: iphoneos-arm
 Version: 1.1
