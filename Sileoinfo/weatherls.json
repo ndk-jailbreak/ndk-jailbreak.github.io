@@ -72,12 +72,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0",
+          "text": "1.1",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "13.0 - 13.7",
+          "text": "12.0 - 13.7",
           "title": "Hỗ trợ"
         },
         {
@@ -128,7 +128,18 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
+          "markdown": "<ul>\n<li>Phát hành lần đầu.</li>\n</ul>",
+          "useRawFormat": true
+        },
+                {
+          "class": "DepictionSubheaderView",
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Hỗ trợ thêm iOS 12.</li>\n</ul>",
           "useRawFormat": true
         }
       ]
