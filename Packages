@@ -18,6 +18,27 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.weatherls
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.weatherls_1.1_iphoneos-arm.deb
+Size: 34144
+MD5sum: af3082c9e6f83f883b94144452b4c139
+SHA1: 366301561ec1d2ae95638d0848de051c084ff022
+SHA256: bd90a3859d93c3b5635e83bd15d0f95908665d6f715fa96c65ed66295d270dff
+SHA512: 866c5e348fc72779c5ca2c1f812f50c74b680ceb3136e4a3d3e982211e8b11538dba1ee240b900c7f753f5f9637c96c41867ce58d95b29b57e331a2cd5a95721
+Homepage: https://ndk-jailbreak.github.io/info/weatherls/?p=info
+Description: Add Weather & Lunar Calendar To Your LockScreen!
+Name: WeatherLS
+Depiction: https://ndk-jailbreak.github.io/info/weatherls/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/weatherls.json
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+Author: nqt1195
+
 Package: com.ndk.futura
 Architecture: iphoneos-arm
 Version: 1.0
