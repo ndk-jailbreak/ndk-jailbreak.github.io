@@ -41,6 +41,10 @@
             {
               "accessibilityText": "Screenshot",
               "url": "https://ndk-jailbreak.github.io/info/weatherls/Screenshots/2.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ndk-jailbreak.github.io/info/weatherls/Screenshots/3.jpg"
             }
           ]
         },
@@ -72,7 +76,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1",
+          "text": "1.2",
           "title": "Phiên bản"
         },
         {
@@ -131,7 +135,7 @@
           "markdown": "<ul>\n<li>Phát hành lần đầu.</li>\n</ul>",
           "useRawFormat": true
         },
-                {
+        {
           "class": "DepictionSubheaderView",
           "title": "1.1",
           "useBoldText": true,
@@ -140,6 +144,17 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "<ul>\n<li>Hỗ trợ thêm iOS 12.</li>\n</ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Thay đổi vị trí đồng hồ và thời tiết cho nhau.</li><li>Fix lỗi không nhảy số của đồng hồ khi phút hoặc giờ thay đổi.</li><li>Tự điều chỉnh cỡ chữ cho máy màn hình nhỏ (5s và se), ngoài 2 thiết bị đó thì chữ sẽ mặc định lớn hơn.</li><li>Giảm dung lượng khi cài đặt.</li></ul>",
           "useRawFormat": true
         }
       ]
