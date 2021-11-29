@@ -45,6 +45,18 @@
             {
               "accessibilityText": "Screenshot",
               "url": "https://ndk-jailbreak.github.io/info/weatherls/Screenshots/3.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ndk-jailbreak.github.io/info/weatherls/Screenshots/4.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ndk-jailbreak.github.io/info/weatherls/Screenshots/5.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ndk-jailbreak.github.io/info/weatherls/Screenshots/6.jpg"
             }
           ]
         },
@@ -76,12 +88,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2",
+          "text": "2.0",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "12.0 - 13.7",
+          "text": "10.0 - 14.8.1",
           "title": "Hỗ trợ"
         },
         {
@@ -155,6 +167,17 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "<ul><li>Thay đổi vị trí đồng hồ và thời tiết cho nhau.</li><li>Fix lỗi không nhảy số của đồng hồ khi phút hoặc giờ thay đổi.</li><li>Tự điều chỉnh cỡ chữ cho máy màn hình nhỏ (5s và se), ngoài 2 thiết bị đó thì chữ sẽ mặc định lớn hơn.</li><li>Giảm dung lượng khi cài đặt.</li></ul>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Fix lỗi không hoạt động trên ios 10. (Đã hỗ trợ luôn cho ios 10 của 32bit, bao gồm iphone 5 và 5c).</li><li>Fix lỗi respring do bị đầy bộ nhớ trên các thiết bị.</li></ul>",
           "useRawFormat": true
         }
       ]
