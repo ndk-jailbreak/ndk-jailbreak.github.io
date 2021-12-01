@@ -18,6 +18,27 @@ Depiction: https://ndk-jailbreak.github.io/info/XenHTML/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/XenHTML.json
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 
+Package: com.ndk.nextmusic
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 700
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.ndk.nextmusic_0.0.1_iphoneos-arm.deb
+Size: 259114
+MD5sum: 8fd7e4c40136b8acc7715cea4c9c54a9
+SHA1: 39fadc8a7df7ba70394813fd9a100d6f938c355e
+SHA256: f8345d2a7f576d47957f57f48b93e32aba32140c52fe7af70e9cd3bac83fd922
+SHA512: 48f39c8928d1af74b0d2a83b061cfd53ec0fae8847d8820d320797aa62dff74ef71b8b16eba05040ea730beaa673205e6e2baa2f37cedfefd832be242b71b3ac
+Homepage: https://ndk-jailbreak.github.io/info/nextmusic/?p=info
+Description: Notify music information with a small banner.
+Name: Next Music
+Depiction: https://ndk-jailbreak.github.io/info/nextmusic/?p=info
+SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/nextmusic.json
+Author: sugiuta
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
 Package: com.ndk.weatherls
 Architecture: iphoneos-arm
 Version: 2.0
