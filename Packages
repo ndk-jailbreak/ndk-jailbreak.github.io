@@ -1,3 +1,94 @@
+Package: com.ndk.accessibilityshortcutlistener
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: KhanhNDK
+Installed-Size: 136
+Depends: mobilesubstrate, libactivator
+Filename: ./debs/com.ndk.accessibilityshortcutlistener_1.0.1_iphoneos-arm.deb
+Size: 10982
+MD5sum: 2f7394de796fbcceff52147699c8d5ed
+SHA1: 13a69100c8862022002fe30502a5dc925120fb3c
+SHA256: 43ad9d923f77564b757f5eddceed2507360ac64020d13c1ecdecf4f52e1a644c
+SHA512: 9a94b9804102d07ec4a412fd47832bec4401436e1a91fe3998569cb5c4c99a560886e5e9b8563067802d5d4ae927acc7bce7ab65e3c239b2f81ab06b7edeb35e
+Description: Trình nghe trình kích hoạt để mô phỏng phím tắt trợ năng nhấp ba lần.
+Name: AccessibilityShortcutListener
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.adaptivedarkmode
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1620
+Pre-Depends: com.spark.libsparkapplist
+Depends: mobilesubstrate
+Filename: ./debs/com.ndk.adaptivedarkmode_1.0.1_iphoneos-arm.deb
+Size: 1045814
+MD5sum: c83c6ab006f799d5aaa627995bcf0646
+SHA1: 89311552c1a60f5ccf6333981cdaf9d0b957ece2
+SHA256: 67693302c1e319344099f1ad1dd13599395aa1fcf9da81471bc4febf3ec76bfc
+SHA512: 04f35c66478b6e62cd3144c40481df3aa885dfa374eec982e4697ac0a9df9f06e69a4c20bc54500eac2bac2701bdf89f3e4f39b882fe0aae8972f3a4f82109f3
+Description: Chế độ tối tự động !
+Name: AdaptiveDarkMode
+Author: smokin1337 <smokin1337@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.advancedbrightnessslider
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Jonas Schiefner
+Installed-Size: 384
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
+Filename: ./debs/com.ndk.advancedbrightnessslider_1.1.0_iphoneos-arm.deb
+Size: 47824
+MD5sum: 6e1c0beca36aca00d9de703ef3535489
+SHA1: c03b4726ec3085850af0d3573c346020eab44802
+SHA256: 3e663cc7de449059dbf19f5444cd433ce136fba663cfd9342ad837e868acc8f8
+SHA512: 8f7fd114093e5717572c3b488dcd17b3f7715f5acbfa5cbd2049c868ad3e88eeb74f7344259a1d35ede2c7db193cf367aea2bfce9139db631e4a245ca87e747a
+Description: Tinh chỉnh để làm mờ màn hình hơn nữa với thanh trượt độ sáng trong Trung tâm điều khiển
+Name: AdvancedBrightnessSlider
+Author: Jonas Schiefner
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.amandus
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Muirey03
+Installed-Size: 360
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.ndk.amandus_1.0.1_iphoneos-arm.deb
+Size: 55886
+MD5sum: 253749b5323880467cc9ff1d881e8f2f
+SHA1: 5686365f1c77628179c08fc077507d6cbc9ffd98
+SHA256: 3a837a8e16bb90f100fa0ae9c6bba3c201b62d7d104a12ea6bd4abed37cfd0a9
+SHA512: 72e1eac6195cb0c274a73669eefe60cb57152db0066c14ce5d94a697e53b97a56f78b9fbe8cc57e2b53b8b151410e05ea27042aac767c882b06df3c65197eae7
+Description: Apple Pay được thiết kế lại!
+Name: Amandus
+Author: Muirey03
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
+Package: com.ndk.analog
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Tweaks
+Maintainer: Ginsu
+Installed-Size: 2232
+Depends: dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, ws.hbang.alderis (>= 1.1), preferenceloader
+Filename: ./debs/com.ndk.analog_1.0.6_iphoneos-arm.deb
+Size: 584546
+MD5sum: cf7705ea9b3dcfa1dab04cc21634c3d7
+SHA1: e3419f3247e258ea42b892f5af77dc76dc8f37d1
+SHA256: 3858585aac55519903395612d59f44a4e62b3179b3b7523116d7c1996d3202aa
+SHA512: c81571a84f35ae4e53751270e44fb215043b189ed4d31027b00337e6ffce5445b27bdef6a7b32b7b23c6891c3f49d1f13c8a8677851fef85416d1df3cabe33b5
+Description: Đồng hồ kim trên màn hình khóa
+Name: Analog
+Author: Ginsu
+Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
+
 Package: com.matchstic.xenhtml
 Architecture: iphoneos-arm
 Version: 2.0~release
@@ -5621,6 +5712,8 @@ Author: nqt1195
 Icon: file:///Applications/Cydia.app/Sections/NDK-Tweaks.png
 Depiction: https://ndk-jailbreak.github.io/info/callassistbar/?p=info
 SileoDepiction: https://ndk-jailbreak.github.io/Sileoinfo/callassistbar.json
+
+
 
 
 
