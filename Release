@@ -3,7 +3,7 @@ Label: NDK's Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm, darwin-amd64
 Components: main
 Description: Kho Lưu Trữ Các Tinh Chỉnh Cho iOS
 MD5Sum:
